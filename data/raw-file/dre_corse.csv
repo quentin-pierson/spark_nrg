@@ -1,0 +1,132 @@
+PRODUCTION,,Unité,2014,2015,2016,2017,2018,2019
+Production d'énergie primaire,,,,,,,,
+P1,Production de charbon,kt,0,0,0,0,0,0
+P2,Production de pétrole,kt,0,0,0,0,0,0
+P3,Production de gaz naturel et grisou,GWh PCS,0,0,0,0,0,0
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,0,0,0,0,0
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,639,504,658,585,835,603
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,0,0,0,0,0
+P8,"  - production de charbon (P1*0,619)",ktep,0,0,0,0,0,0
+P9,  - production de pétrole,ktep,0,0,0,0,0,0
+P10,"  - production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,0,0,0,0,0
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,0,0,0,0,0
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,55,43,57,50,72,52
+P13,Biométhane injecté,GWh PCI,0,0,0,0,0,0
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,0,0,0,0,0
+Électricité,,,,,,,,
+Productions,,,,,,,,
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1471,1522,1533,1605,1662,1573
+E2,Production d'électricité primaire ,GWh,639,504,658,585,835,603
+E4,  - Hydraulique (yc pompage),GWh,483,335,470,Secret induit,638,383
+E6,  - Éolien ,GWh,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire
+E7,  - Solaire photovoltaïque **,GWh,Secret induit,Secret induit,Secret induit,Secret induit,Secret induit,Secret induit
+E8,Production d'électricité nucléaire,GWh,0,0,0,0,0,0
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,832,1018,875,1020,827,970
+E10,  - Gaz naturel,GWh,0,0,0,0,0,0
+E11,  - Pétrole,GWh,Secret induit,Secret induit,Secret induit,Secret induit,Secret induit,Secret induit
+E12,  - Charbon,GWh,0,0,0,0,0,0
+E13,  - Biomasse,GWh,0,0,0,0,0,0
+E14,  - Biogaz,GWh PCI,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire
+E15,  - Déchets urbains,GWh,0,0,0,0,0,0
+E16,  - Déchets industriels,GWh,0,0,0,0,0,0
+E17,  - Géothermie,GWh,0,0,0,0,0,0
+E18,  - Autre,GWh,0,0,0,0,0,0
+E19,Production de chaleur commercialisée,GWh,13,13,12,13,14,14
+E20,  - Gaz naturel,GWh,0,0,0,0,0,0
+E21,  - Pétrole,GWh,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret induit,Secret induit
+E22,  - Charbon,GWh,0,0,0,0,0,0
+E23,  - Biomasse,GWh,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire
+E24,  - Biogaz,GWh PCI,0,0,0,0,0,0
+E25,  - Déchets urbains,GWh,0,0,0,0,0,0
+E26,  - Déchets industriels,GWh,0,0,0,0,0,0
+E27,  - Géothermie,GWh,0,0,0,0,0,0
+E28,  - Autre,GWh,0,0,0,0,0,0
+Combustibles consommés,,,,,,,,
+E29,Consommation de combustibles dans  les centrales thermiques,GWh,2184,2618,2242,2612,2117,2497
+E30,  - Gaz naturel,GWh,0,0,0,0,0,0
+E31,  - Pétrole,GWh,Secret primaire,Secret primaire,Secret primaire,2 555,2 074,2 475
+E32,  - Charbon,GWh,0,0,0,0,0,0
+E33,  - Biomasse,GWh,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire
+E34,  - Biogaz,GWh PCI,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire,Secret primaire
+E35,  - Déchets urbains,GWh,0,0,0,0,0,0
+E36,  - Déchets industriels,GWh,0,0,0,0,0,0
+E37,  - Géothermie,GWh,0,0,0,0,0,0
+E38,  - Autre,GWh,0,0,0,0,0,0
+,,,,,,,,
+,,,,,,,,
+CONSOMMATION FINALE,,Unité,2014,2015,2016,2017,2018,2019
+Consommation finale par secteur,,,,,,,,
+C1,Consommation finale énergétique,ktep,860,860,880,883,876,869
+CI1,Industrie,ktep,10,10,12,12,12,13
+CI3,Charbon,ktep,0,0,0,0,0,0
+CI3b,dont hauts fourneaux,ktep,0,0,0,0,0,0
+CI4,Produits pétroliers,ktep,3,3,3,3,3,4
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,0,0,0,0,0,0
+CI11,Chaleur commercialisée,ktep,0,0,0,0,0,0
+CI5,Gaz naturel (unité propre),GWh PCS,0,0,0,0,0,0
+CI6,Gaz naturel,ktep,0,0,0,0,0,0
+CI7,Électricité (unité propre),GWh,80,82,101,99,96,102
+CI8,Électricité ,ktep,7,7,9,8,8,9
+CTR1,Transport,ktep,269,258,283,294,304,287
+CTR2,Produits pétroliers (hors biocarburants),ktep,253,243,266,275,284,267
+CTR3,Biocarburants,ktep,16,16,17,18,20,19
+CTR4,Supercarburants (livraisons) (yc biocarburants) ,ktep,60,58,65,69,79,86
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,175,164,178,181,185,164
+CTR6,Biocarburants essence,ktep,3,3,4,5,6,6
+CTR7,Biocarburants gazole,ktep,13,12,13,13,14,13
+CTR8,Gaz naturel (unité propre),GWh PCS,0,0,0,0,0,0
+CTR9,Gaz naturel,ktep,0,0,0,0,0,0
+CTR10,Électricité (unité propre),GWh,3,3,2,3,3,3
+CTR11,Électricité ,ktep,0,0,0,0,0,0
+CR1,Résidentiel,ktep,475,490,507,494,473,478
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,338,357,381,367,355,359
+CR2,Produits pétroliers,ktep,50,41,27,28,23,28
+CR3,Gaz naturel (unité propre),GWh PCS,0,0,0,0,0,0
+CR4,Gaz naturel,ktep,0,0,0,0,0,0
+CR5,Électricité (unité propre),GWh,1 007,1 065,1 139,1 156,1 090,1 065
+CR6,Électricité ,ktep,87,92,98,99,94,92
+CR8,Chaleur commercialisée,ktep,0,0,0,0,0,0
+CTE1,Tertiaire,ktep,92,92,68,74,78,81
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,0,0,0,1,2,2
+CTE2,Produits pétroliers,ktep,21,18,10,12,9,13
+CTE3,Gaz naturel (unité propre),GWh PCS,0,0,0,0,0,0
+CTE4,Gaz naturel,ktep,0,0,0,0,0,0
+CTE5,Électricité (unité propre),GWh,822,853,668,716,783,772
+CTE6,Électricité ,ktep,71,73,57,62,67,66
+CTE8,Chaleur commercialisée,ktep,0,0,0,0,0,0
+CA1,Agriculture/sylviculture/pêche,,14,9,9,10,9,10
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,1,1,1,1,1
+CA2,Produits pétroliers,ktep,11,6,7,8,7,8
+CA21,                  dont pêche,ktep,5,2,3,3,3,2
+CA3,Gaz naturel (unité propre),GWh PCS,0,0,0,0,0,0
+CA4,Gaz naturel,ktep,0,0,0,0,0,0
+CA5,Électricité (unité propre),GWh,16,17,15,15,13,15
+CA6,Électricité ,ktep,1,1,1,1,1,1
+CA8,Chaleur commercialisée,ktep,0,0,0,0,0,0
+C2,Consommation finale non énergétique,ktep,0,0,0,0,0,0
+C3,Charbon (hors goudrons de houille),ktep,0,0,0,0,0,0
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,0,0,0,0,0
+C13,Consommation finale non énergétique de gaz,ktep,0,0,0,0,0,0
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,0,0,0,0,0
+Consommation finale énergétique par énergie,,,,,,,,
+C5,Consommation finale énergétique totale,ktep,860,860,880,883,876,869
+C6,Charbon,ktep,0,0,0,0,0,0
+C7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,339,358,383,369,358,361
+C10,  - Biomasse,ktep,337,357,381,367,355,359
+C11,  - Biogaz,ktep,0,0,0,Secret primaire,Secret primaire,Secret primaire
+C12,  - Déchets urbains,ktep,0,0,0,0,0,0
+C13,  - Déchets industriels,ktep,0,0,0,0,0,0
+C14,  - Géothermie,ktep,0,0,0,0,0,0
+C15,  - Solaire thermique,ktep,2,2,2,Secret primaire,Secret primaire,Secret primaire
+C8,Biocarburants *,ktep,16,16,17,19,20,20
+C9,Chaleur commercialisée,ktep,1,1,0,0,1,0
+C30,Produits pétroliers (non compris biocarburants),ktep,338,311,314,325,326,319
+C31,      dont fioul domestique,ktep,39,27,13,13,5,12
+C32,      dont gazole non routier (non compris biocarburants),ktep,12,12,6,8,10,14
+C33,      dont supercarburants (non compris biocarburants),ktep,54,52,59,62,71,76
+C34,      dont gazole routier (non compris biocarburants),ktep,161,151,163,166,169,150
+C35,      dont GPL,ktep,31,29,27,26,26,25
+C16,Gaz naturel,ktep,0,0,0,0,0,0
+C17,Gaz naturel,GWh PCS,0,0,0,0,0,0
+C18,Electricité,ktep,166,174,166,171,171,168
+C19,Electricité,GWh,1 927,2 020,1 925,1 988,1 985,1 956
