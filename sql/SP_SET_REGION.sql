@@ -2,13 +2,12 @@ DELIMITER //
 CREATE PROCEDURE SP_SET_REGION()
     BEGIN
 
-    MERGE D_REGION AS DST
-    USING (SELECT DISTINCT Region AS LB_REGION 
-            FROM D_TEMP AS TMP)
-        AS SRC
-        ON DST.Libelle = SRC.LB_REGION
-    WHEN NOT MATCHED THEN
-    INSERT (LB_REGION)
-    VALUES (SRC.LB_REGION)
+    INSERT INTO D_REGION 
+    (Libelle)
+    SELECT t.Region  
+    FROM D_TEMP t
+    WHERE NOT EXISTS(SELECT Libelle
+                    FROM D_REGION r
+                    WHERE r.Libelle = t.Region);
     END //
 DELIMITER ;

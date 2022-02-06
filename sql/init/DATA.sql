@@ -1,15 +1,15 @@
 CREATE TABLE D_TEMP(
     Code VARCHAR(255),
-    intitule VARCHAR(255),
+    Intitule VARCHAR(255),
     Unite VARCHAR(255),
     Region VARCHAR(255),
     Ressource_type VARCHAR(255),
-    annee1 FLOAT,
-    annee2 FLOAT,
-    annee3 FLOAT,
-    annee4 FLOAT,
-    annee5 FLOAT,
-    annee6 FLOAT
+    Annee1 FLOAT,
+    Annee2 FLOAT,
+    Annee3 FLOAT,
+    Annee4 FLOAT,
+    Annee5 FLOAT,
+    Annee6 FLOAT
 );
 
 CREATE TABLE D_DATE(
@@ -62,14 +62,42 @@ DELIMITER //
 CREATE PROCEDURE SP_SET_REGION()
     BEGIN
 
-    MERGE D_REGION AS DST
-    USING (SELECT DISTINCT Region AS LB_REGION 
-            FROM D_TEMP AS TMP)
-        AS SRC
-        ON DST.Libelle = SRC.LB_REGION
-    WHEN NOT MATCHED THEN
-    INSERT (LB_REGION)
-    VALUES (SRC.LB_REGION)
+    INSERT INTO D_REGION 
+    (Libelle)
+    SELECT t.Region  
+    FROM D_TEMP t
+    WHERE NOT EXISTS(SELECT Libelle
+                    FROM D_REGION r
+                    WHERE r.Libelle = t.Region);
+    END //
+DELIMITER ;
+
+DELIMITER //
+CREATE PROCEDURE SP_SET_SECTEUR_ENERGETIQUE()
+    BEGIN
+
+    INSERT INTO D_SECTEUR_ENERGETIQUE 
+    (Code_Secteur_Energetique, Libelle)
+    SELECT t.Code, t.Intitule  
+    FROM D_TEMP t
+    WHERE NOT EXISTS(SELECT Libelle
+                    FROM D_SECTEUR_ENERGETIQUE se
+                    WHERE se.Code_Secteur_Energetique = t.Code);
+    END //
+DELIMITER ;
+
+DELIMITER //
+CREATE PROCEDURE SP_SET_RESSOURCE()
+    BEGIN
+
+    INSERT INTO D_RESSOURCE 
+    (`Unite_Energetique`, `Valeur_Energetique`, `DT_Year`, `FK_Type_Ressource`, `FK_Region`, `FK_Secteur_Energetique`)
+    SELECT t.Unite, t.Annee1, '2014-01-01', tr.ID_Type_Ressource, r.ID_Region, se.Code_Secteur_Energetique
+    FROM D_TEMP AS t
+    INNER JOIN D_REGION AS r ON t.Region = r.Libelle
+    INNER JOIN D_TYPE_RESSOURCE AS tr ON t.Ressource_type = tr.Libelle
+    INNER JOIN D_REGION AS se ON t.Code = se.Code_Secteur_Energetique;
+
     END //
 DELIMITER ;
 
