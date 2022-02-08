@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,540933,2014,France Metropolitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,546691,2015,France Metropolitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,532418,2016,France Metropolitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,529938,2017,France Metropolitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,550273,2018,France Metropolitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,539354,2019,France Metropolitaine,PRODUCTION
+E10,- Gaz naturel,GWh,"",2014,France Metropolitaine,PRODUCTION
+E10,- Gaz naturel,GWh,"",2015,France Metropolitaine,PRODUCTION
+E10,- Gaz naturel,GWh,"",2016,France Metropolitaine,PRODUCTION
+E10,- Gaz naturel,GWh,"",2017,France Metropolitaine,PRODUCTION
+E10,- Gaz naturel,GWh,"",2018,France Metropolitaine,PRODUCTION
+E10,- Gaz naturel,GWh,"",2019,France Metropolitaine,PRODUCTION
+E11,- Pétrole,GWh,"",2014,France Metropolitaine,PRODUCTION
+E11,- Pétrole,GWh,"",2015,France Metropolitaine,PRODUCTION
+E11,- Pétrole,GWh,"",2016,France Metropolitaine,PRODUCTION
+E11,- Pétrole,GWh,"",2017,France Metropolitaine,PRODUCTION
+E11,- Pétrole,GWh,"",2018,France Metropolitaine,PRODUCTION
+E11,- Pétrole,GWh,"",2019,France Metropolitaine,PRODUCTION
+E12,- Charbon,GWh,"",2014,France Metropolitaine,PRODUCTION
+E12,- Charbon,GWh,"",2015,France Metropolitaine,PRODUCTION
+E12,- Charbon,GWh,"",2016,France Metropolitaine,PRODUCTION
+E12,- Charbon,GWh,"",2017,France Metropolitaine,PRODUCTION
+E12,- Charbon,GWh,"",2018,France Metropolitaine,PRODUCTION
+E12,- Charbon,GWh,"",2019,France Metropolitaine,PRODUCTION
+E13,- Biomasse,GWh,"",2014,France Metropolitaine,PRODUCTION
+E13,- Biomasse,GWh,"",2015,France Metropolitaine,PRODUCTION
+E13,- Biomasse,GWh,"",2016,France Metropolitaine,PRODUCTION
+E13,- Biomasse,GWh,"",2017,France Metropolitaine,PRODUCTION
+E13,- Biomasse,GWh,"",2018,France Metropolitaine,PRODUCTION
+E13,- Biomasse,GWh,"",2019,France Metropolitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2014,France Metropolitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2015,France Metropolitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,France Metropolitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,France Metropolitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,France Metropolitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2019,France Metropolitaine,PRODUCTION
+E15,- Déchets urbains,GWh,"",2014,France Metropolitaine,PRODUCTION
+E15,- Déchets urbains,GWh,"",2015,France Metropolitaine,PRODUCTION
+E15,- Déchets urbains,GWh,"",2016,France Metropolitaine,PRODUCTION
+E15,- Déchets urbains,GWh,"",2017,France Metropolitaine,PRODUCTION
+E15,- Déchets urbains,GWh,"",2018,France Metropolitaine,PRODUCTION
+E15,- Déchets urbains,GWh,"",2019,France Metropolitaine,PRODUCTION
+E16,- Déchets industriels,GWh,167,2014,France Metropolitaine,PRODUCTION
+E16,- Déchets industriels,GWh,237,2015,France Metropolitaine,PRODUCTION
+E16,- Déchets industriels,GWh,237,2016,France Metropolitaine,PRODUCTION
+E16,- Déchets industriels,GWh,198,2017,France Metropolitaine,PRODUCTION
+E16,- Déchets industriels,GWh,182,2018,France Metropolitaine,PRODUCTION
+E16,- Déchets industriels,GWh,216,2019,France Metropolitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2014,France Metropolitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2015,France Metropolitaine,PRODUCTION
+E17,- Géothermie,GWh,"",2016,France Metropolitaine,PRODUCTION
+E17,- Géothermie,GWh,"",2017,France Metropolitaine,PRODUCTION
+E17,- Géothermie,GWh,"",2018,France Metropolitaine,PRODUCTION
+E17,- Géothermie,GWh,"",2019,France Metropolitaine,PRODUCTION
+E18,- Autre,GWh,537,2014,France Metropolitaine,PRODUCTION
+E18,- Autre,GWh,542,2015,France Metropolitaine,PRODUCTION
+E18,- Autre,GWh,561,2016,France Metropolitaine,PRODUCTION
+E18,- Autre,GWh,712,2017,France Metropolitaine,PRODUCTION
+E18,- Autre,GWh,593,2018,France Metropolitaine,PRODUCTION
+E18,- Autre,GWh,527,2019,France Metropolitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,34714,2014,France Metropolitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,39023,2015,France Metropolitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,42568,2016,France Metropolitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,43702,2017,France Metropolitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,43794,2018,France Metropolitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,46011,2019,France Metropolitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,91421,2014,France Metropolitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,87877,2015,France Metropolitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,93943,2016,France Metropolitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,87596,2017,France Metropolitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,107756,2018,France Metropolitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,106775,2019,France Metropolitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2014,France Metropolitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2015,France Metropolitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2016,France Metropolitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2017,France Metropolitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2018,France Metropolitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2019,France Metropolitaine,PRODUCTION
+E21,- Pétrole,GWh,680,2014,France Metropolitaine,PRODUCTION
+E21,- Pétrole,GWh,"",2015,France Metropolitaine,PRODUCTION
+E21,- Pétrole,GWh,453,2016,France Metropolitaine,PRODUCTION
+E21,- Pétrole,GWh,438,2017,France Metropolitaine,PRODUCTION
+E21,- Pétrole,GWh,394,2018,France Metropolitaine,PRODUCTION
+E21,- Pétrole,GWh,241,2019,France Metropolitaine,PRODUCTION
+E22,- Charbon,GWh,"",2014,France Metropolitaine,PRODUCTION
+E22,- Charbon,GWh,"",2015,France Metropolitaine,PRODUCTION
+E22,- Charbon,GWh,"",2016,France Metropolitaine,PRODUCTION
+E22,- Charbon,GWh,"",2017,France Metropolitaine,PRODUCTION
+E22,- Charbon,GWh,"",2018,France Metropolitaine,PRODUCTION
+E22,- Charbon,GWh,"",2019,France Metropolitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2014,France Metropolitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2015,France Metropolitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2016,France Metropolitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2017,France Metropolitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2018,France Metropolitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2019,France Metropolitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,270,2014,France Metropolitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,418,2015,France Metropolitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,477,2016,France Metropolitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,686,2017,France Metropolitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,800,2018,France Metropolitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,886,2019,France Metropolitaine,PRODUCTION
+E25,- Déchets urbains,GWh,"",2014,France Metropolitaine,PRODUCTION
+E25,- Déchets urbains,GWh,"",2015,France Metropolitaine,PRODUCTION
+E25,- Déchets urbains,GWh,"",2016,France Metropolitaine,PRODUCTION
+E25,- Déchets urbains,GWh,"",2017,France Metropolitaine,PRODUCTION
+E25,- Déchets urbains,GWh,"",2018,France Metropolitaine,PRODUCTION
+E25,- Déchets urbains,GWh,"",2019,France Metropolitaine,PRODUCTION
+E26,- Déchets industriels,GWh,65,2014,France Metropolitaine,PRODUCTION
+E26,- Déchets industriels,GWh,70,2015,France Metropolitaine,PRODUCTION
+E26,- Déchets industriels,GWh,90,2016,France Metropolitaine,PRODUCTION
+E26,- Déchets industriels,GWh,95,2017,France Metropolitaine,PRODUCTION
+E26,- Déchets industriels,GWh,106,2018,France Metropolitaine,PRODUCTION
+E26,- Déchets industriels,GWh,122,2019,France Metropolitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2014,France Metropolitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2015,France Metropolitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2016,France Metropolitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2017,France Metropolitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2018,France Metropolitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2019,France Metropolitaine,PRODUCTION
+E28,- Autre,GWh,864,2014,France Metropolitaine,PRODUCTION
+E28,- Autre,GWh,958,2015,France Metropolitaine,PRODUCTION
+E28,- Autre,GWh,"",2016,France Metropolitaine,PRODUCTION
+E28,- Autre,GWh,"",2017,France Metropolitaine,PRODUCTION
+E28,- Autre,GWh,953,2018,France Metropolitaine,PRODUCTION
+E28,- Autre,GWh,"",2019,France Metropolitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2014,France Metropolitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2015,France Metropolitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2016,France Metropolitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,France Metropolitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2018,France Metropolitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2019,France Metropolitaine,PRODUCTION
+E6,- Éolien,GWh,"",2014,France Metropolitaine,PRODUCTION
+E6,- Éolien,GWh,"",2015,France Metropolitaine,PRODUCTION
+E6,- Éolien,GWh,"",2016,France Metropolitaine,PRODUCTION
+E6,- Éolien,GWh,"",2017,France Metropolitaine,PRODUCTION
+E6,- Éolien,GWh,"",2018,France Metropolitaine,PRODUCTION
+E6,- Éolien,GWh,"",2019,France Metropolitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2014,France Metropolitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2015,France Metropolitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2016,France Metropolitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2017,France Metropolitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2018,France Metropolitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2019,France Metropolitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2014,France Metropolitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2015,France Metropolitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2016,France Metropolitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2017,France Metropolitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2018,France Metropolitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2019,France Metropolitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,33650,2014,France Metropolitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,42019,2015,France Metropolitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,54468,2016,France Metropolitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,63248,2017,France Metropolitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,49383,2018,France Metropolitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,53115,2019,France Metropolitaine,PRODUCTION
+P1,Production de charbon,kt,0,2014,France Metropolitaine,PRODUCTION
+P1,Production de charbon,kt,0,2015,France Metropolitaine,PRODUCTION
+P1,Production de charbon,kt,0,2016,France Metropolitaine,PRODUCTION
+P1,Production de charbon,kt,0,2017,France Metropolitaine,PRODUCTION
+P1,Production de charbon,kt,0,2018,France Metropolitaine,PRODUCTION
+P1,Production de charbon,kt,0,2019,France Metropolitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,13,2014,France Metropolitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,19,2015,France Metropolitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,18,2016,France Metropolitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,14,2017,France Metropolitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,8,2018,France Metropolitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,14,2019,France Metropolitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,108357,2014,France Metropolitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,108600,2015,France Metropolitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,100057,2016,France Metropolitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,98776,2017,France Metropolitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,102435,2018,France Metropolitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,98873,2019,France Metropolitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,7861,2014,France Metropolitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,7556,2015,France Metropolitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,8078,2016,France Metropolitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,7532,2017,France Metropolitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,9265,2018,France Metropolitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,9181,2019,France Metropolitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,28,2014,France Metropolitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,74,2015,France Metropolitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,194,2016,France Metropolitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,365,2017,France Metropolitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,642,2018,France Metropolitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,"",2019,France Metropolitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2014,France Metropolitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,6,2015,France Metropolitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,17,2016,France Metropolitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,31,2017,France Metropolitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,55,2018,France Metropolitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,96,2019,France Metropolitaine,PRODUCTION
+P2,Production de pétrole,kt,766,2014,France Metropolitaine,PRODUCTION
+P2,Production de pétrole,kt,836,2015,France Metropolitaine,PRODUCTION
+P2,Production de pétrole,kt,815,2016,France Metropolitaine,PRODUCTION
+P2,Production de pétrole,kt,758,2017,France Metropolitaine,PRODUCTION
+P2,Production de pétrole,kt,774,2018,France Metropolitaine,PRODUCTION
+P2,Production de pétrole,kt,725,2019,France Metropolitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,162,2014,France Metropolitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,247,2015,France Metropolitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,232,2016,France Metropolitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,183,2017,France Metropolitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,100,2018,France Metropolitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,185,2019,France Metropolitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,1260187,2014,France Metropolitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,1263015,2015,France Metropolitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,1163661,2016,France Metropolitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,1148770,2017,France Metropolitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,1191316,2018,France Metropolitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,1149891,2019,France Metropolitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,91421,2014,France Metropolitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,87877,2015,France Metropolitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,93943,2016,France Metropolitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,87596,2017,France Metropolitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,107756,2018,France Metropolitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,106775,2019,France Metropolitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,796,2014,France Metropolitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,873,2015,France Metropolitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,851,2016,France Metropolitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,789,2017,France Metropolitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,798,2018,France Metropolitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,755,2019,France Metropolitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,France Metropolitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,France Metropolitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,France Metropolitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,France Metropolitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,France Metropolitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,France Metropolitaine,PRODUCTION
+P9,- production de pétrole,ktep,783,2014,France Metropolitaine,PRODUCTION
+P9,- production de pétrole,ktep,854,2015,France Metropolitaine,PRODUCTION
+P9,- production de pétrole,ktep,833,2016,France Metropolitaine,PRODUCTION
+P9,- production de pétrole,ktep,775,2017,France Metropolitaine,PRODUCTION
+P9,- production de pétrole,ktep,791,2018,France Metropolitaine,PRODUCTION
+P9,- production de pétrole,ktep,741,2019,France Metropolitaine,PRODUCTION

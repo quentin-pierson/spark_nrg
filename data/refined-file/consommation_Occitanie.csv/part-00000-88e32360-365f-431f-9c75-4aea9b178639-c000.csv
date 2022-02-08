@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,10224,2014,Occitanie,CONSOMMATION
+C1,Consommation finale énergétique,ktep,10415,2015,Occitanie,CONSOMMATION
+C1,Consommation finale énergétique,ktep,10666,2016,Occitanie,CONSOMMATION
+C1,Consommation finale énergétique,ktep,10652,2017,Occitanie,CONSOMMATION
+C1,Consommation finale énergétique,ktep,10702,2018,Occitanie,CONSOMMATION
+C1,Consommation finale énergétique,ktep,10654,2019,Occitanie,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Occitanie,CONSOMMATION
+C13,- Déchets industriels,ktep,44,2014,Occitanie,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Occitanie,CONSOMMATION
+C13,- Déchets industriels,ktep,39,2015,Occitanie,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Occitanie,CONSOMMATION
+C13,- Déchets industriels,ktep,44,2016,Occitanie,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Occitanie,CONSOMMATION
+C13,- Déchets industriels,ktep,45,2017,Occitanie,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Occitanie,CONSOMMATION
+C13,- Déchets industriels,ktep,48,2018,Occitanie,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Occitanie,CONSOMMATION
+C13,- Déchets industriels,ktep,36,2019,Occitanie,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Occitanie,CONSOMMATION
+C14,- Géothermie,ktep,12,2014,Occitanie,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Occitanie,CONSOMMATION
+C14,- Géothermie,ktep,12,2015,Occitanie,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Occitanie,CONSOMMATION
+C14,- Géothermie,ktep,12,2016,Occitanie,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Occitanie,CONSOMMATION
+C14,- Géothermie,ktep,12,2017,Occitanie,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Occitanie,CONSOMMATION
+C14,- Géothermie,ktep,"",2018,Occitanie,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Occitanie,CONSOMMATION
+C14,- Géothermie,ktep,12,2019,Occitanie,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2014,Occitanie,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2015,Occitanie,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2016,Occitanie,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2017,Occitanie,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2018,Occitanie,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2019,Occitanie,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2014,Occitanie,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Occitanie,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2016,Occitanie,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2017,Occitanie,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2018,Occitanie,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2019,Occitanie,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Occitanie,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Occitanie,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Occitanie,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Occitanie,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Occitanie,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Occitanie,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",364,2014,Occitanie,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",365,2015,Occitanie,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",370,2016,Occitanie,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",351,2017,Occitanie,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",352,2018,Occitanie,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",334,2019,Occitanie,CONSOMMATION
+CA2,Produits pétroliers,ktep,276,2014,Occitanie,CONSOMMATION
+CA2,Produits pétroliers,ktep,279,2015,Occitanie,CONSOMMATION
+CA2,Produits pétroliers,ktep,284,2016,Occitanie,CONSOMMATION
+CA2,Produits pétroliers,ktep,265,2017,Occitanie,CONSOMMATION
+CA2,Produits pétroliers,ktep,269,2018,Occitanie,CONSOMMATION
+CA2,Produits pétroliers,ktep,254,2019,Occitanie,CONSOMMATION
+CA21,dont pêche,ktep,14,2014,Occitanie,CONSOMMATION
+CA21,dont pêche,ktep,17,2015,Occitanie,CONSOMMATION
+CA21,dont pêche,ktep,17,2016,Occitanie,CONSOMMATION
+CA21,dont pêche,ktep,16,2017,Occitanie,CONSOMMATION
+CA21,dont pêche,ktep,16,2018,Occitanie,CONSOMMATION
+CA21,dont pêche,ktep,17,2019,Occitanie,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,148,2014,Occitanie,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,81,2015,Occitanie,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,66,2016,Occitanie,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,74,2017,Occitanie,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,75,2018,Occitanie,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,82,2019,Occitanie,CONSOMMATION
+CA4,Gaz naturel,ktep,11,2014,Occitanie,CONSOMMATION
+CA4,Gaz naturel,ktep,6,2015,Occitanie,CONSOMMATION
+CA4,Gaz naturel,ktep,5,2016,Occitanie,CONSOMMATION
+CA4,Gaz naturel,ktep,6,2017,Occitanie,CONSOMMATION
+CA4,Gaz naturel,ktep,6,2018,Occitanie,CONSOMMATION
+CA4,Gaz naturel,ktep,6,2019,Occitanie,CONSOMMATION
+CA5,Électricité (unité propre),GWh,726,2014,Occitanie,CONSOMMATION
+CA5,Électricité (unité propre),GWh,749,2015,Occitanie,CONSOMMATION
+CA5,Électricité (unité propre),GWh,770,2016,Occitanie,CONSOMMATION
+CA5,Électricité (unité propre),GWh,758,2017,Occitanie,CONSOMMATION
+CA5,Électricité (unité propre),GWh,722,2018,Occitanie,CONSOMMATION
+CA5,Électricité (unité propre),GWh,680,2019,Occitanie,CONSOMMATION
+CA6,Électricité,ktep,62,2014,Occitanie,CONSOMMATION
+CA6,Électricité,ktep,64,2015,Occitanie,CONSOMMATION
+CA6,Électricité,ktep,66,2016,Occitanie,CONSOMMATION
+CA6,Électricité,ktep,65,2017,Occitanie,CONSOMMATION
+CA6,Électricité,ktep,62,2018,Occitanie,CONSOMMATION
+CA6,Électricité,ktep,58,2019,Occitanie,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,15,2014,Occitanie,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,15,2015,Occitanie,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,15,2016,Occitanie,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,15,2017,Occitanie,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,16,2018,Occitanie,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,15,2019,Occitanie,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Occitanie,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Occitanie,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Occitanie,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Occitanie,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Occitanie,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Occitanie,CONSOMMATION
+CI1,Industrie,ktep,1257,2014,Occitanie,CONSOMMATION
+CI1,Industrie,ktep,1229,2015,Occitanie,CONSOMMATION
+CI1,Industrie,ktep,1210,2016,Occitanie,CONSOMMATION
+CI1,Industrie,ktep,1235,2017,Occitanie,CONSOMMATION
+CI1,Industrie,ktep,1382,2018,Occitanie,CONSOMMATION
+CI1,Industrie,ktep,1357,2019,Occitanie,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2014,Occitanie,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2015,Occitanie,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2016,Occitanie,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2017,Occitanie,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2018,Occitanie,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2019,Occitanie,CONSOMMATION
+CI3,Charbon,ktep,"",2014,Occitanie,CONSOMMATION
+CI3,Charbon,ktep,"",2015,Occitanie,CONSOMMATION
+CI3,Charbon,ktep,"",2016,Occitanie,CONSOMMATION
+CI3,Charbon,ktep,"",2017,Occitanie,CONSOMMATION
+CI3,Charbon,ktep,"",2018,Occitanie,CONSOMMATION
+CI3,Charbon,ktep,"",2019,Occitanie,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Occitanie,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Occitanie,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Occitanie,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Occitanie,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Occitanie,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Occitanie,CONSOMMATION
+CI4,Produits pétroliers,ktep,223,2014,Occitanie,CONSOMMATION
+CI4,Produits pétroliers,ktep,213,2015,Occitanie,CONSOMMATION
+CI4,Produits pétroliers,ktep,221,2016,Occitanie,CONSOMMATION
+CI4,Produits pétroliers,ktep,219,2017,Occitanie,CONSOMMATION
+CI4,Produits pétroliers,ktep,232,2018,Occitanie,CONSOMMATION
+CI4,Produits pétroliers,ktep,245,2019,Occitanie,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Occitanie,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Occitanie,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Occitanie,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Occitanie,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Occitanie,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Occitanie,CONSOMMATION
+CI6,Gaz naturel,ktep,284,2014,Occitanie,CONSOMMATION
+CI6,Gaz naturel,ktep,291,2015,Occitanie,CONSOMMATION
+CI6,Gaz naturel,ktep,237,2016,Occitanie,CONSOMMATION
+CI6,Gaz naturel,ktep,246,2017,Occitanie,CONSOMMATION
+CI6,Gaz naturel,ktep,350,2018,Occitanie,CONSOMMATION
+CI6,Gaz naturel,ktep,347,2019,Occitanie,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Occitanie,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Occitanie,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Occitanie,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Occitanie,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Occitanie,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Occitanie,CONSOMMATION
+CI8,Électricité,ktep,479,2014,Occitanie,CONSOMMATION
+CI8,Électricité,ktep,477,2015,Occitanie,CONSOMMATION
+CI8,Électricité,ktep,486,2016,Occitanie,CONSOMMATION
+CI8,Électricité,ktep,491,2017,Occitanie,CONSOMMATION
+CI8,Électricité,ktep,489,2018,Occitanie,CONSOMMATION
+CI8,Électricité,ktep,469,2019,Occitanie,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,217,2014,Occitanie,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,198,2015,Occitanie,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,209,2016,Occitanie,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,207,2017,Occitanie,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,224,2018,Occitanie,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,214,2019,Occitanie,CONSOMMATION
+CR1,Résidentiel,ktep,2780,2014,Occitanie,CONSOMMATION
+CR1,Résidentiel,ktep,2875,2015,Occitanie,CONSOMMATION
+CR1,Résidentiel,ktep,3040,2016,Occitanie,CONSOMMATION
+CR1,Résidentiel,ktep,2996,2017,Occitanie,CONSOMMATION
+CR1,Résidentiel,ktep,2970,2018,Occitanie,CONSOMMATION
+CR1,Résidentiel,ktep,2921,2019,Occitanie,CONSOMMATION
+CR2,Produits pétroliers,ktep,341,2014,Occitanie,CONSOMMATION
+CR2,Produits pétroliers,ktep,358,2015,Occitanie,CONSOMMATION
+CR2,Produits pétroliers,ktep,396,2016,Occitanie,CONSOMMATION
+CR2,Produits pétroliers,ktep,408,2017,Occitanie,CONSOMMATION
+CR2,Produits pétroliers,ktep,377,2018,Occitanie,CONSOMMATION
+CR2,Produits pétroliers,ktep,357,2019,Occitanie,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Occitanie,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Occitanie,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Occitanie,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Occitanie,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Occitanie,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Occitanie,CONSOMMATION
+CR4,Gaz naturel,ktep,685,2014,Occitanie,CONSOMMATION
+CR4,Gaz naturel,ktep,682,2015,Occitanie,CONSOMMATION
+CR4,Gaz naturel,ktep,745,2016,Occitanie,CONSOMMATION
+CR4,Gaz naturel,ktep,712,2017,Occitanie,CONSOMMATION
+CR4,Gaz naturel,ktep,706,2018,Occitanie,CONSOMMATION
+CR4,Gaz naturel,ktep,687,2019,Occitanie,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Occitanie,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Occitanie,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Occitanie,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Occitanie,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Occitanie,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Occitanie,CONSOMMATION
+CR6,Électricité,ktep,"",2014,Occitanie,CONSOMMATION
+CR6,Électricité,ktep,"",2015,Occitanie,CONSOMMATION
+CR6,Électricité,ktep,"",2016,Occitanie,CONSOMMATION
+CR6,Électricité,ktep,"",2017,Occitanie,CONSOMMATION
+CR6,Électricité,ktep,"",2018,Occitanie,CONSOMMATION
+CR6,Électricité,ktep,"",2019,Occitanie,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,434,2014,Occitanie,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,458,2015,Occitanie,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,489,2016,Occitanie,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,470,2017,Occitanie,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,456,2018,Occitanie,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,460,2019,Occitanie,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,22,2014,Occitanie,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,24,2015,Occitanie,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,26,2016,Occitanie,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,30,2017,Occitanie,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,25,2018,Occitanie,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,29,2019,Occitanie,CONSOMMATION
+CTE1,Tertiaire,ktep,1491,2014,Occitanie,CONSOMMATION
+CTE1,Tertiaire,ktep,1538,2015,Occitanie,CONSOMMATION
+CTE1,Tertiaire,ktep,1555,2016,Occitanie,CONSOMMATION
+CTE1,Tertiaire,ktep,1585,2017,Occitanie,CONSOMMATION
+CTE1,Tertiaire,ktep,1593,2018,Occitanie,CONSOMMATION
+CTE1,Tertiaire,ktep,1581,2019,Occitanie,CONSOMMATION
+CTE2,Produits pétroliers,ktep,151,2014,Occitanie,CONSOMMATION
+CTE2,Produits pétroliers,ktep,168,2015,Occitanie,CONSOMMATION
+CTE2,Produits pétroliers,ktep,188,2016,Occitanie,CONSOMMATION
+CTE2,Produits pétroliers,ktep,206,2017,Occitanie,CONSOMMATION
+CTE2,Produits pétroliers,ktep,198,2018,Occitanie,CONSOMMATION
+CTE2,Produits pétroliers,ktep,196,2019,Occitanie,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Occitanie,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Occitanie,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Occitanie,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Occitanie,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Occitanie,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Occitanie,CONSOMMATION
+CTE4,Gaz naturel,ktep,313,2014,Occitanie,CONSOMMATION
+CTE4,Gaz naturel,ktep,306,2015,Occitanie,CONSOMMATION
+CTE4,Gaz naturel,ktep,305,2016,Occitanie,CONSOMMATION
+CTE4,Gaz naturel,ktep,305,2017,Occitanie,CONSOMMATION
+CTE4,Gaz naturel,ktep,335,2018,Occitanie,CONSOMMATION
+CTE4,Gaz naturel,ktep,325,2019,Occitanie,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Occitanie,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Occitanie,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Occitanie,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Occitanie,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Occitanie,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Occitanie,CONSOMMATION
+CTE6,Électricité,ktep,966,2014,Occitanie,CONSOMMATION
+CTE6,Électricité,ktep,997,2015,Occitanie,CONSOMMATION
+CTE6,Électricité,ktep,"",2016,Occitanie,CONSOMMATION
+CTE6,Électricité,ktep,"",2017,Occitanie,CONSOMMATION
+CTE6,Électricité,ktep,"",2018,Occitanie,CONSOMMATION
+CTE6,Électricité,ktep,995,2019,Occitanie,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,39,2014,Occitanie,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,44,2015,Occitanie,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,42,2016,Occitanie,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,46,2017,Occitanie,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,40,2018,Occitanie,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,40,2019,Occitanie,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,22,2014,Occitanie,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,23,2015,Occitanie,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,20,2016,Occitanie,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,20,2017,Occitanie,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,16,2018,Occitanie,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,24,2019,Occitanie,CONSOMMATION
+CTR1,Transport,ktep,4333,2014,Occitanie,CONSOMMATION
+CTR1,Transport,ktep,4407,2015,Occitanie,CONSOMMATION
+CTR1,Transport,ktep,4491,2016,Occitanie,CONSOMMATION
+CTR1,Transport,ktep,4484,2017,Occitanie,CONSOMMATION
+CTR1,Transport,ktep,4404,2018,Occitanie,CONSOMMATION
+CTR1,Transport,ktep,4461,2019,Occitanie,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,480,2014,Occitanie,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,500,2015,Occitanie,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,488,2016,Occitanie,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,495,2017,Occitanie,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,463,2018,Occitanie,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,466,2019,Occitanie,CONSOMMATION
+CTR11,Électricité,ktep,41,2014,Occitanie,CONSOMMATION
+CTR11,Électricité,ktep,43,2015,Occitanie,CONSOMMATION
+CTR11,Électricité,ktep,42,2016,Occitanie,CONSOMMATION
+CTR11,Électricité,ktep,43,2017,Occitanie,CONSOMMATION
+CTR11,Électricité,ktep,40,2018,Occitanie,CONSOMMATION
+CTR11,Électricité,ktep,40,2019,Occitanie,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Occitanie,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Occitanie,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Occitanie,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Occitanie,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Occitanie,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Occitanie,CONSOMMATION
+CTR3,Biocarburants,ktep,277,2014,Occitanie,CONSOMMATION
+CTR3,Biocarburants,ktep,283,2015,Occitanie,CONSOMMATION
+CTR3,Biocarburants,ktep,287,2016,Occitanie,CONSOMMATION
+CTR3,Biocarburants,ktep,297,2017,Occitanie,CONSOMMATION
+CTR3,Biocarburants,ktep,298,2018,Occitanie,CONSOMMATION
+CTR3,Biocarburants,ktep,308,2019,Occitanie,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,669,2014,Occitanie,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,677,2015,Occitanie,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,708,2016,Occitanie,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,740,2017,Occitanie,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,774,2018,Occitanie,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,843,2019,Occitanie,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Occitanie,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Occitanie,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Occitanie,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Occitanie,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Occitanie,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Occitanie,CONSOMMATION
+CTR6,Biocarburants essence,ktep,38,2014,Occitanie,CONSOMMATION
+CTR6,Biocarburants essence,ktep,40,2015,Occitanie,CONSOMMATION
+CTR6,Biocarburants essence,ktep,44,2016,Occitanie,CONSOMMATION
+CTR6,Biocarburants essence,ktep,50,2017,Occitanie,CONSOMMATION
+CTR6,Biocarburants essence,ktep,55,2018,Occitanie,CONSOMMATION
+CTR6,Biocarburants essence,ktep,62,2019,Occitanie,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,239,2014,Occitanie,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,243,2015,Occitanie,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,243,2016,Occitanie,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,246,2017,Occitanie,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,242,2018,Occitanie,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,245,2019,Occitanie,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,109,2014,Occitanie,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,106,2015,Occitanie,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,111,2016,Occitanie,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,117,2017,Occitanie,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,130,2018,Occitanie,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,147,2019,Occitanie,CONSOMMATION
+CTR9,Gaz naturel,ktep,8,2014,Occitanie,CONSOMMATION
+CTR9,Gaz naturel,ktep,8,2015,Occitanie,CONSOMMATION
+CTR9,Gaz naturel,ktep,9,2016,Occitanie,CONSOMMATION
+CTR9,Gaz naturel,ktep,9,2017,Occitanie,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2018,Occitanie,CONSOMMATION
+CTR9,Gaz naturel,ktep,11,2019,Occitanie,CONSOMMATION

@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,120289,2014,Auvergne Rhone Alpes,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,121896,2015,Auvergne Rhone Alpes,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,108897,2016,Auvergne Rhone Alpes,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,108896,2017,Auvergne Rhone Alpes,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,115223,2018,Auvergne Rhone Alpes,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,119056,2019,Auvergne Rhone Alpes,PRODUCTION
+E10,- Gaz naturel,GWh,978,2014,Auvergne Rhone Alpes,PRODUCTION
+E10,- Gaz naturel,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E10,- Gaz naturel,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E10,- Gaz naturel,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E10,- Gaz naturel,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E10,- Gaz naturel,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E11,- Pétrole,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E11,- Pétrole,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E11,- Pétrole,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E11,- Pétrole,GWh,67,2017,Auvergne Rhone Alpes,PRODUCTION
+E11,- Pétrole,GWh,100,2018,Auvergne Rhone Alpes,PRODUCTION
+E11,- Pétrole,GWh,113,2019,Auvergne Rhone Alpes,PRODUCTION
+E12,- Charbon,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E12,- Charbon,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E12,- Charbon,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E12,- Charbon,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E12,- Charbon,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E12,- Charbon,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E13,- Biomasse,GWh,125,2014,Auvergne Rhone Alpes,PRODUCTION
+E13,- Biomasse,GWh,124,2015,Auvergne Rhone Alpes,PRODUCTION
+E13,- Biomasse,GWh,215,2016,Auvergne Rhone Alpes,PRODUCTION
+E13,- Biomasse,GWh,187,2017,Auvergne Rhone Alpes,PRODUCTION
+E13,- Biomasse,GWh,256,2018,Auvergne Rhone Alpes,PRODUCTION
+E13,- Biomasse,GWh,243,2019,Auvergne Rhone Alpes,PRODUCTION
+E14,- Biogaz,GWh PCI,115,2014,Auvergne Rhone Alpes,PRODUCTION
+E14,- Biogaz,GWh PCI,128,2015,Auvergne Rhone Alpes,PRODUCTION
+E14,- Biogaz,GWh PCI,164,2016,Auvergne Rhone Alpes,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E15,- Déchets urbains,GWh,487,2014,Auvergne Rhone Alpes,PRODUCTION
+E15,- Déchets urbains,GWh,472,2015,Auvergne Rhone Alpes,PRODUCTION
+E15,- Déchets urbains,GWh,451,2016,Auvergne Rhone Alpes,PRODUCTION
+E15,- Déchets urbains,GWh,483,2017,Auvergne Rhone Alpes,PRODUCTION
+E15,- Déchets urbains,GWh,513,2018,Auvergne Rhone Alpes,PRODUCTION
+E15,- Déchets urbains,GWh,500,2019,Auvergne Rhone Alpes,PRODUCTION
+E16,- Déchets industriels,GWh,41,2014,Auvergne Rhone Alpes,PRODUCTION
+E16,- Déchets industriels,GWh,78,2015,Auvergne Rhone Alpes,PRODUCTION
+E16,- Déchets industriels,GWh,89,2016,Auvergne Rhone Alpes,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Auvergne Rhone Alpes,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Auvergne Rhone Alpes,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Auvergne Rhone Alpes,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Auvergne Rhone Alpes,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Auvergne Rhone Alpes,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Auvergne Rhone Alpes,PRODUCTION
+E18,- Autre,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E18,- Autre,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E18,- Autre,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E18,- Autre,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E18,- Autre,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E18,- Autre,GWh,0,2019,Auvergne Rhone Alpes,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4244,2014,Auvergne Rhone Alpes,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4310,2015,Auvergne Rhone Alpes,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4490,2016,Auvergne Rhone Alpes,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4367,2017,Auvergne Rhone Alpes,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4284,2018,Auvergne Rhone Alpes,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4621,2019,Auvergne Rhone Alpes,PRODUCTION
+E2,Production d'électricité primaire,GWh,30532,2014,Auvergne Rhone Alpes,PRODUCTION
+E2,Production d'électricité primaire,GWh,28268,2015,Auvergne Rhone Alpes,PRODUCTION
+E2,Production d'électricité primaire,GWh,30385,2016,Auvergne Rhone Alpes,PRODUCTION
+E2,Production d'électricité primaire,GWh,25659,2017,Auvergne Rhone Alpes,PRODUCTION
+E2,Production d'électricité primaire,GWh,32400,2018,Auvergne Rhone Alpes,PRODUCTION
+E2,Production d'électricité primaire,GWh,29961,2019,Auvergne Rhone Alpes,PRODUCTION
+E20,- Gaz naturel,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E20,- Gaz naturel,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E20,- Gaz naturel,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E20,- Gaz naturel,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E20,- Gaz naturel,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E20,- Gaz naturel,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E21,- Pétrole,GWh,100,2014,Auvergne Rhone Alpes,PRODUCTION
+E21,- Pétrole,GWh,96,2015,Auvergne Rhone Alpes,PRODUCTION
+E21,- Pétrole,GWh,51,2016,Auvergne Rhone Alpes,PRODUCTION
+E21,- Pétrole,GWh,88,2017,Auvergne Rhone Alpes,PRODUCTION
+E21,- Pétrole,GWh,105,2018,Auvergne Rhone Alpes,PRODUCTION
+E21,- Pétrole,GWh,79,2019,Auvergne Rhone Alpes,PRODUCTION
+E22,- Charbon,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E22,- Charbon,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E22,- Charbon,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E22,- Charbon,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E22,- Charbon,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E22,- Charbon,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E23,- Biomasse,GWh,913,2014,Auvergne Rhone Alpes,PRODUCTION
+E23,- Biomasse,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E23,- Biomasse,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E23,- Biomasse,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E23,- Biomasse,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E23,- Biomasse,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E24,- Biogaz,GWh PCI,65,2017,Auvergne Rhone Alpes,PRODUCTION
+E24,- Biogaz,GWh PCI,64,2018,Auvergne Rhone Alpes,PRODUCTION
+E24,- Biogaz,GWh PCI,77,2019,Auvergne Rhone Alpes,PRODUCTION
+E25,- Déchets urbains,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E25,- Déchets urbains,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E25,- Déchets urbains,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E25,- Déchets urbains,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E25,- Déchets urbains,GWh,940,2018,Auvergne Rhone Alpes,PRODUCTION
+E25,- Déchets urbains,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E26,- Déchets industriels,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E26,- Déchets industriels,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E26,- Déchets industriels,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E26,- Déchets industriels,GWh,0,2017,Auvergne Rhone Alpes,PRODUCTION
+E26,- Déchets industriels,GWh,0,2018,Auvergne Rhone Alpes,PRODUCTION
+E26,- Déchets industriels,GWh,0,2019,Auvergne Rhone Alpes,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Auvergne Rhone Alpes,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Auvergne Rhone Alpes,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Auvergne Rhone Alpes,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Auvergne Rhone Alpes,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Auvergne Rhone Alpes,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Auvergne Rhone Alpes,PRODUCTION
+E28,- Autre,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E28,- Autre,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E28,- Autre,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E28,- Autre,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E28,- Autre,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E28,- Autre,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E6,- Éolien,GWh,784,2014,Auvergne Rhone Alpes,PRODUCTION
+E6,- Éolien,GWh,803,2015,Auvergne Rhone Alpes,PRODUCTION
+E6,- Éolien,GWh,872,2016,Auvergne Rhone Alpes,PRODUCTION
+E6,- Éolien,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E6,- Éolien,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E6,- Éolien,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,627,2014,Auvergne Rhone Alpes,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,759,2015,Auvergne Rhone Alpes,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,805,2016,Auvergne Rhone Alpes,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,883,2017,Auvergne Rhone Alpes,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2014,Auvergne Rhone Alpes,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2015,Auvergne Rhone Alpes,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2016,Auvergne Rhone Alpes,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2017,Auvergne Rhone Alpes,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2018,Auvergne Rhone Alpes,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2019,Auvergne Rhone Alpes,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1877,2014,Auvergne Rhone Alpes,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2756,2015,Auvergne Rhone Alpes,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3506,2016,Auvergne Rhone Alpes,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3247,2017,Auvergne Rhone Alpes,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2624,2018,Auvergne Rhone Alpes,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3265,2019,Auvergne Rhone Alpes,PRODUCTION
+P1,Production de charbon,kt,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P1,Production de charbon,kt,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P1,Production de charbon,kt,0,2016,Auvergne Rhone Alpes,PRODUCTION
+P1,Production de charbon,kt,0,2017,Auvergne Rhone Alpes,PRODUCTION
+P1,Production de charbon,kt,0,2018,Auvergne Rhone Alpes,PRODUCTION
+P1,Production de charbon,kt,0,2019,Auvergne Rhone Alpes,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Auvergne Rhone Alpes,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Auvergne Rhone Alpes,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Auvergne Rhone Alpes,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Auvergne Rhone Alpes,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,22898,2014,Auvergne Rhone Alpes,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,23677,2015,Auvergne Rhone Alpes,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,19544,2016,Auvergne Rhone Alpes,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,20842,2017,Auvergne Rhone Alpes,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,20897,2018,Auvergne Rhone Alpes,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,22364,2019,Auvergne Rhone Alpes,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,2625,2014,Auvergne Rhone Alpes,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,2431,2015,Auvergne Rhone Alpes,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,2613,2016,Auvergne Rhone Alpes,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,2206,2017,Auvergne Rhone Alpes,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,2786,2018,Auvergne Rhone Alpes,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,2576,2019,Auvergne Rhone Alpes,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P13,Biométhane injecté,GWh PCI,1,2015,Auvergne Rhone Alpes,PRODUCTION
+P13,Biométhane injecté,GWh PCI,7,2016,Auvergne Rhone Alpes,PRODUCTION
+P13,Biométhane injecté,GWh PCI,32,2017,Auvergne Rhone Alpes,PRODUCTION
+P13,Biométhane injecté,GWh PCI,41,2018,Auvergne Rhone Alpes,PRODUCTION
+P13,Biométhane injecté,GWh PCI,61,2019,Auvergne Rhone Alpes,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2016,Auvergne Rhone Alpes,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,3,2017,Auvergne Rhone Alpes,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,4,2018,Auvergne Rhone Alpes,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,5,2019,Auvergne Rhone Alpes,PRODUCTION
+P2,Production de pétrole,kt,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P2,Production de pétrole,kt,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P2,Production de pétrole,kt,0,2016,Auvergne Rhone Alpes,PRODUCTION
+P2,Production de pétrole,kt,0,2017,Auvergne Rhone Alpes,PRODUCTION
+P2,Production de pétrole,kt,0,2018,Auvergne Rhone Alpes,PRODUCTION
+P2,Production de pétrole,kt,0,2019,Auvergne Rhone Alpes,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Auvergne Rhone Alpes,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Auvergne Rhone Alpes,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Auvergne Rhone Alpes,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Auvergne Rhone Alpes,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,266302,2014,Auvergne Rhone Alpes,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,275368,2015,Auvergne Rhone Alpes,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,227294,2016,Auvergne Rhone Alpes,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,242398,2017,Auvergne Rhone Alpes,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,243029,2018,Auvergne Rhone Alpes,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,260090,2019,Auvergne Rhone Alpes,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,30532,2014,Auvergne Rhone Alpes,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,28268,2015,Auvergne Rhone Alpes,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,30385,2016,Auvergne Rhone Alpes,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,25659,2017,Auvergne Rhone Alpes,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,32400,2018,Auvergne Rhone Alpes,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,29961,2019,Auvergne Rhone Alpes,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2016,Auvergne Rhone Alpes,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2017,Auvergne Rhone Alpes,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2018,Auvergne Rhone Alpes,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2019,Auvergne Rhone Alpes,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Auvergne Rhone Alpes,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Auvergne Rhone Alpes,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Auvergne Rhone Alpes,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Auvergne Rhone Alpes,PRODUCTION
+P9,- production de pétrole,ktep,0,2014,Auvergne Rhone Alpes,PRODUCTION
+P9,- production de pétrole,ktep,0,2015,Auvergne Rhone Alpes,PRODUCTION
+P9,- production de pétrole,ktep,0,2016,Auvergne Rhone Alpes,PRODUCTION
+P9,- production de pétrole,ktep,0,2017,Auvergne Rhone Alpes,PRODUCTION
+P9,- production de pétrole,ktep,0,2018,Auvergne Rhone Alpes,PRODUCTION
+P9,- production de pétrole,ktep,0,2019,Auvergne Rhone Alpes,PRODUCTION

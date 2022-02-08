@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,5421,2014,Pays De La Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,5992,2015,Pays De La Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,6249,2016,Pays De La Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,9137,2017,Pays De La Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,7336,2018,Pays De La Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,6592,2019,Pays De La Loire,PRODUCTION
+E10,- Gaz naturel,GWh,797,2014,Pays De La Loire,PRODUCTION
+E10,- Gaz naturel,GWh,"",2015,Pays De La Loire,PRODUCTION
+E10,- Gaz naturel,GWh,"",2016,Pays De La Loire,PRODUCTION
+E10,- Gaz naturel,GWh,"",2017,Pays De La Loire,PRODUCTION
+E10,- Gaz naturel,GWh,"",2018,Pays De La Loire,PRODUCTION
+E10,- Gaz naturel,GWh,"",2019,Pays De La Loire,PRODUCTION
+E11,- Pétrole,GWh,92,2014,Pays De La Loire,PRODUCTION
+E11,- Pétrole,GWh,70,2015,Pays De La Loire,PRODUCTION
+E11,- Pétrole,GWh,126,2016,Pays De La Loire,PRODUCTION
+E11,- Pétrole,GWh,"",2017,Pays De La Loire,PRODUCTION
+E11,- Pétrole,GWh,"",2018,Pays De La Loire,PRODUCTION
+E11,- Pétrole,GWh,6,2019,Pays De La Loire,PRODUCTION
+E12,- Charbon,GWh,"",2014,Pays De La Loire,PRODUCTION
+E12,- Charbon,GWh,"",2015,Pays De La Loire,PRODUCTION
+E12,- Charbon,GWh,"",2016,Pays De La Loire,PRODUCTION
+E12,- Charbon,GWh,"",2017,Pays De La Loire,PRODUCTION
+E12,- Charbon,GWh,"",2018,Pays De La Loire,PRODUCTION
+E12,- Charbon,GWh,"",2019,Pays De La Loire,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Pays De La Loire,PRODUCTION
+E13,- Biomasse,GWh,"",2015,Pays De La Loire,PRODUCTION
+E13,- Biomasse,GWh,"",2016,Pays De La Loire,PRODUCTION
+E13,- Biomasse,GWh,74,2017,Pays De La Loire,PRODUCTION
+E13,- Biomasse,GWh,"",2018,Pays De La Loire,PRODUCTION
+E13,- Biomasse,GWh,"",2019,Pays De La Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,125,2014,Pays De La Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,119,2015,Pays De La Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Pays De La Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,146,2017,Pays De La Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,165,2018,Pays De La Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,184,2019,Pays De La Loire,PRODUCTION
+E15,- Déchets urbains,GWh,122,2014,Pays De La Loire,PRODUCTION
+E15,- Déchets urbains,GWh,120,2015,Pays De La Loire,PRODUCTION
+E15,- Déchets urbains,GWh,158,2016,Pays De La Loire,PRODUCTION
+E15,- Déchets urbains,GWh,163,2017,Pays De La Loire,PRODUCTION
+E15,- Déchets urbains,GWh,145,2018,Pays De La Loire,PRODUCTION
+E15,- Déchets urbains,GWh,149,2019,Pays De La Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Pays De La Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Pays De La Loire,PRODUCTION
+E16,- Déchets industriels,GWh,0,2016,Pays De La Loire,PRODUCTION
+E16,- Déchets industriels,GWh,0,2017,Pays De La Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Pays De La Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Pays De La Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Pays De La Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Pays De La Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Pays De La Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Pays De La Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Pays De La Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Pays De La Loire,PRODUCTION
+E18,- Autre,GWh,0,2014,Pays De La Loire,PRODUCTION
+E18,- Autre,GWh,0,2015,Pays De La Loire,PRODUCTION
+E18,- Autre,GWh,0,2016,Pays De La Loire,PRODUCTION
+E18,- Autre,GWh,0,2017,Pays De La Loire,PRODUCTION
+E18,- Autre,GWh,0,2018,Pays De La Loire,PRODUCTION
+E18,- Autre,GWh,0,2019,Pays De La Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1294,2014,Pays De La Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1385,2015,Pays De La Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1516,2016,Pays De La Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1641,2017,Pays De La Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1913,2018,Pays De La Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1828,2019,Pays De La Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,1493,2014,Pays De La Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,1792,2015,Pays De La Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,1849,2016,Pays De La Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2001,2017,Pays De La Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2389,2018,Pays De La Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2750,2019,Pays De La Loire,PRODUCTION
+E20,- Gaz naturel,GWh,654,2014,Pays De La Loire,PRODUCTION
+E20,- Gaz naturel,GWh,705,2015,Pays De La Loire,PRODUCTION
+E20,- Gaz naturel,GWh,746,2016,Pays De La Loire,PRODUCTION
+E20,- Gaz naturel,GWh,815,2017,Pays De La Loire,PRODUCTION
+E20,- Gaz naturel,GWh,974,2018,Pays De La Loire,PRODUCTION
+E20,- Gaz naturel,GWh,826,2019,Pays De La Loire,PRODUCTION
+E21,- Pétrole,GWh,"",2014,Pays De La Loire,PRODUCTION
+E21,- Pétrole,GWh,6,2015,Pays De La Loire,PRODUCTION
+E21,- Pétrole,GWh,0,2016,Pays De La Loire,PRODUCTION
+E21,- Pétrole,GWh,0,2017,Pays De La Loire,PRODUCTION
+E21,- Pétrole,GWh,2,2018,Pays De La Loire,PRODUCTION
+E21,- Pétrole,GWh,0,2019,Pays De La Loire,PRODUCTION
+E22,- Charbon,GWh,0,2014,Pays De La Loire,PRODUCTION
+E22,- Charbon,GWh,0,2015,Pays De La Loire,PRODUCTION
+E22,- Charbon,GWh,0,2016,Pays De La Loire,PRODUCTION
+E22,- Charbon,GWh,0,2017,Pays De La Loire,PRODUCTION
+E22,- Charbon,GWh,"",2018,Pays De La Loire,PRODUCTION
+E22,- Charbon,GWh,0,2019,Pays De La Loire,PRODUCTION
+E23,- Biomasse,GWh,245,2014,Pays De La Loire,PRODUCTION
+E23,- Biomasse,GWh,281,2015,Pays De La Loire,PRODUCTION
+E23,- Biomasse,GWh,332,2016,Pays De La Loire,PRODUCTION
+E23,- Biomasse,GWh,364,2017,Pays De La Loire,PRODUCTION
+E23,- Biomasse,GWh,371,2018,Pays De La Loire,PRODUCTION
+E23,- Biomasse,GWh,416,2019,Pays De La Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Pays De La Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Pays De La Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,63,2016,Pays De La Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2017,Pays De La Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,85,2018,Pays De La Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2019,Pays De La Loire,PRODUCTION
+E25,- Déchets urbains,GWh,352,2014,Pays De La Loire,PRODUCTION
+E25,- Déchets urbains,GWh,348,2015,Pays De La Loire,PRODUCTION
+E25,- Déchets urbains,GWh,375,2016,Pays De La Loire,PRODUCTION
+E25,- Déchets urbains,GWh,381,2017,Pays De La Loire,PRODUCTION
+E25,- Déchets urbains,GWh,427,2018,Pays De La Loire,PRODUCTION
+E25,- Déchets urbains,GWh,496,2019,Pays De La Loire,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Pays De La Loire,PRODUCTION
+E26,- Déchets industriels,GWh,"",2015,Pays De La Loire,PRODUCTION
+E26,- Déchets industriels,GWh,0,2016,Pays De La Loire,PRODUCTION
+E26,- Déchets industriels,GWh,0,2017,Pays De La Loire,PRODUCTION
+E26,- Déchets industriels,GWh,0,2018,Pays De La Loire,PRODUCTION
+E26,- Déchets industriels,GWh,0,2019,Pays De La Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Pays De La Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Pays De La Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Pays De La Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Pays De La Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Pays De La Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Pays De La Loire,PRODUCTION
+E28,- Autre,GWh,0,2014,Pays De La Loire,PRODUCTION
+E28,- Autre,GWh,0,2015,Pays De La Loire,PRODUCTION
+E28,- Autre,GWh,0,2016,Pays De La Loire,PRODUCTION
+E28,- Autre,GWh,"",2017,Pays De La Loire,PRODUCTION
+E28,- Autre,GWh,"",2018,Pays De La Loire,PRODUCTION
+E28,- Autre,GWh,"",2019,Pays De La Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,24,2014,Pays De La Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,18,2015,Pays De La Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,19,2016,Pays De La Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,11,2017,Pays De La Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,20,2018,Pays De La Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,19,2019,Pays De La Loire,PRODUCTION
+E6,- Éolien,GWh,"",2014,Pays De La Loire,PRODUCTION
+E6,- Éolien,GWh,"",2015,Pays De La Loire,PRODUCTION
+E6,- Éolien,GWh,"",2016,Pays De La Loire,PRODUCTION
+E6,- Éolien,GWh,"",2017,Pays De La Loire,PRODUCTION
+E6,- Éolien,GWh,"",2018,Pays De La Loire,PRODUCTION
+E6,- Éolien,GWh,"",2019,Pays De La Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,360,2014,Pays De La Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,417,2015,Pays De La Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,435,2016,Pays De La Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,478,2017,Pays De La Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,554,2018,Pays De La Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,610,2019,Pays De La Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2014,Pays De La Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2015,Pays De La Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2016,Pays De La Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2017,Pays De La Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2018,Pays De La Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2019,Pays De La Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3928,2014,Pays De La Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,4200,2015,Pays De La Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,4399,2016,Pays De La Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,7136,2017,Pays De La Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,4947,2018,Pays De La Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3842,2019,Pays De La Loire,PRODUCTION
+P1,Production de charbon,kt,0,2014,Pays De La Loire,PRODUCTION
+P1,Production de charbon,kt,0,2015,Pays De La Loire,PRODUCTION
+P1,Production de charbon,kt,0,2016,Pays De La Loire,PRODUCTION
+P1,Production de charbon,kt,0,2017,Pays De La Loire,PRODUCTION
+P1,Production de charbon,kt,0,2018,Pays De La Loire,PRODUCTION
+P1,Production de charbon,kt,0,2019,Pays De La Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Pays De La Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Pays De La Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Pays De La Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Pays De La Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Pays De La Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Pays De La Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2014,Pays De La Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2015,Pays De La Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2016,Pays De La Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2017,Pays De La Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2018,Pays De La Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2019,Pays De La Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,128,2014,Pays De La Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,154,2015,Pays De La Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,159,2016,Pays De La Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,172,2017,Pays De La Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,205,2018,Pays De La Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,236,2019,Pays De La Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,3,2014,Pays De La Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,2,2015,Pays De La Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,7,2016,Pays De La Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,16,2017,Pays De La Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,61,2018,Pays De La Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,102,2019,Pays De La Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Pays De La Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Pays De La Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2016,Pays De La Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2017,Pays De La Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,5,2018,Pays De La Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,9,2019,Pays De La Loire,PRODUCTION
+P2,Production de pétrole,kt,0,2014,Pays De La Loire,PRODUCTION
+P2,Production de pétrole,kt,0,2015,Pays De La Loire,PRODUCTION
+P2,Production de pétrole,kt,0,2016,Pays De La Loire,PRODUCTION
+P2,Production de pétrole,kt,0,2017,Pays De La Loire,PRODUCTION
+P2,Production de pétrole,kt,0,2018,Pays De La Loire,PRODUCTION
+P2,Production de pétrole,kt,0,2019,Pays De La Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Pays De La Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Pays De La Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Pays De La Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Pays De La Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Pays De La Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Pays De La Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2014,Pays De La Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2015,Pays De La Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2016,Pays De La Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2017,Pays De La Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2018,Pays De La Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2019,Pays De La Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1493,2014,Pays De La Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1792,2015,Pays De La Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1849,2016,Pays De La Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2001,2017,Pays De La Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2389,2018,Pays De La Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2750,2019,Pays De La Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2014,Pays De La Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2015,Pays De La Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2016,Pays De La Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2017,Pays De La Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2018,Pays De La Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2019,Pays De La Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Pays De La Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Pays De La Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Pays De La Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Pays De La Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Pays De La Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Pays De La Loire,PRODUCTION
+P9,- production de pétrole,ktep,0,2014,Pays De La Loire,PRODUCTION
+P9,- production de pétrole,ktep,0,2015,Pays De La Loire,PRODUCTION
+P9,- production de pétrole,ktep,0,2016,Pays De La Loire,PRODUCTION
+P9,- production de pétrole,ktep,0,2017,Pays De La Loire,PRODUCTION
+P9,- production de pétrole,ktep,0,2018,Pays De La Loire,PRODUCTION
+P9,- production de pétrole,ktep,0,2019,Pays De La Loire,PRODUCTION

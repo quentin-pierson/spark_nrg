@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,50290,2014,Nouvelle Aquitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,48282,2015,Nouvelle Aquitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,51656,2016,Nouvelle Aquitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,54368,2017,Nouvelle Aquitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,56963,2018,Nouvelle Aquitaine,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,58608,2019,Nouvelle Aquitaine,PRODUCTION
+E10,- Gaz naturel,GWh,349,2014,Nouvelle Aquitaine,PRODUCTION
+E10,- Gaz naturel,GWh,508,2015,Nouvelle Aquitaine,PRODUCTION
+E10,- Gaz naturel,GWh,587,2016,Nouvelle Aquitaine,PRODUCTION
+E10,- Gaz naturel,GWh,721,2017,Nouvelle Aquitaine,PRODUCTION
+E10,- Gaz naturel,GWh,675,2018,Nouvelle Aquitaine,PRODUCTION
+E10,- Gaz naturel,GWh,768,2019,Nouvelle Aquitaine,PRODUCTION
+E11,- Pétrole,GWh,17,2014,Nouvelle Aquitaine,PRODUCTION
+E11,- Pétrole,GWh,17,2015,Nouvelle Aquitaine,PRODUCTION
+E11,- Pétrole,GWh,19,2016,Nouvelle Aquitaine,PRODUCTION
+E11,- Pétrole,GWh,9,2017,Nouvelle Aquitaine,PRODUCTION
+E11,- Pétrole,GWh,11,2018,Nouvelle Aquitaine,PRODUCTION
+E11,- Pétrole,GWh,10,2019,Nouvelle Aquitaine,PRODUCTION
+E12,- Charbon,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E12,- Charbon,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E12,- Charbon,GWh,0,2016,Nouvelle Aquitaine,PRODUCTION
+E12,- Charbon,GWh,0,2017,Nouvelle Aquitaine,PRODUCTION
+E12,- Charbon,GWh,0,2018,Nouvelle Aquitaine,PRODUCTION
+E12,- Charbon,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E13,- Biomasse,GWh,714,2014,Nouvelle Aquitaine,PRODUCTION
+E13,- Biomasse,GWh,809,2015,Nouvelle Aquitaine,PRODUCTION
+E13,- Biomasse,GWh,882,2016,Nouvelle Aquitaine,PRODUCTION
+E13,- Biomasse,GWh,920,2017,Nouvelle Aquitaine,PRODUCTION
+E13,- Biomasse,GWh,916,2018,Nouvelle Aquitaine,PRODUCTION
+E13,- Biomasse,GWh,966,2019,Nouvelle Aquitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2014,Nouvelle Aquitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,153,2015,Nouvelle Aquitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Nouvelle Aquitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Nouvelle Aquitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Nouvelle Aquitaine,PRODUCTION
+E14,- Biogaz,GWh PCI,214,2019,Nouvelle Aquitaine,PRODUCTION
+E15,- Déchets urbains,GWh,174,2014,Nouvelle Aquitaine,PRODUCTION
+E15,- Déchets urbains,GWh,183,2015,Nouvelle Aquitaine,PRODUCTION
+E15,- Déchets urbains,GWh,219,2016,Nouvelle Aquitaine,PRODUCTION
+E15,- Déchets urbains,GWh,268,2017,Nouvelle Aquitaine,PRODUCTION
+E15,- Déchets urbains,GWh,270,2018,Nouvelle Aquitaine,PRODUCTION
+E15,- Déchets urbains,GWh,289,2019,Nouvelle Aquitaine,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Nouvelle Aquitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Nouvelle Aquitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Nouvelle Aquitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Nouvelle Aquitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Nouvelle Aquitaine,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Nouvelle Aquitaine,PRODUCTION
+E18,- Autre,GWh,280,2014,Nouvelle Aquitaine,PRODUCTION
+E18,- Autre,GWh,303,2015,Nouvelle Aquitaine,PRODUCTION
+E18,- Autre,GWh,303,2016,Nouvelle Aquitaine,PRODUCTION
+E18,- Autre,GWh,329,2017,Nouvelle Aquitaine,PRODUCTION
+E18,- Autre,GWh,310,2018,Nouvelle Aquitaine,PRODUCTION
+E18,- Autre,GWh,303,2019,Nouvelle Aquitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,6081,2014,Nouvelle Aquitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,6552,2015,Nouvelle Aquitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,7091,2016,Nouvelle Aquitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,7567,2017,Nouvelle Aquitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,7024,2018,Nouvelle Aquitaine,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,7638,2019,Nouvelle Aquitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,6091,2014,Nouvelle Aquitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,5862,2015,Nouvelle Aquitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,7225,2016,Nouvelle Aquitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,6771,2017,Nouvelle Aquitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,8772,2018,Nouvelle Aquitaine,PRODUCTION
+E2,Production d'électricité primaire,GWh,8683,2019,Nouvelle Aquitaine,PRODUCTION
+E20,- Gaz naturel,GWh,567,2014,Nouvelle Aquitaine,PRODUCTION
+E20,- Gaz naturel,GWh,666,2015,Nouvelle Aquitaine,PRODUCTION
+E20,- Gaz naturel,GWh,883,2016,Nouvelle Aquitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E20,- Gaz naturel,GWh,934,2018,Nouvelle Aquitaine,PRODUCTION
+E20,- Gaz naturel,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E21,- Pétrole,GWh,25,2014,Nouvelle Aquitaine,PRODUCTION
+E21,- Pétrole,GWh,20,2015,Nouvelle Aquitaine,PRODUCTION
+E21,- Pétrole,GWh,28,2016,Nouvelle Aquitaine,PRODUCTION
+E21,- Pétrole,GWh,24,2017,Nouvelle Aquitaine,PRODUCTION
+E21,- Pétrole,GWh,22,2018,Nouvelle Aquitaine,PRODUCTION
+E21,- Pétrole,GWh,23,2019,Nouvelle Aquitaine,PRODUCTION
+E22,- Charbon,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E22,- Charbon,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E22,- Charbon,GWh,0,2016,Nouvelle Aquitaine,PRODUCTION
+E22,- Charbon,GWh,0,2017,Nouvelle Aquitaine,PRODUCTION
+E22,- Charbon,GWh,0,2018,Nouvelle Aquitaine,PRODUCTION
+E22,- Charbon,GWh,0,2019,Nouvelle Aquitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E23,- Biomasse,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,29,2014,Nouvelle Aquitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,62,2015,Nouvelle Aquitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,96,2016,Nouvelle Aquitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,102,2017,Nouvelle Aquitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,113,2018,Nouvelle Aquitaine,PRODUCTION
+E24,- Biogaz,GWh PCI,144,2019,Nouvelle Aquitaine,PRODUCTION
+E25,- Déchets urbains,GWh,340,2014,Nouvelle Aquitaine,PRODUCTION
+E25,- Déchets urbains,GWh,241,2015,Nouvelle Aquitaine,PRODUCTION
+E25,- Déchets urbains,GWh,371,2016,Nouvelle Aquitaine,PRODUCTION
+E25,- Déchets urbains,GWh,446,2017,Nouvelle Aquitaine,PRODUCTION
+E25,- Déchets urbains,GWh,459,2018,Nouvelle Aquitaine,PRODUCTION
+E25,- Déchets urbains,GWh,458,2019,Nouvelle Aquitaine,PRODUCTION
+E26,- Déchets industriels,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E26,- Déchets industriels,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E26,- Déchets industriels,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E26,- Déchets industriels,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E26,- Déchets industriels,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E26,- Déchets industriels,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E27,- Géothermie,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E28,- Autre,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E28,- Autre,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E28,- Autre,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E28,- Autre,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E28,- Autre,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E28,- Autre,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E6,- Éolien,GWh,832,2014,Nouvelle Aquitaine,PRODUCTION
+E6,- Éolien,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E6,- Éolien,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E6,- Éolien,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E6,- Éolien,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E6,- Éolien,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2014,Nouvelle Aquitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2015,Nouvelle Aquitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2016,Nouvelle Aquitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2017,Nouvelle Aquitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2018,Nouvelle Aquitaine,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2019,Nouvelle Aquitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1652,2014,Nouvelle Aquitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2021,2015,Nouvelle Aquitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2222,2016,Nouvelle Aquitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2454,2017,Nouvelle Aquitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2416,2018,Nouvelle Aquitaine,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2606,2019,Nouvelle Aquitaine,PRODUCTION
+P1,Production de charbon,kt,0,2014,Nouvelle Aquitaine,PRODUCTION
+P1,Production de charbon,kt,0,2015,Nouvelle Aquitaine,PRODUCTION
+P1,Production de charbon,kt,0,2016,Nouvelle Aquitaine,PRODUCTION
+P1,Production de charbon,kt,0,2017,Nouvelle Aquitaine,PRODUCTION
+P1,Production de charbon,kt,0,2018,Nouvelle Aquitaine,PRODUCTION
+P1,Production de charbon,kt,0,2019,Nouvelle Aquitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Nouvelle Aquitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Nouvelle Aquitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Nouvelle Aquitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Nouvelle Aquitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Nouvelle Aquitaine,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Nouvelle Aquitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,11086,2014,Nouvelle Aquitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,10526,2015,Nouvelle Aquitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,10998,2016,Nouvelle Aquitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,11763,2017,Nouvelle Aquitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,11927,2018,Nouvelle Aquitaine,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,12330,2019,Nouvelle Aquitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,524,2014,Nouvelle Aquitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,504,2015,Nouvelle Aquitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,621,2016,Nouvelle Aquitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,582,2017,Nouvelle Aquitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,754,2018,Nouvelle Aquitaine,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,747,2019,Nouvelle Aquitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Nouvelle Aquitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,12,2015,Nouvelle Aquitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,28,2016,Nouvelle Aquitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,40,2017,Nouvelle Aquitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,57,2018,Nouvelle Aquitaine,PRODUCTION
+P13,Biométhane injecté,GWh PCI,108,2019,Nouvelle Aquitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Nouvelle Aquitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2015,Nouvelle Aquitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2016,Nouvelle Aquitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,3,2017,Nouvelle Aquitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,5,2018,Nouvelle Aquitaine,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,9,2019,Nouvelle Aquitaine,PRODUCTION
+P2,Production de pétrole,kt,"",2014,Nouvelle Aquitaine,PRODUCTION
+P2,Production de pétrole,kt,"",2015,Nouvelle Aquitaine,PRODUCTION
+P2,Production de pétrole,kt,"",2016,Nouvelle Aquitaine,PRODUCTION
+P2,Production de pétrole,kt,"",2017,Nouvelle Aquitaine,PRODUCTION
+P2,Production de pétrole,kt,"",2018,Nouvelle Aquitaine,PRODUCTION
+P2,Production de pétrole,kt,"",2019,Nouvelle Aquitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Nouvelle Aquitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Nouvelle Aquitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Nouvelle Aquitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Nouvelle Aquitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Nouvelle Aquitaine,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Nouvelle Aquitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,128933,2014,Nouvelle Aquitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,122422,2015,Nouvelle Aquitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,127908,2016,Nouvelle Aquitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,136798,2017,Nouvelle Aquitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,138713,2018,Nouvelle Aquitaine,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,143394,2019,Nouvelle Aquitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,6091,2014,Nouvelle Aquitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,5862,2015,Nouvelle Aquitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,7225,2016,Nouvelle Aquitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,6771,2017,Nouvelle Aquitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,8772,2018,Nouvelle Aquitaine,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,8683,2019,Nouvelle Aquitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2014,Nouvelle Aquitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2015,Nouvelle Aquitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2016,Nouvelle Aquitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2017,Nouvelle Aquitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2018,Nouvelle Aquitaine,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2019,Nouvelle Aquitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Nouvelle Aquitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Nouvelle Aquitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Nouvelle Aquitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Nouvelle Aquitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Nouvelle Aquitaine,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Nouvelle Aquitaine,PRODUCTION
+P9,- production de pétrole,ktep,"",2014,Nouvelle Aquitaine,PRODUCTION
+P9,- production de pétrole,ktep,"",2015,Nouvelle Aquitaine,PRODUCTION
+P9,- production de pétrole,ktep,"",2016,Nouvelle Aquitaine,PRODUCTION
+P9,- production de pétrole,ktep,"",2017,Nouvelle Aquitaine,PRODUCTION
+P9,- production de pétrole,ktep,"",2018,Nouvelle Aquitaine,PRODUCTION
+P9,- production de pétrole,ktep,"",2019,Nouvelle Aquitaine,PRODUCTION

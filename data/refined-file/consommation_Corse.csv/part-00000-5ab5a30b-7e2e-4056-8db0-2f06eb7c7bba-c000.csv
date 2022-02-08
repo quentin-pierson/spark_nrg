@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,860,2014,Corse,CONSOMMATION
+C1,Consommation finale énergétique,ktep,860,2015,Corse,CONSOMMATION
+C1,Consommation finale énergétique,ktep,880,2016,Corse,CONSOMMATION
+C1,Consommation finale énergétique,ktep,883,2017,Corse,CONSOMMATION
+C1,Consommation finale énergétique,ktep,876,2018,Corse,CONSOMMATION
+C1,Consommation finale énergétique,ktep,869,2019,Corse,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Corse,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2014,Corse,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Corse,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2015,Corse,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Corse,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2016,Corse,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Corse,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2017,Corse,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Corse,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2018,Corse,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Corse,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2019,Corse,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Corse,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Corse,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Corse,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Corse,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Corse,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Corse,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Corse,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Corse,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Corse,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Corse,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Corse,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Corse,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2014,Corse,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2015,Corse,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2016,Corse,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2017,Corse,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2018,Corse,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2019,Corse,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2014,Corse,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2015,Corse,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2016,Corse,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2017,Corse,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2018,Corse,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2019,Corse,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Corse,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Corse,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Corse,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Corse,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Corse,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Corse,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",14,2014,Corse,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",9,2015,Corse,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",9,2016,Corse,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",10,2017,Corse,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",9,2018,Corse,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",10,2019,Corse,CONSOMMATION
+CA2,Produits pétroliers,ktep,11,2014,Corse,CONSOMMATION
+CA2,Produits pétroliers,ktep,6,2015,Corse,CONSOMMATION
+CA2,Produits pétroliers,ktep,7,2016,Corse,CONSOMMATION
+CA2,Produits pétroliers,ktep,8,2017,Corse,CONSOMMATION
+CA2,Produits pétroliers,ktep,7,2018,Corse,CONSOMMATION
+CA2,Produits pétroliers,ktep,8,2019,Corse,CONSOMMATION
+CA21,dont pêche,ktep,5,2014,Corse,CONSOMMATION
+CA21,dont pêche,ktep,2,2015,Corse,CONSOMMATION
+CA21,dont pêche,ktep,3,2016,Corse,CONSOMMATION
+CA21,dont pêche,ktep,3,2017,Corse,CONSOMMATION
+CA21,dont pêche,ktep,3,2018,Corse,CONSOMMATION
+CA21,dont pêche,ktep,2,2019,Corse,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,0,2014,Corse,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,0,2015,Corse,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,0,2016,Corse,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,0,2017,Corse,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,0,2018,Corse,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,0,2019,Corse,CONSOMMATION
+CA4,Gaz naturel,ktep,0,2014,Corse,CONSOMMATION
+CA4,Gaz naturel,ktep,0,2015,Corse,CONSOMMATION
+CA4,Gaz naturel,ktep,0,2016,Corse,CONSOMMATION
+CA4,Gaz naturel,ktep,0,2017,Corse,CONSOMMATION
+CA4,Gaz naturel,ktep,0,2018,Corse,CONSOMMATION
+CA4,Gaz naturel,ktep,0,2019,Corse,CONSOMMATION
+CA5,Électricité (unité propre),GWh,16,2014,Corse,CONSOMMATION
+CA5,Électricité (unité propre),GWh,17,2015,Corse,CONSOMMATION
+CA5,Électricité (unité propre),GWh,15,2016,Corse,CONSOMMATION
+CA5,Électricité (unité propre),GWh,15,2017,Corse,CONSOMMATION
+CA5,Électricité (unité propre),GWh,13,2018,Corse,CONSOMMATION
+CA5,Électricité (unité propre),GWh,15,2019,Corse,CONSOMMATION
+CA6,Électricité,ktep,1,2014,Corse,CONSOMMATION
+CA6,Électricité,ktep,1,2015,Corse,CONSOMMATION
+CA6,Électricité,ktep,1,2016,Corse,CONSOMMATION
+CA6,Électricité,ktep,1,2017,Corse,CONSOMMATION
+CA6,Électricité,ktep,1,2018,Corse,CONSOMMATION
+CA6,Électricité,ktep,1,2019,Corse,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2014,Corse,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2015,Corse,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2016,Corse,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2017,Corse,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2018,Corse,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2019,Corse,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Corse,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Corse,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Corse,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Corse,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Corse,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Corse,CONSOMMATION
+CI1,Industrie,ktep,10,2014,Corse,CONSOMMATION
+CI1,Industrie,ktep,10,2015,Corse,CONSOMMATION
+CI1,Industrie,ktep,12,2016,Corse,CONSOMMATION
+CI1,Industrie,ktep,12,2017,Corse,CONSOMMATION
+CI1,Industrie,ktep,12,2018,Corse,CONSOMMATION
+CI1,Industrie,ktep,13,2019,Corse,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,0,2014,Corse,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,0,2015,Corse,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,0,2016,Corse,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,0,2017,Corse,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,0,2018,Corse,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,0,2019,Corse,CONSOMMATION
+CI3,Charbon,ktep,0,2014,Corse,CONSOMMATION
+CI3,Charbon,ktep,0,2015,Corse,CONSOMMATION
+CI3,Charbon,ktep,0,2016,Corse,CONSOMMATION
+CI3,Charbon,ktep,0,2017,Corse,CONSOMMATION
+CI3,Charbon,ktep,0,2018,Corse,CONSOMMATION
+CI3,Charbon,ktep,0,2019,Corse,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Corse,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Corse,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Corse,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Corse,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Corse,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Corse,CONSOMMATION
+CI4,Produits pétroliers,ktep,3,2014,Corse,CONSOMMATION
+CI4,Produits pétroliers,ktep,3,2015,Corse,CONSOMMATION
+CI4,Produits pétroliers,ktep,3,2016,Corse,CONSOMMATION
+CI4,Produits pétroliers,ktep,3,2017,Corse,CONSOMMATION
+CI4,Produits pétroliers,ktep,3,2018,Corse,CONSOMMATION
+CI4,Produits pétroliers,ktep,4,2019,Corse,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,0,2014,Corse,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,0,2015,Corse,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,0,2016,Corse,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,0,2017,Corse,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,0,2018,Corse,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,0,2019,Corse,CONSOMMATION
+CI6,Gaz naturel,ktep,0,2014,Corse,CONSOMMATION
+CI6,Gaz naturel,ktep,0,2015,Corse,CONSOMMATION
+CI6,Gaz naturel,ktep,0,2016,Corse,CONSOMMATION
+CI6,Gaz naturel,ktep,0,2017,Corse,CONSOMMATION
+CI6,Gaz naturel,ktep,0,2018,Corse,CONSOMMATION
+CI6,Gaz naturel,ktep,0,2019,Corse,CONSOMMATION
+CI7,Électricité (unité propre),GWh,80,2014,Corse,CONSOMMATION
+CI7,Électricité (unité propre),GWh,82,2015,Corse,CONSOMMATION
+CI7,Électricité (unité propre),GWh,101,2016,Corse,CONSOMMATION
+CI7,Électricité (unité propre),GWh,99,2017,Corse,CONSOMMATION
+CI7,Électricité (unité propre),GWh,96,2018,Corse,CONSOMMATION
+CI7,Électricité (unité propre),GWh,102,2019,Corse,CONSOMMATION
+CI8,Électricité,ktep,7,2014,Corse,CONSOMMATION
+CI8,Électricité,ktep,7,2015,Corse,CONSOMMATION
+CI8,Électricité,ktep,9,2016,Corse,CONSOMMATION
+CI8,Électricité,ktep,8,2017,Corse,CONSOMMATION
+CI8,Électricité,ktep,8,2018,Corse,CONSOMMATION
+CI8,Électricité,ktep,9,2019,Corse,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,0,2014,Corse,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,0,2015,Corse,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,0,2016,Corse,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,0,2017,Corse,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,0,2018,Corse,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,0,2019,Corse,CONSOMMATION
+CR1,Résidentiel,ktep,475,2014,Corse,CONSOMMATION
+CR1,Résidentiel,ktep,490,2015,Corse,CONSOMMATION
+CR1,Résidentiel,ktep,507,2016,Corse,CONSOMMATION
+CR1,Résidentiel,ktep,494,2017,Corse,CONSOMMATION
+CR1,Résidentiel,ktep,473,2018,Corse,CONSOMMATION
+CR1,Résidentiel,ktep,478,2019,Corse,CONSOMMATION
+CR2,Produits pétroliers,ktep,50,2014,Corse,CONSOMMATION
+CR2,Produits pétroliers,ktep,41,2015,Corse,CONSOMMATION
+CR2,Produits pétroliers,ktep,27,2016,Corse,CONSOMMATION
+CR2,Produits pétroliers,ktep,28,2017,Corse,CONSOMMATION
+CR2,Produits pétroliers,ktep,23,2018,Corse,CONSOMMATION
+CR2,Produits pétroliers,ktep,28,2019,Corse,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,0,2014,Corse,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,0,2015,Corse,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,0,2016,Corse,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,0,2017,Corse,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,0,2018,Corse,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,0,2019,Corse,CONSOMMATION
+CR4,Gaz naturel,ktep,0,2014,Corse,CONSOMMATION
+CR4,Gaz naturel,ktep,0,2015,Corse,CONSOMMATION
+CR4,Gaz naturel,ktep,0,2016,Corse,CONSOMMATION
+CR4,Gaz naturel,ktep,0,2017,Corse,CONSOMMATION
+CR4,Gaz naturel,ktep,0,2018,Corse,CONSOMMATION
+CR4,Gaz naturel,ktep,0,2019,Corse,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Corse,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Corse,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Corse,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Corse,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Corse,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Corse,CONSOMMATION
+CR6,Électricité,ktep,87,2014,Corse,CONSOMMATION
+CR6,Électricité,ktep,92,2015,Corse,CONSOMMATION
+CR6,Électricité,ktep,98,2016,Corse,CONSOMMATION
+CR6,Électricité,ktep,99,2017,Corse,CONSOMMATION
+CR6,Électricité,ktep,94,2018,Corse,CONSOMMATION
+CR6,Électricité,ktep,92,2019,Corse,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,338,2014,Corse,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,357,2015,Corse,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,381,2016,Corse,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,367,2017,Corse,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,355,2018,Corse,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,359,2019,Corse,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,0,2014,Corse,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,0,2015,Corse,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,0,2016,Corse,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,0,2017,Corse,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,0,2018,Corse,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,0,2019,Corse,CONSOMMATION
+CTE1,Tertiaire,ktep,92,2014,Corse,CONSOMMATION
+CTE1,Tertiaire,ktep,92,2015,Corse,CONSOMMATION
+CTE1,Tertiaire,ktep,68,2016,Corse,CONSOMMATION
+CTE1,Tertiaire,ktep,74,2017,Corse,CONSOMMATION
+CTE1,Tertiaire,ktep,78,2018,Corse,CONSOMMATION
+CTE1,Tertiaire,ktep,81,2019,Corse,CONSOMMATION
+CTE2,Produits pétroliers,ktep,21,2014,Corse,CONSOMMATION
+CTE2,Produits pétroliers,ktep,18,2015,Corse,CONSOMMATION
+CTE2,Produits pétroliers,ktep,10,2016,Corse,CONSOMMATION
+CTE2,Produits pétroliers,ktep,12,2017,Corse,CONSOMMATION
+CTE2,Produits pétroliers,ktep,9,2018,Corse,CONSOMMATION
+CTE2,Produits pétroliers,ktep,13,2019,Corse,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,0,2014,Corse,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,0,2015,Corse,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,0,2016,Corse,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,0,2017,Corse,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,0,2018,Corse,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,0,2019,Corse,CONSOMMATION
+CTE4,Gaz naturel,ktep,0,2014,Corse,CONSOMMATION
+CTE4,Gaz naturel,ktep,0,2015,Corse,CONSOMMATION
+CTE4,Gaz naturel,ktep,0,2016,Corse,CONSOMMATION
+CTE4,Gaz naturel,ktep,0,2017,Corse,CONSOMMATION
+CTE4,Gaz naturel,ktep,0,2018,Corse,CONSOMMATION
+CTE4,Gaz naturel,ktep,0,2019,Corse,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,822,2014,Corse,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,853,2015,Corse,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,668,2016,Corse,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,716,2017,Corse,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,783,2018,Corse,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,772,2019,Corse,CONSOMMATION
+CTE6,Électricité,ktep,71,2014,Corse,CONSOMMATION
+CTE6,Électricité,ktep,73,2015,Corse,CONSOMMATION
+CTE6,Électricité,ktep,57,2016,Corse,CONSOMMATION
+CTE6,Électricité,ktep,62,2017,Corse,CONSOMMATION
+CTE6,Électricité,ktep,67,2018,Corse,CONSOMMATION
+CTE6,Électricité,ktep,66,2019,Corse,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,0,2014,Corse,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,0,2015,Corse,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,0,2016,Corse,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,1,2017,Corse,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,2,2018,Corse,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,2,2019,Corse,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,0,2014,Corse,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,0,2015,Corse,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,0,2016,Corse,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,0,2017,Corse,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,0,2018,Corse,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,0,2019,Corse,CONSOMMATION
+CTR1,Transport,ktep,269,2014,Corse,CONSOMMATION
+CTR1,Transport,ktep,258,2015,Corse,CONSOMMATION
+CTR1,Transport,ktep,283,2016,Corse,CONSOMMATION
+CTR1,Transport,ktep,294,2017,Corse,CONSOMMATION
+CTR1,Transport,ktep,304,2018,Corse,CONSOMMATION
+CTR1,Transport,ktep,287,2019,Corse,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,3,2014,Corse,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,3,2015,Corse,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,2,2016,Corse,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,3,2017,Corse,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,3,2018,Corse,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,3,2019,Corse,CONSOMMATION
+CTR11,Électricité,ktep,0,2014,Corse,CONSOMMATION
+CTR11,Électricité,ktep,0,2015,Corse,CONSOMMATION
+CTR11,Électricité,ktep,0,2016,Corse,CONSOMMATION
+CTR11,Électricité,ktep,0,2017,Corse,CONSOMMATION
+CTR11,Électricité,ktep,0,2018,Corse,CONSOMMATION
+CTR11,Électricité,ktep,0,2019,Corse,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,253,2014,Corse,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,243,2015,Corse,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,266,2016,Corse,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,275,2017,Corse,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,284,2018,Corse,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,267,2019,Corse,CONSOMMATION
+CTR3,Biocarburants,ktep,16,2014,Corse,CONSOMMATION
+CTR3,Biocarburants,ktep,16,2015,Corse,CONSOMMATION
+CTR3,Biocarburants,ktep,17,2016,Corse,CONSOMMATION
+CTR3,Biocarburants,ktep,18,2017,Corse,CONSOMMATION
+CTR3,Biocarburants,ktep,20,2018,Corse,CONSOMMATION
+CTR3,Biocarburants,ktep,19,2019,Corse,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,60,2014,Corse,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,58,2015,Corse,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,65,2016,Corse,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,69,2017,Corse,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,79,2018,Corse,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,86,2019,Corse,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,175,2014,Corse,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,164,2015,Corse,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,178,2016,Corse,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,181,2017,Corse,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,185,2018,Corse,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,164,2019,Corse,CONSOMMATION
+CTR6,Biocarburants essence,ktep,3,2014,Corse,CONSOMMATION
+CTR6,Biocarburants essence,ktep,3,2015,Corse,CONSOMMATION
+CTR6,Biocarburants essence,ktep,4,2016,Corse,CONSOMMATION
+CTR6,Biocarburants essence,ktep,5,2017,Corse,CONSOMMATION
+CTR6,Biocarburants essence,ktep,6,2018,Corse,CONSOMMATION
+CTR6,Biocarburants essence,ktep,6,2019,Corse,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,13,2014,Corse,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,12,2015,Corse,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,13,2016,Corse,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,13,2017,Corse,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,14,2018,Corse,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,13,2019,Corse,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,0,2014,Corse,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,0,2015,Corse,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,0,2016,Corse,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,0,2017,Corse,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,0,2018,Corse,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,0,2019,Corse,CONSOMMATION
+CTR9,Gaz naturel,ktep,0,2014,Corse,CONSOMMATION
+CTR9,Gaz naturel,ktep,0,2015,Corse,CONSOMMATION
+CTR9,Gaz naturel,ktep,0,2016,Corse,CONSOMMATION
+CTR9,Gaz naturel,ktep,0,2017,Corse,CONSOMMATION
+CTR9,Gaz naturel,ktep,0,2018,Corse,CONSOMMATION
+CTR9,Gaz naturel,ktep,0,2019,Corse,CONSOMMATION

@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,12093,2014,Provence Alpes Cote D Azur,CONSOMMATION
+C1,Consommation finale énergétique,ktep,11970,2015,Provence Alpes Cote D Azur,CONSOMMATION
+C1,Consommation finale énergétique,ktep,11762,2016,Provence Alpes Cote D Azur,CONSOMMATION
+C1,Consommation finale énergétique,ktep,11885,2017,Provence Alpes Cote D Azur,CONSOMMATION
+C1,Consommation finale énergétique,ktep,12175,2018,Provence Alpes Cote D Azur,CONSOMMATION
+C1,Consommation finale énergétique,ktep,12182,2019,Provence Alpes Cote D Azur,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+C13,- Déchets industriels,ktep,11,2015,Provence Alpes Cote D Azur,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+C13,- Déchets industriels,ktep,19,2016,Provence Alpes Cote D Azur,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+C13,- Déchets industriels,ktep,21,2017,Provence Alpes Cote D Azur,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+C13,- Déchets industriels,ktep,25,2018,Provence Alpes Cote D Azur,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+C13,- Déchets industriels,ktep,22,2019,Provence Alpes Cote D Azur,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Provence Alpes Cote D Azur,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Provence Alpes Cote D Azur,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Provence Alpes Cote D Azur,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Provence Alpes Cote D Azur,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Provence Alpes Cote D Azur,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Provence Alpes Cote D Azur,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",158,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",146,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",138,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",130,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",132,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",135,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA2,Produits pétroliers,ktep,97,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA2,Produits pétroliers,ktep,89,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA2,Produits pétroliers,ktep,81,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA2,Produits pétroliers,ktep,72,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA2,Produits pétroliers,ktep,75,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA2,Produits pétroliers,ktep,75,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA21,dont pêche,ktep,41,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA21,dont pêche,ktep,29,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA21,dont pêche,ktep,23,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA21,dont pêche,ktep,19,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA21,dont pêche,ktep,21,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA21,dont pêche,ktep,17,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,254,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,276,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,273,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,268,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,293,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,293,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA4,Gaz naturel,ktep,20,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA4,Gaz naturel,ktep,21,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA4,Gaz naturel,ktep,21,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA4,Gaz naturel,ktep,21,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA4,Gaz naturel,ktep,23,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA4,Gaz naturel,ktep,23,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA5,Électricité (unité propre),GWh,381,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA5,Électricité (unité propre),GWh,330,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA5,Électricité (unité propre),GWh,333,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA5,Électricité (unité propre),GWh,345,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA5,Électricité (unité propre),GWh,319,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA5,Électricité (unité propre),GWh,335,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA6,Électricité,ktep,33,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA6,Électricité,ktep,28,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA6,Électricité,ktep,29,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA6,Électricité,ktep,30,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA6,Électricité,ktep,27,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA6,Électricité,ktep,29,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,7,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,7,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI1,Industrie,ktep,3900,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI1,Industrie,ktep,3675,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI1,Industrie,ktep,3551,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI1,Industrie,ktep,3569,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI1,Industrie,ktep,3845,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI1,Industrie,ktep,3833,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,184,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,164,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,198,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,187,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,171,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,184,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI3,Charbon,ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI3,Charbon,ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI3,Charbon,ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI3,Charbon,ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI3,Charbon,ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI3,Charbon,ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI4,Produits pétroliers,ktep,305,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI4,Produits pétroliers,ktep,307,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI4,Produits pétroliers,ktep,283,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI4,Produits pétroliers,ktep,228,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI4,Produits pétroliers,ktep,201,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI4,Produits pétroliers,ktep,188,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI6,Gaz naturel,ktep,876,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI6,Gaz naturel,ktep,880,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI6,Gaz naturel,ktep,874,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI6,Gaz naturel,ktep,817,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI6,Gaz naturel,ktep,981,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI6,Gaz naturel,ktep,992,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI8,Électricité,ktep,776,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI8,Électricité,ktep,745,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI8,Électricité,ktep,730,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI8,Électricité,ktep,691,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI8,Électricité,ktep,693,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI8,Électricité,ktep,708,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR1,Résidentiel,ktep,2511,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR1,Résidentiel,ktep,2488,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR1,Résidentiel,ktep,2501,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR1,Résidentiel,ktep,2469,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR1,Résidentiel,ktep,2487,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR1,Résidentiel,ktep,2445,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR2,Produits pétroliers,ktep,329,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR2,Produits pétroliers,ktep,334,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR2,Produits pétroliers,ktep,302,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR2,Produits pétroliers,ktep,303,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR2,Produits pétroliers,ktep,296,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR2,Produits pétroliers,ktep,262,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR4,Gaz naturel,ktep,648,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR4,Gaz naturel,ktep,547,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR4,Gaz naturel,ktep,547,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR4,Gaz naturel,ktep,534,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR4,Gaz naturel,ktep,554,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR4,Gaz naturel,ktep,555,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR6,Électricité,ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR6,Électricité,ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR6,Électricité,ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR6,Électricité,ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR6,Électricité,ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR6,Électricité,ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,321,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,339,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,362,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,348,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,338,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,341,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,18,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,26,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,22,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,28,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,26,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,18,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE1,Tertiaire,ktep,1432,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE1,Tertiaire,ktep,1504,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE1,Tertiaire,ktep,1464,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE1,Tertiaire,ktep,1472,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE1,Tertiaire,ktep,1535,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE1,Tertiaire,ktep,1522,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE2,Produits pétroliers,ktep,150,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE2,Produits pétroliers,ktep,161,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE2,Produits pétroliers,ktep,144,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE2,Produits pétroliers,ktep,153,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE2,Produits pétroliers,ktep,154,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE2,Produits pétroliers,ktep,143,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE4,Gaz naturel,ktep,271,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE4,Gaz naturel,ktep,315,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE4,Gaz naturel,ktep,284,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE4,Gaz naturel,ktep,270,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE4,Gaz naturel,ktep,334,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE4,Gaz naturel,ktep,336,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE6,Électricité,ktep,988,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE6,Électricité,ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE6,Électricité,ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE6,Électricité,ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE6,Électricité,ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE6,Électricité,ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,17,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,12,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,11,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,14,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,13,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,19,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,7,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,3,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,2,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,6,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,5,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,5,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR1,Transport,ktep,4092,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR1,Transport,ktep,4157,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR1,Transport,ktep,4108,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR1,Transport,ktep,4245,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR1,Transport,ktep,4176,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR1,Transport,ktep,4246,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,600,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,617,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,615,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,608,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,564,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,574,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR11,Électricité,ktep,52,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR11,Électricité,ktep,53,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR11,Électricité,ktep,53,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR11,Électricité,ktep,52,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR11,Électricité,ktep,49,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR11,Électricité,ktep,49,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR3,Biocarburants,ktep,239,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR3,Biocarburants,ktep,246,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR3,Biocarburants,ktep,242,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR3,Biocarburants,ktep,258,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR3,Biocarburants,ktep,258,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR3,Biocarburants,ktep,264,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,740,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,754,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,773,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,808,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,832,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,890,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR6,Biocarburants essence,ktep,42,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR6,Biocarburants essence,ktep,44,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR6,Biocarburants essence,ktep,48,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR6,Biocarburants essence,ktep,55,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR6,Biocarburants essence,ktep,59,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR6,Biocarburants essence,ktep,66,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,196,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,201,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,194,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,202,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,198,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,197,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,19,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,18,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,16,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,14,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,14,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,19,2019,Provence Alpes Cote D Azur,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2014,Provence Alpes Cote D Azur,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2015,Provence Alpes Cote D Azur,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2016,Provence Alpes Cote D Azur,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2017,Provence Alpes Cote D Azur,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2018,Provence Alpes Cote D Azur,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2019,Provence Alpes Cote D Azur,CONSOMMATION

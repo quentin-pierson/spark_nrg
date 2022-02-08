@@ -1,7 +1,7 @@
 import org.apache.spark.sql
-import org.apache.spark.sql.{SaveMode, SparkSession}
+import org.apache.spark.sql.{DataFrame, Row, SaveMode, SparkSession}
 import org.apache.spark.sql.functions._
-import org.apache.spark.sql.types.FloatType
+import org.apache.spark.sql.types.{IntegerType, StringType, StructField, StructType}
 
 import java.util.Properties
 
@@ -26,34 +26,103 @@ object TransformData extends App {
   def importDataToSQL(dataframe : sql.DataFrame): Unit ={
     val url = "jdbc:mysql://localhost:3306/spark_nrg?useUnicode=true&characterEncoding=utf8"
     Class.forName("com.mysql.jdbc.Driver")
-    var properties = new Properties()
+    val properties = new Properties()
     properties.put("user", "user")
     properties.put("password", "user")
     dataframe.write.mode(SaveMode.Append).jdbc(url,"D_TEMP", properties)
-    /*
-    dataframe.write.format("jdbc")
-      .option("url", url)
-      .option("driver", "com.mysql.jdbc.Driver")
-      .option("dbtable", "D_TEMP")
-      .option("user", "user")
-      .option("password", "user")
-      .mode(SaveMode.Append)
-      .save()*/
   }
 
   def ConvertSchema(dataframe : sql.DataFrame): sql.DataFrame ={
     var df = dataframe
-    df = df.withColumnRenamed("PRODUCTION", "Production")
-    df = df.withColumnRenamed("Intitulé énergie", "intitule")
+    df = df.withColumnRenamed("PRODUCTION", "Code")
+    df = df.withColumnRenamed("Intitulé énergie", "Intitule")
     df = df.withColumnRenamed("Unité", "Unite")
     val yearList : List[String] = List("2014", "2015", "2016", "2017", "2018", "2019")
-    var i = 1
+
+    val schema = StructType(
+      StructField("Code", StringType, true) ::
+        StructField("Intitule", StringType, false) ::
+        StructField("Unite", StringType, false) ::
+        StructField("Value", StringType, false) ::
+        StructField("Year", StringType, false) :: Nil)
+
+    var definitive_df : DataFrame = spark.createDataFrame(spark.sparkContext.emptyRDD[Row], schema)
     for(year <- yearList){
-      df = df.withColumn("yearTmp", df(year).cast(FloatType))
-        .drop(year)
-        .withColumnRenamed("yearTmp", s"annee${i}")
-      i+=1
+      var df_change = df.withColumn("Year", lit(year))
+      val year_2 = yearList.filter(_ != year)
+      df_change = df_change.withColumnRenamed(year, "Value")
+      for(years <- year_2){
+        df_change = df_change.drop(years)
+      }
+      definitive_df = definitive_df.unionAll(df_change)
     }
+    definitive_df = definitive_df.sort(col("Code"),col("Year"))
+    definitive_df = definitive_df.withColumn("Value",col("Value").cast(IntegerType))
+    definitive_df.printSchema()
+    definitive_df.show()
+
+    definitive_df
+  }
+
+  def MainTreatment(file_name : String,
+                    list_resource : List[List[String]]) = {
+    val df = openDataFrame(file_name)
+    val df_trans0 = df.withColumnRenamed("_c1","Intitulé énergie")
+
+    val dataset_name = file_name.substring(4)
+      .replace('_', ' ')
+      .split(' ')
+      .map(_.capitalize)
+      .mkString(" ")
+
+    TreatmentResources(df_trans0, dataset_name, list_resource)
+  }
+
+  def TreatmentResources(dataframe: sql.DataFrame,
+                         dataset_name : String,
+                         list_resource : List[List[String]]): Unit = {
+    TreatmentProduction(dataframe, dataset_name, list_resource(0))
+    TreatmentConsummation(dataframe, dataset_name, list_resource(1))
+  }
+
+  def TreatmentProduction(dataframe : sql.DataFrame,
+                          dataset_name : String,
+                          list_production : List[String]): sql.DataFrame = {
+    val df = TreatmentData(dataframe, dataset_name, list_production, "PRODUCTION")
+    df.coalesce(1)
+      .write
+      .mode(SaveMode.Overwrite)
+      .option("header",true)
+      .csv(s"../data/refined-file/production_${dataset_name}.csv")
+    df
+  }
+
+  def TreatmentConsummation(dataframe : sql.DataFrame,
+                            dataset_name : String,
+                            list_consomation : List[String]): sql.DataFrame = {
+    val df = TreatmentData(dataframe, dataset_name, list_consomation, "CONSOMMATION")
+    df.coalesce(1)
+      .write
+      .mode(SaveMode.Overwrite)
+      .option("header",true)
+      .csv(s"../data/refined-file/consommation_${dataset_name}.csv")
+    df
+  }
+
+  def TreatmentData(dataframe : sql.DataFrame,
+                    dataset_name : String,
+                    data_list: List[String],
+                    resource_type : String): sql.DataFrame = {
+    var df = dataframe.filter(col("PRODUCTION").isin(data_list:_*))
+    df = ConvertSchema(df)
+    df = AddColumn(df, dataset_name, resource_type)
+    df
+  }
+
+  def AddColumn(dataframe : sql.DataFrame, Region : String, Ressource_type : String): sql.DataFrame ={
+    var df = dataframe
+    df = df.withColumn("Region", lit(Region))
+    df = df.withColumn("Ressource_type", lit(Ressource_type))
     df
   }
 
@@ -80,7 +149,6 @@ object TransformData extends App {
     "E1","E2","E4","E6","E7","E8","E9","E10","E11","E12","E13","E14","E15",
     "E16","E17","E18","E19","E20","E21","E22","E23","E24","E25","E26","E27","E28"
   )
-
   val list_consomation : List[String] = List(
     "C1","CI1","CI3","CI3b","CI4","CI9","CI11","CI5","CI6","CI7","CI8",
     "CTR1","CTR2","CTR3","CTR4","CTR5","CTR6","CTR7","CTR8","CTR9","CTR10","CTR11",
@@ -90,28 +158,13 @@ object TransformData extends App {
     "C2","C3","C4","C13","C14"
   )
 
-  //Traitements
-  //Enlève la limitation de l'affichage du dataframe
-  spark.conf.set("org.apache.spark.sql.repl.eagerEval.enabled", true)
+  val list_resource : List[List[String]] = List(list_production, list_consomation)
 
-  //Ouverture d'un fichier .csv et affichage de dataframe
-  val df = openDataFrame(filesName(0))
+  //Treatments
+  MainTreatment(filesName(0), list_resource)
 
-  //Transposition de l'affichage
-  df.show(3, 0,true)
+  for(file_name <- filesName){
+    MainTreatment(file_name, list_resource)
+  }
 
-  //La deuxième colonne ne porte pas de nom .. Nous allons y remèdier maintenant 😉
-  val df_trans0 = df.withColumnRenamed("_c1","Intitulé énergie")
-  df_trans0.show()
-
-  var df_production = df_trans0.filter(col("PRODUCTION").isin(list_production:_*))
-  df_production = ConvertSchema(df_production)
-  df_production.printSchema()
-  df_production.show()
-
-  var df_consomation = df_trans0.filter(col("PRODUCTION").isin(list_consomation:_*))
-  df_consomation.show()
-
-  val file = s"production_${filesName(0)}"
-  importDataToSQL(df_production)
 }

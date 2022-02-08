@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1471,2014,Corse,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1522,2015,Corse,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1533,2016,Corse,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1605,2017,Corse,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1662,2018,Corse,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1573,2019,Corse,PRODUCTION
+E10,- Gaz naturel,GWh,0,2014,Corse,PRODUCTION
+E10,- Gaz naturel,GWh,0,2015,Corse,PRODUCTION
+E10,- Gaz naturel,GWh,0,2016,Corse,PRODUCTION
+E10,- Gaz naturel,GWh,0,2017,Corse,PRODUCTION
+E10,- Gaz naturel,GWh,0,2018,Corse,PRODUCTION
+E10,- Gaz naturel,GWh,0,2019,Corse,PRODUCTION
+E11,- Pétrole,GWh,"",2014,Corse,PRODUCTION
+E11,- Pétrole,GWh,"",2015,Corse,PRODUCTION
+E11,- Pétrole,GWh,"",2016,Corse,PRODUCTION
+E11,- Pétrole,GWh,"",2017,Corse,PRODUCTION
+E11,- Pétrole,GWh,"",2018,Corse,PRODUCTION
+E11,- Pétrole,GWh,"",2019,Corse,PRODUCTION
+E12,- Charbon,GWh,0,2014,Corse,PRODUCTION
+E12,- Charbon,GWh,0,2015,Corse,PRODUCTION
+E12,- Charbon,GWh,0,2016,Corse,PRODUCTION
+E12,- Charbon,GWh,0,2017,Corse,PRODUCTION
+E12,- Charbon,GWh,0,2018,Corse,PRODUCTION
+E12,- Charbon,GWh,0,2019,Corse,PRODUCTION
+E13,- Biomasse,GWh,0,2014,Corse,PRODUCTION
+E13,- Biomasse,GWh,0,2015,Corse,PRODUCTION
+E13,- Biomasse,GWh,0,2016,Corse,PRODUCTION
+E13,- Biomasse,GWh,0,2017,Corse,PRODUCTION
+E13,- Biomasse,GWh,0,2018,Corse,PRODUCTION
+E13,- Biomasse,GWh,0,2019,Corse,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2014,Corse,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2015,Corse,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Corse,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Corse,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Corse,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2019,Corse,PRODUCTION
+E15,- Déchets urbains,GWh,0,2014,Corse,PRODUCTION
+E15,- Déchets urbains,GWh,0,2015,Corse,PRODUCTION
+E15,- Déchets urbains,GWh,0,2016,Corse,PRODUCTION
+E15,- Déchets urbains,GWh,0,2017,Corse,PRODUCTION
+E15,- Déchets urbains,GWh,0,2018,Corse,PRODUCTION
+E15,- Déchets urbains,GWh,0,2019,Corse,PRODUCTION
+E16,- Déchets industriels,GWh,0,2014,Corse,PRODUCTION
+E16,- Déchets industriels,GWh,0,2015,Corse,PRODUCTION
+E16,- Déchets industriels,GWh,0,2016,Corse,PRODUCTION
+E16,- Déchets industriels,GWh,0,2017,Corse,PRODUCTION
+E16,- Déchets industriels,GWh,0,2018,Corse,PRODUCTION
+E16,- Déchets industriels,GWh,0,2019,Corse,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Corse,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Corse,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Corse,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Corse,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Corse,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Corse,PRODUCTION
+E18,- Autre,GWh,0,2014,Corse,PRODUCTION
+E18,- Autre,GWh,0,2015,Corse,PRODUCTION
+E18,- Autre,GWh,0,2016,Corse,PRODUCTION
+E18,- Autre,GWh,0,2017,Corse,PRODUCTION
+E18,- Autre,GWh,0,2018,Corse,PRODUCTION
+E18,- Autre,GWh,0,2019,Corse,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,13,2014,Corse,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,13,2015,Corse,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,12,2016,Corse,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,13,2017,Corse,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,14,2018,Corse,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,14,2019,Corse,PRODUCTION
+E2,Production d'électricité primaire,GWh,639,2014,Corse,PRODUCTION
+E2,Production d'électricité primaire,GWh,504,2015,Corse,PRODUCTION
+E2,Production d'électricité primaire,GWh,658,2016,Corse,PRODUCTION
+E2,Production d'électricité primaire,GWh,585,2017,Corse,PRODUCTION
+E2,Production d'électricité primaire,GWh,835,2018,Corse,PRODUCTION
+E2,Production d'électricité primaire,GWh,603,2019,Corse,PRODUCTION
+E20,- Gaz naturel,GWh,0,2014,Corse,PRODUCTION
+E20,- Gaz naturel,GWh,0,2015,Corse,PRODUCTION
+E20,- Gaz naturel,GWh,0,2016,Corse,PRODUCTION
+E20,- Gaz naturel,GWh,0,2017,Corse,PRODUCTION
+E20,- Gaz naturel,GWh,0,2018,Corse,PRODUCTION
+E20,- Gaz naturel,GWh,0,2019,Corse,PRODUCTION
+E21,- Pétrole,GWh,"",2014,Corse,PRODUCTION
+E21,- Pétrole,GWh,"",2015,Corse,PRODUCTION
+E21,- Pétrole,GWh,"",2016,Corse,PRODUCTION
+E21,- Pétrole,GWh,"",2017,Corse,PRODUCTION
+E21,- Pétrole,GWh,"",2018,Corse,PRODUCTION
+E21,- Pétrole,GWh,"",2019,Corse,PRODUCTION
+E22,- Charbon,GWh,0,2014,Corse,PRODUCTION
+E22,- Charbon,GWh,0,2015,Corse,PRODUCTION
+E22,- Charbon,GWh,0,2016,Corse,PRODUCTION
+E22,- Charbon,GWh,0,2017,Corse,PRODUCTION
+E22,- Charbon,GWh,0,2018,Corse,PRODUCTION
+E22,- Charbon,GWh,0,2019,Corse,PRODUCTION
+E23,- Biomasse,GWh,"",2014,Corse,PRODUCTION
+E23,- Biomasse,GWh,"",2015,Corse,PRODUCTION
+E23,- Biomasse,GWh,"",2016,Corse,PRODUCTION
+E23,- Biomasse,GWh,"",2017,Corse,PRODUCTION
+E23,- Biomasse,GWh,"",2018,Corse,PRODUCTION
+E23,- Biomasse,GWh,"",2019,Corse,PRODUCTION
+E24,- Biogaz,GWh PCI,0,2014,Corse,PRODUCTION
+E24,- Biogaz,GWh PCI,0,2015,Corse,PRODUCTION
+E24,- Biogaz,GWh PCI,0,2016,Corse,PRODUCTION
+E24,- Biogaz,GWh PCI,0,2017,Corse,PRODUCTION
+E24,- Biogaz,GWh PCI,0,2018,Corse,PRODUCTION
+E24,- Biogaz,GWh PCI,0,2019,Corse,PRODUCTION
+E25,- Déchets urbains,GWh,0,2014,Corse,PRODUCTION
+E25,- Déchets urbains,GWh,0,2015,Corse,PRODUCTION
+E25,- Déchets urbains,GWh,0,2016,Corse,PRODUCTION
+E25,- Déchets urbains,GWh,0,2017,Corse,PRODUCTION
+E25,- Déchets urbains,GWh,0,2018,Corse,PRODUCTION
+E25,- Déchets urbains,GWh,0,2019,Corse,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Corse,PRODUCTION
+E26,- Déchets industriels,GWh,0,2015,Corse,PRODUCTION
+E26,- Déchets industriels,GWh,0,2016,Corse,PRODUCTION
+E26,- Déchets industriels,GWh,0,2017,Corse,PRODUCTION
+E26,- Déchets industriels,GWh,0,2018,Corse,PRODUCTION
+E26,- Déchets industriels,GWh,0,2019,Corse,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Corse,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Corse,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Corse,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Corse,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Corse,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Corse,PRODUCTION
+E28,- Autre,GWh,0,2014,Corse,PRODUCTION
+E28,- Autre,GWh,0,2015,Corse,PRODUCTION
+E28,- Autre,GWh,0,2016,Corse,PRODUCTION
+E28,- Autre,GWh,0,2017,Corse,PRODUCTION
+E28,- Autre,GWh,0,2018,Corse,PRODUCTION
+E28,- Autre,GWh,0,2019,Corse,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,483,2014,Corse,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,335,2015,Corse,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,470,2016,Corse,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,Corse,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,638,2018,Corse,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,383,2019,Corse,PRODUCTION
+E6,- Éolien,GWh,"",2014,Corse,PRODUCTION
+E6,- Éolien,GWh,"",2015,Corse,PRODUCTION
+E6,- Éolien,GWh,"",2016,Corse,PRODUCTION
+E6,- Éolien,GWh,"",2017,Corse,PRODUCTION
+E6,- Éolien,GWh,"",2018,Corse,PRODUCTION
+E6,- Éolien,GWh,"",2019,Corse,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2014,Corse,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2015,Corse,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2016,Corse,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2017,Corse,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2018,Corse,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2019,Corse,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2014,Corse,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2015,Corse,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2016,Corse,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2017,Corse,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2018,Corse,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2019,Corse,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,832,2014,Corse,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1018,2015,Corse,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,875,2016,Corse,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1020,2017,Corse,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,827,2018,Corse,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,970,2019,Corse,PRODUCTION
+P1,Production de charbon,kt,0,2014,Corse,PRODUCTION
+P1,Production de charbon,kt,0,2015,Corse,PRODUCTION
+P1,Production de charbon,kt,0,2016,Corse,PRODUCTION
+P1,Production de charbon,kt,0,2017,Corse,PRODUCTION
+P1,Production de charbon,kt,0,2018,Corse,PRODUCTION
+P1,Production de charbon,kt,0,2019,Corse,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Corse,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Corse,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Corse,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Corse,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Corse,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Corse,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2014,Corse,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2015,Corse,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2016,Corse,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2017,Corse,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2018,Corse,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2019,Corse,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,55,2014,Corse,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,43,2015,Corse,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,57,2016,Corse,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,50,2017,Corse,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,72,2018,Corse,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,52,2019,Corse,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Corse,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2015,Corse,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2016,Corse,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2017,Corse,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2018,Corse,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2019,Corse,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Corse,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Corse,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2016,Corse,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2017,Corse,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2018,Corse,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2019,Corse,PRODUCTION
+P2,Production de pétrole,kt,0,2014,Corse,PRODUCTION
+P2,Production de pétrole,kt,0,2015,Corse,PRODUCTION
+P2,Production de pétrole,kt,0,2016,Corse,PRODUCTION
+P2,Production de pétrole,kt,0,2017,Corse,PRODUCTION
+P2,Production de pétrole,kt,0,2018,Corse,PRODUCTION
+P2,Production de pétrole,kt,0,2019,Corse,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Corse,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Corse,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Corse,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Corse,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Corse,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Corse,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2014,Corse,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2015,Corse,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2016,Corse,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2017,Corse,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2018,Corse,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2019,Corse,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,639,2014,Corse,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,504,2015,Corse,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,658,2016,Corse,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,585,2017,Corse,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,835,2018,Corse,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,603,2019,Corse,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2014,Corse,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2015,Corse,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2016,Corse,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2017,Corse,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2018,Corse,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2019,Corse,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Corse,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Corse,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Corse,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Corse,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Corse,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Corse,PRODUCTION
+P9,- production de pétrole,ktep,0,2014,Corse,PRODUCTION
+P9,- production de pétrole,ktep,0,2015,Corse,PRODUCTION
+P9,- production de pétrole,ktep,0,2016,Corse,PRODUCTION
+P9,- production de pétrole,ktep,0,2017,Corse,PRODUCTION
+P9,- production de pétrole,ktep,0,2018,Corse,PRODUCTION
+P9,- production de pétrole,ktep,0,2019,Corse,PRODUCTION

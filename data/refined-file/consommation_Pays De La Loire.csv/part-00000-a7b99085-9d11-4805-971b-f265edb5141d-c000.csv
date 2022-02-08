@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,8296,2014,Pays De La Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,8511,2015,Pays De La Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,8458,2016,Pays De La Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,8403,2017,Pays De La Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,8325,2018,Pays De La Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,8326,2019,Pays De La Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Pays De La Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2014,Pays De La Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Pays De La Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2015,Pays De La Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Pays De La Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2016,Pays De La Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Pays De La Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2017,Pays De La Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Pays De La Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2018,Pays De La Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Pays De La Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,43,2019,Pays De La Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Pays De La Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Pays De La Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Pays De La Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Pays De La Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Pays De La Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Pays De La Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Pays De La Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Pays De La Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Pays De La Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Pays De La Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Pays De La Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Pays De La Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2014,Pays De La Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2015,Pays De La Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2016,Pays De La Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2017,Pays De La Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2018,Pays De La Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2019,Pays De La Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2014,Pays De La Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2015,Pays De La Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2016,Pays De La Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2017,Pays De La Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2018,Pays De La Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2019,Pays De La Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Pays De La Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Pays De La Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Pays De La Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Pays De La Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Pays De La Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Pays De La Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",486,2014,Pays De La Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",488,2015,Pays De La Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",474,2016,Pays De La Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",487,2017,Pays De La Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",496,2018,Pays De La Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",488,2019,Pays De La Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,351,2014,Pays De La Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,343,2015,Pays De La Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,328,2016,Pays De La Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,332,2017,Pays De La Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,348,2018,Pays De La Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,339,2019,Pays De La Loire,CONSOMMATION
+CA21,dont pêche,ktep,38,2014,Pays De La Loire,CONSOMMATION
+CA21,dont pêche,ktep,36,2015,Pays De La Loire,CONSOMMATION
+CA21,dont pêche,ktep,34,2016,Pays De La Loire,CONSOMMATION
+CA21,dont pêche,ktep,35,2017,Pays De La Loire,CONSOMMATION
+CA21,dont pêche,ktep,36,2018,Pays De La Loire,CONSOMMATION
+CA21,dont pêche,ktep,32,2019,Pays De La Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,285,2014,Pays De La Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,331,2015,Pays De La Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,292,2016,Pays De La Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,407,2017,Pays De La Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,381,2018,Pays De La Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,371,2019,Pays De La Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,22,2014,Pays De La Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,26,2015,Pays De La Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,23,2016,Pays De La Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,31,2017,Pays De La Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,30,2018,Pays De La Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,29,2019,Pays De La Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,947,2014,Pays De La Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2015,Pays De La Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2016,Pays De La Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2017,Pays De La Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,990,2018,Pays De La Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,986,2019,Pays De La Loire,CONSOMMATION
+CA6,Électricité,ktep,81,2014,Pays De La Loire,CONSOMMATION
+CA6,Électricité,ktep,88,2015,Pays De La Loire,CONSOMMATION
+CA6,Électricité,ktep,91,2016,Pays De La Loire,CONSOMMATION
+CA6,Électricité,ktep,91,2017,Pays De La Loire,CONSOMMATION
+CA6,Électricité,ktep,85,2018,Pays De La Loire,CONSOMMATION
+CA6,Électricité,ktep,85,2019,Pays De La Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,31,2014,Pays De La Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,32,2015,Pays De La Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,32,2016,Pays De La Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,33,2017,Pays De La Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,33,2018,Pays De La Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,35,2019,Pays De La Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Pays De La Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Pays De La Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Pays De La Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Pays De La Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Pays De La Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Pays De La Loire,CONSOMMATION
+CI1,Industrie,ktep,1386,2014,Pays De La Loire,CONSOMMATION
+CI1,Industrie,ktep,1409,2015,Pays De La Loire,CONSOMMATION
+CI1,Industrie,ktep,1482,2016,Pays De La Loire,CONSOMMATION
+CI1,Industrie,ktep,1383,2017,Pays De La Loire,CONSOMMATION
+CI1,Industrie,ktep,1436,2018,Pays De La Loire,CONSOMMATION
+CI1,Industrie,ktep,1442,2019,Pays De La Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,73,2014,Pays De La Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,56,2015,Pays De La Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,64,2016,Pays De La Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,65,2017,Pays De La Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,42,2018,Pays De La Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,49,2019,Pays De La Loire,CONSOMMATION
+CI3,Charbon,ktep,11,2014,Pays De La Loire,CONSOMMATION
+CI3,Charbon,ktep,9,2015,Pays De La Loire,CONSOMMATION
+CI3,Charbon,ktep,9,2016,Pays De La Loire,CONSOMMATION
+CI3,Charbon,ktep,10,2017,Pays De La Loire,CONSOMMATION
+CI3,Charbon,ktep,11,2018,Pays De La Loire,CONSOMMATION
+CI3,Charbon,ktep,12,2019,Pays De La Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Pays De La Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Pays De La Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Pays De La Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Pays De La Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Pays De La Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Pays De La Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,262,2014,Pays De La Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,238,2015,Pays De La Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,220,2016,Pays De La Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,221,2017,Pays De La Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,222,2018,Pays De La Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,228,2019,Pays De La Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Pays De La Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Pays De La Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Pays De La Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Pays De La Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Pays De La Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Pays De La Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,431,2014,Pays De La Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,482,2015,Pays De La Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,548,2016,Pays De La Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,449,2017,Pays De La Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,521,2018,Pays De La Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,524,2019,Pays De La Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Pays De La Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Pays De La Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Pays De La Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Pays De La Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Pays De La Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Pays De La Loire,CONSOMMATION
+CI8,Électricité,ktep,526,2014,Pays De La Loire,CONSOMMATION
+CI8,Électricité,ktep,532,2015,Pays De La Loire,CONSOMMATION
+CI8,Électricité,ktep,535,2016,Pays De La Loire,CONSOMMATION
+CI8,Électricité,ktep,544,2017,Pays De La Loire,CONSOMMATION
+CI8,Électricité,ktep,550,2018,Pays De La Loire,CONSOMMATION
+CI8,Électricité,ktep,538,2019,Pays De La Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,83,2014,Pays De La Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,92,2015,Pays De La Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,105,2016,Pays De La Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,94,2017,Pays De La Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,91,2018,Pays De La Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,91,2019,Pays De La Loire,CONSOMMATION
+CR1,Résidentiel,ktep,2053,2014,Pays De La Loire,CONSOMMATION
+CR1,Résidentiel,ktep,2141,2015,Pays De La Loire,CONSOMMATION
+CR1,Résidentiel,ktep,2063,2016,Pays De La Loire,CONSOMMATION
+CR1,Résidentiel,ktep,2012,2017,Pays De La Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1932,2018,Pays De La Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1932,2019,Pays De La Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,527,2014,Pays De La Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,559,2015,Pays De La Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,360,2016,Pays De La Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,344,2017,Pays De La Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,302,2018,Pays De La Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,298,2019,Pays De La Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Pays De La Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Pays De La Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Pays De La Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Pays De La Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Pays De La Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Pays De La Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,502,2014,Pays De La Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,505,2015,Pays De La Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,571,2016,Pays De La Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,559,2017,Pays De La Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,527,2018,Pays De La Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,519,2019,Pays De La Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Pays De La Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Pays De La Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Pays De La Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Pays De La Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Pays De La Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Pays De La Loire,CONSOMMATION
+CR6,Électricité,ktep,781,2014,Pays De La Loire,CONSOMMATION
+CR6,Électricité,ktep,819,2015,Pays De La Loire,CONSOMMATION
+CR6,Électricité,ktep,856,2016,Pays De La Loire,CONSOMMATION
+CR6,Électricité,ktep,843,2017,Pays De La Loire,CONSOMMATION
+CR6,Électricité,ktep,837,2018,Pays De La Loire,CONSOMMATION
+CR6,Électricité,ktep,837,2019,Pays De La Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,219,2014,Pays De La Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,231,2015,Pays De La Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,246,2016,Pays De La Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,237,2017,Pays De La Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,230,2018,Pays De La Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,232,2019,Pays De La Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,23,2014,Pays De La Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,27,2015,Pays De La Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,29,2016,Pays De La Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,29,2017,Pays De La Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,36,2018,Pays De La Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,46,2019,Pays De La Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,1196,2014,Pays De La Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,1316,2015,Pays De La Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,1231,2016,Pays De La Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,1207,2017,Pays De La Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,1169,2018,Pays De La Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,1167,2019,Pays De La Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,256,2014,Pays De La Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,282,2015,Pays De La Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,177,2016,Pays De La Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,179,2017,Pays De La Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,162,2018,Pays De La Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,171,2019,Pays De La Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Pays De La Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Pays De La Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Pays De La Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Pays De La Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Pays De La Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Pays De La Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,322,2014,Pays De La Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,402,2015,Pays De La Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,400,2016,Pays De La Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,374,2017,Pays De La Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,365,2018,Pays De La Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,371,2019,Pays De La Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Pays De La Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Pays De La Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Pays De La Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Pays De La Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Pays De La Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Pays De La Loire,CONSOMMATION
+CTE6,Électricité,ktep,570,2014,Pays De La Loire,CONSOMMATION
+CTE6,Électricité,ktep,579,2015,Pays De La Loire,CONSOMMATION
+CTE6,Électricité,ktep,593,2016,Pays De La Loire,CONSOMMATION
+CTE6,Électricité,ktep,588,2017,Pays De La Loire,CONSOMMATION
+CTE6,Électricité,ktep,582,2018,Pays De La Loire,CONSOMMATION
+CTE6,Électricité,ktep,571,2019,Pays De La Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,31,2014,Pays De La Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,31,2015,Pays De La Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,36,2016,Pays De La Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,38,2017,Pays De La Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,28,2018,Pays De La Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,29,2019,Pays De La Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,17,2014,Pays De La Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,22,2015,Pays De La Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,24,2016,Pays De La Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,27,2017,Pays De La Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,32,2018,Pays De La Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,25,2019,Pays De La Loire,CONSOMMATION
+CTR1,Transport,ktep,3175,2014,Pays De La Loire,CONSOMMATION
+CTR1,Transport,ktep,3157,2015,Pays De La Loire,CONSOMMATION
+CTR1,Transport,ktep,3209,2016,Pays De La Loire,CONSOMMATION
+CTR1,Transport,ktep,3314,2017,Pays De La Loire,CONSOMMATION
+CTR1,Transport,ktep,3292,2018,Pays De La Loire,CONSOMMATION
+CTR1,Transport,ktep,3296,2019,Pays De La Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,388,2014,Pays De La Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,391,2015,Pays De La Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,384,2016,Pays De La Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,394,2017,Pays De La Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,365,2018,Pays De La Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,374,2019,Pays De La Loire,CONSOMMATION
+CTR11,Électricité,ktep,33,2014,Pays De La Loire,CONSOMMATION
+CTR11,Électricité,ktep,34,2015,Pays De La Loire,CONSOMMATION
+CTR11,Électricité,ktep,33,2016,Pays De La Loire,CONSOMMATION
+CTR11,Électricité,ktep,34,2017,Pays De La Loire,CONSOMMATION
+CTR11,Électricité,ktep,31,2018,Pays De La Loire,CONSOMMATION
+CTR11,Électricité,ktep,32,2019,Pays De La Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Pays De La Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Pays De La Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Pays De La Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Pays De La Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Pays De La Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Pays De La Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,200,2014,Pays De La Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,200,2015,Pays De La Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,203,2016,Pays De La Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,216,2017,Pays De La Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,220,2018,Pays De La Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,225,2019,Pays De La Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,448,2014,Pays De La Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,449,2015,Pays De La Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,467,2016,Pays De La Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,490,2017,Pays De La Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,512,2018,Pays De La Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,548,2019,Pays De La Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Pays De La Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Pays De La Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Pays De La Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Pays De La Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Pays De La Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Pays De La Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,26,2014,Pays De La Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,26,2015,Pays De La Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,29,2016,Pays De La Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,33,2017,Pays De La Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,36,2018,Pays De La Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,40,2019,Pays De La Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,174,2014,Pays De La Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,173,2015,Pays De La Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,174,2016,Pays De La Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,182,2017,Pays De La Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,183,2018,Pays De La Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,184,2019,Pays De La Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,107,2014,Pays De La Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,108,2015,Pays De La Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,112,2016,Pays De La Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,119,2017,Pays De La Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,133,2018,Pays De La Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,148,2019,Pays De La Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,8,2014,Pays De La Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,8,2015,Pays De La Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,9,2016,Pays De La Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,9,2017,Pays De La Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2018,Pays De La Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,11,2019,Pays De La Loire,CONSOMMATION

@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,22730,2014,Ile De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,23583,2015,Ile De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,24681,2016,Ile De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,24260,2017,Ile De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,23618,2018,Ile De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,23340,2019,Ile De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2014,Ile De France,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2014,Ile De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2015,Ile De France,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2015,Ile De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2016,Ile De France,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2016,Ile De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2017,Ile De France,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2017,Ile De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2018,Ile De France,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2018,Ile De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2019,Ile De France,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2019,Ile De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2014,Ile De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Ile De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2015,Ile De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Ile De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2016,Ile De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Ile De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2017,Ile De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Ile De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2018,Ile De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Ile De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2019,Ile De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Ile De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,166,2014,Ile De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,133,2015,Ile De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,183,2016,Ile De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,111,2017,Ile De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,199,2018,Ile De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,270,2019,Ile De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2014,Ile De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Ile De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2016,Ile De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2017,Ile De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2018,Ile De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2019,Ile De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Ile De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Ile De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Ile De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Ile De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Ile De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Ile De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",83,2014,Ile De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",89,2015,Ile De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",79,2016,Ile De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",86,2017,Ile De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",80,2018,Ile De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",86,2019,Ile De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,54,2014,Ile De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,55,2015,Ile De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,51,2016,Ile De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,56,2017,Ile De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,51,2018,Ile De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,59,2019,Ile De France,CONSOMMATION
+CA21,dont pêche,ktep,0,2014,Ile De France,CONSOMMATION
+CA21,dont pêche,ktep,0,2015,Ile De France,CONSOMMATION
+CA21,dont pêche,ktep,0,2016,Ile De France,CONSOMMATION
+CA21,dont pêche,ktep,1,2017,Ile De France,CONSOMMATION
+CA21,dont pêche,ktep,0,2018,Ile De France,CONSOMMATION
+CA21,dont pêche,ktep,0,2019,Ile De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,78,2014,Ile De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,76,2015,Ile De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,28,2016,Ile De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,53,2017,Ile De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,46,2018,Ile De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,45,2019,Ile De France,CONSOMMATION
+CA4,Gaz naturel,ktep,6,2014,Ile De France,CONSOMMATION
+CA4,Gaz naturel,ktep,6,2015,Ile De France,CONSOMMATION
+CA4,Gaz naturel,ktep,2,2016,Ile De France,CONSOMMATION
+CA4,Gaz naturel,ktep,4,2017,Ile De France,CONSOMMATION
+CA4,Gaz naturel,ktep,4,2018,Ile De France,CONSOMMATION
+CA4,Gaz naturel,ktep,3,2019,Ile De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,266,2014,Ile De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,313,2015,Ile De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,293,2016,Ile De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,293,2017,Ile De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,292,2018,Ile De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,267,2019,Ile De France,CONSOMMATION
+CA6,Électricité,ktep,23,2014,Ile De France,CONSOMMATION
+CA6,Électricité,ktep,27,2015,Ile De France,CONSOMMATION
+CA6,Électricité,ktep,25,2016,Ile De France,CONSOMMATION
+CA6,Électricité,ktep,25,2017,Ile De France,CONSOMMATION
+CA6,Électricité,ktep,25,2018,Ile De France,CONSOMMATION
+CA6,Électricité,ktep,23,2019,Ile De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2014,Ile De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2015,Ile De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2016,Ile De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2017,Ile De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2018,Ile De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,1,2019,Ile De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Ile De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Ile De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Ile De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Ile De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Ile De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Ile De France,CONSOMMATION
+CI1,Industrie,ktep,1292,2014,Ile De France,CONSOMMATION
+CI1,Industrie,ktep,1280,2015,Ile De France,CONSOMMATION
+CI1,Industrie,ktep,1726,2016,Ile De France,CONSOMMATION
+CI1,Industrie,ktep,1439,2017,Ile De France,CONSOMMATION
+CI1,Industrie,ktep,1313,2018,Ile De France,CONSOMMATION
+CI1,Industrie,ktep,1256,2019,Ile De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,2,2014,Ile De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,15,2015,Ile De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,5,2016,Ile De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,7,2017,Ile De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,46,2018,Ile De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,22,2019,Ile De France,CONSOMMATION
+CI3,Charbon,ktep,"",2014,Ile De France,CONSOMMATION
+CI3,Charbon,ktep,"",2015,Ile De France,CONSOMMATION
+CI3,Charbon,ktep,"",2016,Ile De France,CONSOMMATION
+CI3,Charbon,ktep,"",2017,Ile De France,CONSOMMATION
+CI3,Charbon,ktep,"",2018,Ile De France,CONSOMMATION
+CI3,Charbon,ktep,"",2019,Ile De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Ile De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Ile De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Ile De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Ile De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Ile De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Ile De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,156,2014,Ile De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,142,2015,Ile De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,127,2016,Ile De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,131,2017,Ile De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,135,2018,Ile De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,136,2019,Ile De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Ile De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Ile De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Ile De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Ile De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Ile De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Ile De France,CONSOMMATION
+CI6,Gaz naturel,ktep,503,2014,Ile De France,CONSOMMATION
+CI6,Gaz naturel,ktep,514,2015,Ile De France,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2016,Ile De France,CONSOMMATION
+CI6,Gaz naturel,ktep,713,2017,Ile De France,CONSOMMATION
+CI6,Gaz naturel,ktep,519,2018,Ile De France,CONSOMMATION
+CI6,Gaz naturel,ktep,513,2019,Ile De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Ile De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Ile De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Ile De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Ile De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Ile De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Ile De France,CONSOMMATION
+CI8,Électricité,ktep,609,2014,Ile De France,CONSOMMATION
+CI8,Électricité,ktep,584,2015,Ile De France,CONSOMMATION
+CI8,Électricité,ktep,571,2016,Ile De France,CONSOMMATION
+CI8,Électricité,ktep,566,2017,Ile De France,CONSOMMATION
+CI8,Électricité,ktep,578,2018,Ile De France,CONSOMMATION
+CI8,Électricité,ktep,558,2019,Ile De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2014,Ile De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2015,Ile De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2016,Ile De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2017,Ile De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2018,Ile De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2019,Ile De France,CONSOMMATION
+CR1,Résidentiel,ktep,6035,2014,Ile De France,CONSOMMATION
+CR1,Résidentiel,ktep,6438,2015,Ile De France,CONSOMMATION
+CR1,Résidentiel,ktep,6812,2016,Ile De France,CONSOMMATION
+CR1,Résidentiel,ktep,6596,2017,Ile De France,CONSOMMATION
+CR1,Résidentiel,ktep,6215,2018,Ile De France,CONSOMMATION
+CR1,Résidentiel,ktep,6093,2019,Ile De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,403,2014,Ile De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,415,2015,Ile De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,457,2016,Ile De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,428,2017,Ile De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,382,2018,Ile De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,332,2019,Ile De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Ile De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Ile De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Ile De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Ile De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Ile De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Ile De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2014,Ile De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2015,Ile De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2016,Ile De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2017,Ile De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2018,Ile De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2019,Ile De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Ile De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Ile De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Ile De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Ile De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Ile De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Ile De France,CONSOMMATION
+CR6,Électricité,ktep,"",2014,Ile De France,CONSOMMATION
+CR6,Électricité,ktep,"",2015,Ile De France,CONSOMMATION
+CR6,Électricité,ktep,"",2016,Ile De France,CONSOMMATION
+CR6,Électricité,ktep,"",2017,Ile De France,CONSOMMATION
+CR6,Électricité,ktep,"",2018,Ile De France,CONSOMMATION
+CR6,Électricité,ktep,"",2019,Ile De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,472,2014,Ile De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,499,2015,Ile De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,534,2016,Ile De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,514,2017,Ile De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,498,2018,Ile De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,503,2019,Ile De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,506,2014,Ile De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,561,2015,Ile De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,613,2016,Ile De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,617,2017,Ile De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,633,2018,Ile De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,618,2019,Ile De France,CONSOMMATION
+CTE1,Tertiaire,ktep,4417,2014,Ile De France,CONSOMMATION
+CTE1,Tertiaire,ktep,4634,2015,Ile De France,CONSOMMATION
+CTE1,Tertiaire,ktep,4914,2016,Ile De France,CONSOMMATION
+CTE1,Tertiaire,ktep,4981,2017,Ile De France,CONSOMMATION
+CTE1,Tertiaire,ktep,4884,2018,Ile De France,CONSOMMATION
+CTE1,Tertiaire,ktep,4723,2019,Ile De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,194,2014,Ile De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,208,2015,Ile De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,232,2016,Ile De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,229,2017,Ile De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,214,2018,Ile De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,193,2019,Ile De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Ile De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Ile De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Ile De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Ile De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Ile De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Ile De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2014,Ile De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2015,Ile De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2016,Ile De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2017,Ile De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2018,Ile De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2019,Ile De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Ile De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Ile De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Ile De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Ile De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Ile De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Ile De France,CONSOMMATION
+CTE6,Électricité,ktep,"",2014,Ile De France,CONSOMMATION
+CTE6,Électricité,ktep,"",2015,Ile De France,CONSOMMATION
+CTE6,Électricité,ktep,"",2016,Ile De France,CONSOMMATION
+CTE6,Électricité,ktep,"",2017,Ile De France,CONSOMMATION
+CTE6,Électricité,ktep,"",2018,Ile De France,CONSOMMATION
+CTE6,Électricité,ktep,"",2019,Ile De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,86,2014,Ile De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,49,2015,Ile De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,78,2016,Ile De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,87,2017,Ile De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,84,2018,Ile De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,77,2019,Ile De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,314,2014,Ile De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,343,2015,Ile De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,387,2016,Ile De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,369,2017,Ile De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,376,2018,Ile De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,360,2019,Ile De France,CONSOMMATION
+CTR1,Transport,ktep,10902,2014,Ile De France,CONSOMMATION
+CTR1,Transport,ktep,11143,2015,Ile De France,CONSOMMATION
+CTR1,Transport,ktep,11150,2016,Ile De France,CONSOMMATION
+CTR1,Transport,ktep,11158,2017,Ile De France,CONSOMMATION
+CTR1,Transport,ktep,11125,2018,Ile De France,CONSOMMATION
+CTR1,Transport,ktep,11183,2019,Ile De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2014,Ile De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2015,Ile De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2016,Ile De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2017,Ile De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2018,Ile De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2019,Ile De France,CONSOMMATION
+CTR11,Électricité,ktep,289,2014,Ile De France,CONSOMMATION
+CTR11,Électricité,ktep,295,2015,Ile De France,CONSOMMATION
+CTR11,Électricité,ktep,291,2016,Ile De France,CONSOMMATION
+CTR11,Électricité,ktep,290,2017,Ile De France,CONSOMMATION
+CTR11,Électricité,ktep,284,2018,Ile De France,CONSOMMATION
+CTR11,Électricité,ktep,278,2019,Ile De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Ile De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Ile De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Ile De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Ile De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Ile De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Ile De France,CONSOMMATION
+CTR3,Biocarburants,ktep,343,2014,Ile De France,CONSOMMATION
+CTR3,Biocarburants,ktep,344,2015,Ile De France,CONSOMMATION
+CTR3,Biocarburants,ktep,349,2016,Ile De France,CONSOMMATION
+CTR3,Biocarburants,ktep,360,2017,Ile De France,CONSOMMATION
+CTR3,Biocarburants,ktep,354,2018,Ile De France,CONSOMMATION
+CTR3,Biocarburants,ktep,356,2019,Ile De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2014,Ile De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2015,Ile De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2016,Ile De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2017,Ile De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2018,Ile De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2019,Ile De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Ile De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Ile De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Ile De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Ile De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Ile De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Ile De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,64,2014,Ile De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,67,2015,Ile De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,72,2016,Ile De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,80,2017,Ile De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,85,2018,Ile De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,94,2019,Ile De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,279,2014,Ile De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,278,2015,Ile De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,276,2016,Ile De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,279,2017,Ile De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,268,2018,Ile De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,261,2019,Ile De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,177,2014,Ile De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,179,2015,Ile De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,202,2016,Ile De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,229,2017,Ile De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,307,2018,Ile De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,392,2019,Ile De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,14,2014,Ile De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,14,2015,Ile De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,16,2016,Ile De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,18,2017,Ile De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,24,2018,Ile De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,30,2019,Ile De France,CONSOMMATION

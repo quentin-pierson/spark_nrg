@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,6673,2014,Bourgogne Franche Comte,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7015,2015,Bourgogne Franche Comte,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7346,2016,Bourgogne Franche Comte,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7281,2017,Bourgogne Franche Comte,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7127,2018,Bourgogne Franche Comte,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7107,2019,Bourgogne Franche Comte,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Bourgogne Franche Comte,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2014,Bourgogne Franche Comte,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Bourgogne Franche Comte,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2015,Bourgogne Franche Comte,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Bourgogne Franche Comte,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2016,Bourgogne Franche Comte,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Bourgogne Franche Comte,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2017,Bourgogne Franche Comte,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Bourgogne Franche Comte,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2018,Bourgogne Franche Comte,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Bourgogne Franche Comte,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2019,Bourgogne Franche Comte,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Bourgogne Franche Comte,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Bourgogne Franche Comte,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Bourgogne Franche Comte,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Bourgogne Franche Comte,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Bourgogne Franche Comte,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Bourgogne Franche Comte,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Bourgogne Franche Comte,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Bourgogne Franche Comte,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Bourgogne Franche Comte,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Bourgogne Franche Comte,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Bourgogne Franche Comte,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Bourgogne Franche Comte,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2014,Bourgogne Franche Comte,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2015,Bourgogne Franche Comte,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2016,Bourgogne Franche Comte,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2017,Bourgogne Franche Comte,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2018,Bourgogne Franche Comte,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2019,Bourgogne Franche Comte,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2014,Bourgogne Franche Comte,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Bourgogne Franche Comte,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2016,Bourgogne Franche Comte,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2017,Bourgogne Franche Comte,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2018,Bourgogne Franche Comte,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2019,Bourgogne Franche Comte,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Bourgogne Franche Comte,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Bourgogne Franche Comte,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Bourgogne Franche Comte,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Bourgogne Franche Comte,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Bourgogne Franche Comte,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Bourgogne Franche Comte,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",266,2014,Bourgogne Franche Comte,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",262,2015,Bourgogne Franche Comte,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",271,2016,Bourgogne Franche Comte,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",265,2017,Bourgogne Franche Comte,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",275,2018,Bourgogne Franche Comte,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",272,2019,Bourgogne Franche Comte,CONSOMMATION
+CA2,Produits pétroliers,ktep,227,2014,Bourgogne Franche Comte,CONSOMMATION
+CA2,Produits pétroliers,ktep,222,2015,Bourgogne Franche Comte,CONSOMMATION
+CA2,Produits pétroliers,ktep,229,2016,Bourgogne Franche Comte,CONSOMMATION
+CA2,Produits pétroliers,ktep,220,2017,Bourgogne Franche Comte,CONSOMMATION
+CA2,Produits pétroliers,ktep,230,2018,Bourgogne Franche Comte,CONSOMMATION
+CA2,Produits pétroliers,ktep,228,2019,Bourgogne Franche Comte,CONSOMMATION
+CA21,dont pêche,ktep,0,2014,Bourgogne Franche Comte,CONSOMMATION
+CA21,dont pêche,ktep,0,2015,Bourgogne Franche Comte,CONSOMMATION
+CA21,dont pêche,ktep,0,2016,Bourgogne Franche Comte,CONSOMMATION
+CA21,dont pêche,ktep,0,2017,Bourgogne Franche Comte,CONSOMMATION
+CA21,dont pêche,ktep,0,2018,Bourgogne Franche Comte,CONSOMMATION
+CA21,dont pêche,ktep,0,2019,Bourgogne Franche Comte,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,51,2014,Bourgogne Franche Comte,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,49,2015,Bourgogne Franche Comte,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,28,2016,Bourgogne Franche Comte,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,54,2017,Bourgogne Franche Comte,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,51,2018,Bourgogne Franche Comte,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,56,2019,Bourgogne Franche Comte,CONSOMMATION
+CA4,Gaz naturel,ktep,4,2014,Bourgogne Franche Comte,CONSOMMATION
+CA4,Gaz naturel,ktep,4,2015,Bourgogne Franche Comte,CONSOMMATION
+CA4,Gaz naturel,ktep,2,2016,Bourgogne Franche Comte,CONSOMMATION
+CA4,Gaz naturel,ktep,4,2017,Bourgogne Franche Comte,CONSOMMATION
+CA4,Gaz naturel,ktep,4,2018,Bourgogne Franche Comte,CONSOMMATION
+CA4,Gaz naturel,ktep,4,2019,Bourgogne Franche Comte,CONSOMMATION
+CA5,Électricité (unité propre),GWh,337,2014,Bourgogne Franche Comte,CONSOMMATION
+CA5,Électricité (unité propre),GWh,353,2015,Bourgogne Franche Comte,CONSOMMATION
+CA5,Électricité (unité propre),GWh,380,2016,Bourgogne Franche Comte,CONSOMMATION
+CA5,Électricité (unité propre),GWh,400,2017,Bourgogne Franche Comte,CONSOMMATION
+CA5,Électricité (unité propre),GWh,398,2018,Bourgogne Franche Comte,CONSOMMATION
+CA5,Électricité (unité propre),GWh,361,2019,Bourgogne Franche Comte,CONSOMMATION
+CA6,Électricité,ktep,29,2014,Bourgogne Franche Comte,CONSOMMATION
+CA6,Électricité,ktep,30,2015,Bourgogne Franche Comte,CONSOMMATION
+CA6,Électricité,ktep,33,2016,Bourgogne Franche Comte,CONSOMMATION
+CA6,Électricité,ktep,34,2017,Bourgogne Franche Comte,CONSOMMATION
+CA6,Électricité,ktep,34,2018,Bourgogne Franche Comte,CONSOMMATION
+CA6,Électricité,ktep,31,2019,Bourgogne Franche Comte,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,5,2014,Bourgogne Franche Comte,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,5,2015,Bourgogne Franche Comte,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,6,2016,Bourgogne Franche Comte,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,6,2017,Bourgogne Franche Comte,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,7,2018,Bourgogne Franche Comte,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2019,Bourgogne Franche Comte,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,1,2014,Bourgogne Franche Comte,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,1,2015,Bourgogne Franche Comte,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,1,2016,Bourgogne Franche Comte,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,1,2017,Bourgogne Franche Comte,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Bourgogne Franche Comte,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Bourgogne Franche Comte,CONSOMMATION
+CI1,Industrie,ktep,1254,2014,Bourgogne Franche Comte,CONSOMMATION
+CI1,Industrie,ktep,1360,2015,Bourgogne Franche Comte,CONSOMMATION
+CI1,Industrie,ktep,1442,2016,Bourgogne Franche Comte,CONSOMMATION
+CI1,Industrie,ktep,1320,2017,Bourgogne Franche Comte,CONSOMMATION
+CI1,Industrie,ktep,1384,2018,Bourgogne Franche Comte,CONSOMMATION
+CI1,Industrie,ktep,1381,2019,Bourgogne Franche Comte,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,12,2014,Bourgogne Franche Comte,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,100,2015,Bourgogne Franche Comte,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,120,2016,Bourgogne Franche Comte,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,124,2017,Bourgogne Franche Comte,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,93,2018,Bourgogne Franche Comte,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,108,2019,Bourgogne Franche Comte,CONSOMMATION
+CI3,Charbon,ktep,127,2014,Bourgogne Franche Comte,CONSOMMATION
+CI3,Charbon,ktep,19,2015,Bourgogne Franche Comte,CONSOMMATION
+CI3,Charbon,ktep,22,2016,Bourgogne Franche Comte,CONSOMMATION
+CI3,Charbon,ktep,26,2017,Bourgogne Franche Comte,CONSOMMATION
+CI3,Charbon,ktep,29,2018,Bourgogne Franche Comte,CONSOMMATION
+CI3,Charbon,ktep,28,2019,Bourgogne Franche Comte,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Bourgogne Franche Comte,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Bourgogne Franche Comte,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Bourgogne Franche Comte,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Bourgogne Franche Comte,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Bourgogne Franche Comte,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Bourgogne Franche Comte,CONSOMMATION
+CI4,Produits pétroliers,ktep,99,2014,Bourgogne Franche Comte,CONSOMMATION
+CI4,Produits pétroliers,ktep,100,2015,Bourgogne Franche Comte,CONSOMMATION
+CI4,Produits pétroliers,ktep,106,2016,Bourgogne Franche Comte,CONSOMMATION
+CI4,Produits pétroliers,ktep,99,2017,Bourgogne Franche Comte,CONSOMMATION
+CI4,Produits pétroliers,ktep,94,2018,Bourgogne Franche Comte,CONSOMMATION
+CI4,Produits pétroliers,ktep,92,2019,Bourgogne Franche Comte,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CI6,Gaz naturel,ktep,436,2014,Bourgogne Franche Comte,CONSOMMATION
+CI6,Gaz naturel,ktep,538,2015,Bourgogne Franche Comte,CONSOMMATION
+CI6,Gaz naturel,ktep,590,2016,Bourgogne Franche Comte,CONSOMMATION
+CI6,Gaz naturel,ktep,471,2017,Bourgogne Franche Comte,CONSOMMATION
+CI6,Gaz naturel,ktep,546,2018,Bourgogne Franche Comte,CONSOMMATION
+CI6,Gaz naturel,ktep,543,2019,Bourgogne Franche Comte,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CI8,Électricité,ktep,520,2014,Bourgogne Franche Comte,CONSOMMATION
+CI8,Électricité,ktep,520,2015,Bourgogne Franche Comte,CONSOMMATION
+CI8,Électricité,ktep,511,2016,Bourgogne Franche Comte,CONSOMMATION
+CI8,Électricité,ktep,525,2017,Bourgogne Franche Comte,CONSOMMATION
+CI8,Électricité,ktep,524,2018,Bourgogne Franche Comte,CONSOMMATION
+CI8,Électricité,ktep,528,2019,Bourgogne Franche Comte,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,59,2014,Bourgogne Franche Comte,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,84,2015,Bourgogne Franche Comte,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,93,2016,Bourgogne Franche Comte,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,76,2017,Bourgogne Franche Comte,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,100,2018,Bourgogne Franche Comte,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,82,2019,Bourgogne Franche Comte,CONSOMMATION
+CR1,Résidentiel,ktep,1651,2014,Bourgogne Franche Comte,CONSOMMATION
+CR1,Résidentiel,ktep,1792,2015,Bourgogne Franche Comte,CONSOMMATION
+CR1,Résidentiel,ktep,1960,2016,Bourgogne Franche Comte,CONSOMMATION
+CR1,Résidentiel,ktep,1914,2017,Bourgogne Franche Comte,CONSOMMATION
+CR1,Résidentiel,ktep,1778,2018,Bourgogne Franche Comte,CONSOMMATION
+CR1,Résidentiel,ktep,1776,2019,Bourgogne Franche Comte,CONSOMMATION
+CR2,Produits pétroliers,ktep,266,2014,Bourgogne Franche Comte,CONSOMMATION
+CR2,Produits pétroliers,ktep,270,2015,Bourgogne Franche Comte,CONSOMMATION
+CR2,Produits pétroliers,ktep,308,2016,Bourgogne Franche Comte,CONSOMMATION
+CR2,Produits pétroliers,ktep,321,2017,Bourgogne Franche Comte,CONSOMMATION
+CR2,Produits pétroliers,ktep,267,2018,Bourgogne Franche Comte,CONSOMMATION
+CR2,Produits pétroliers,ktep,258,2019,Bourgogne Franche Comte,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CR4,Gaz naturel,ktep,452,2014,Bourgogne Franche Comte,CONSOMMATION
+CR4,Gaz naturel,ktep,534,2015,Bourgogne Franche Comte,CONSOMMATION
+CR4,Gaz naturel,ktep,599,2016,Bourgogne Franche Comte,CONSOMMATION
+CR4,Gaz naturel,ktep,582,2017,Bourgogne Franche Comte,CONSOMMATION
+CR4,Gaz naturel,ktep,530,2018,Bourgogne Franche Comte,CONSOMMATION
+CR4,Gaz naturel,ktep,528,2019,Bourgogne Franche Comte,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CR6,Électricité,ktep,563,2014,Bourgogne Franche Comte,CONSOMMATION
+CR6,Électricité,ktep,585,2015,Bourgogne Franche Comte,CONSOMMATION
+CR6,Électricité,ktep,619,2016,Bourgogne Franche Comte,CONSOMMATION
+CR6,Électricité,ktep,603,2017,Bourgogne Franche Comte,CONSOMMATION
+CR6,Électricité,ktep,582,2018,Bourgogne Franche Comte,CONSOMMATION
+CR6,Électricité,ktep,584,2019,Bourgogne Franche Comte,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,324,2014,Bourgogne Franche Comte,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,343,2015,Bourgogne Franche Comte,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,366,2016,Bourgogne Franche Comte,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,353,2017,Bourgogne Franche Comte,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,342,2018,Bourgogne Franche Comte,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,345,2019,Bourgogne Franche Comte,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,46,2014,Bourgogne Franche Comte,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,59,2015,Bourgogne Franche Comte,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,67,2016,Bourgogne Franche Comte,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,55,2017,Bourgogne Franche Comte,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,57,2018,Bourgogne Franche Comte,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,61,2019,Bourgogne Franche Comte,CONSOMMATION
+CTE1,Tertiaire,ktep,931,2014,Bourgogne Franche Comte,CONSOMMATION
+CTE1,Tertiaire,ktep,983,2015,Bourgogne Franche Comte,CONSOMMATION
+CTE1,Tertiaire,ktep,1035,2016,Bourgogne Franche Comte,CONSOMMATION
+CTE1,Tertiaire,ktep,1072,2017,Bourgogne Franche Comte,CONSOMMATION
+CTE1,Tertiaire,ktep,1023,2018,Bourgogne Franche Comte,CONSOMMATION
+CTE1,Tertiaire,ktep,999,2019,Bourgogne Franche Comte,CONSOMMATION
+CTE2,Produits pétroliers,ktep,123,2014,Bourgogne Franche Comte,CONSOMMATION
+CTE2,Produits pétroliers,ktep,131,2015,Bourgogne Franche Comte,CONSOMMATION
+CTE2,Produits pétroliers,ktep,151,2016,Bourgogne Franche Comte,CONSOMMATION
+CTE2,Produits pétroliers,ktep,167,2017,Bourgogne Franche Comte,CONSOMMATION
+CTE2,Produits pétroliers,ktep,145,2018,Bourgogne Franche Comte,CONSOMMATION
+CTE2,Produits pétroliers,ktep,146,2019,Bourgogne Franche Comte,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CTE4,Gaz naturel,ktep,294,2014,Bourgogne Franche Comte,CONSOMMATION
+CTE4,Gaz naturel,ktep,310,2015,Bourgogne Franche Comte,CONSOMMATION
+CTE4,Gaz naturel,ktep,328,2016,Bourgogne Franche Comte,CONSOMMATION
+CTE4,Gaz naturel,ktep,340,2017,Bourgogne Franche Comte,CONSOMMATION
+CTE4,Gaz naturel,ktep,324,2018,Bourgogne Franche Comte,CONSOMMATION
+CTE4,Gaz naturel,ktep,319,2019,Bourgogne Franche Comte,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CTE6,Électricité,ktep,460,2014,Bourgogne Franche Comte,CONSOMMATION
+CTE6,Électricité,ktep,470,2015,Bourgogne Franche Comte,CONSOMMATION
+CTE6,Électricité,ktep,480,2016,Bourgogne Franche Comte,CONSOMMATION
+CTE6,Électricité,ktep,480,2017,Bourgogne Franche Comte,CONSOMMATION
+CTE6,Électricité,ktep,468,2018,Bourgogne Franche Comte,CONSOMMATION
+CTE6,Électricité,ktep,448,2019,Bourgogne Franche Comte,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,30,2014,Bourgogne Franche Comte,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,40,2015,Bourgogne Franche Comte,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,42,2016,Bourgogne Franche Comte,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,43,2017,Bourgogne Franche Comte,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,42,2018,Bourgogne Franche Comte,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,43,2019,Bourgogne Franche Comte,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,23,2014,Bourgogne Franche Comte,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,31,2015,Bourgogne Franche Comte,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,34,2016,Bourgogne Franche Comte,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,41,2017,Bourgogne Franche Comte,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,44,2018,Bourgogne Franche Comte,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,43,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR1,Transport,ktep,2571,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR1,Transport,ktep,2619,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR1,Transport,ktep,2639,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR1,Transport,ktep,2710,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR1,Transport,ktep,2667,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR1,Transport,ktep,2680,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,839,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,842,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,819,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,810,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,765,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,747,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR11,Électricité,ktep,72,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR11,Électricité,ktep,72,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR11,Électricité,ktep,70,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR11,Électricité,ktep,70,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR11,Électricité,ktep,66,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR11,Électricité,ktep,64,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CTR3,Biocarburants,ktep,158,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR3,Biocarburants,ktep,162,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR3,Biocarburants,ktep,162,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR3,Biocarburants,ktep,172,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR3,Biocarburants,ktep,173,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR3,Biocarburants,ktep,176,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,359,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,367,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,382,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,402,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,417,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,449,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Bourgogne Franche Comte,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Bourgogne Franche Comte,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Bourgogne Franche Comte,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Bourgogne Franche Comte,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Bourgogne Franche Comte,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Bourgogne Franche Comte,CONSOMMATION
+CTR6,Biocarburants essence,ktep,20,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR6,Biocarburants essence,ktep,22,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR6,Biocarburants essence,ktep,24,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR6,Biocarburants essence,ktep,27,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR6,Biocarburants essence,ktep,30,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR6,Biocarburants essence,ktep,33,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,138,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,140,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,138,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,145,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,142,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,142,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,30,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,22,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,21,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,23,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,21,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,28,2019,Bourgogne Franche Comte,CONSOMMATION
+CTR9,Gaz naturel,ktep,2,2014,Bourgogne Franche Comte,CONSOMMATION
+CTR9,Gaz naturel,ktep,2,2015,Bourgogne Franche Comte,CONSOMMATION
+CTR9,Gaz naturel,ktep,2,2016,Bourgogne Franche Comte,CONSOMMATION
+CTR9,Gaz naturel,ktep,2,2017,Bourgogne Franche Comte,CONSOMMATION
+CTR9,Gaz naturel,ktep,2,2018,Bourgogne Franche Comte,CONSOMMATION
+CTR9,Gaz naturel,ktep,2,2019,Bourgogne Franche Comte,CONSOMMATION

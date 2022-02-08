@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,5914,2014,Centre Val De Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,5975,2015,Centre Val De Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,6033,2016,Centre Val De Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,6121,2017,Centre Val De Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,6010,2018,Centre Val De Loire,CONSOMMATION
+C1,Consommation finale énergétique,ktep,5953,2019,Centre Val De Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Centre Val De Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2014,Centre Val De Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Centre Val De Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,2,2015,Centre Val De Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Centre Val De Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2016,Centre Val De Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Centre Val De Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,3,2017,Centre Val De Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Centre Val De Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,5,2018,Centre Val De Loire,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Centre Val De Loire,CONSOMMATION
+C13,- Déchets industriels,ktep,5,2019,Centre Val De Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Centre Val De Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Centre Val De Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Centre Val De Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Centre Val De Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Centre Val De Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Centre Val De Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Centre Val De Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Centre Val De Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Centre Val De Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Centre Val De Loire,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Centre Val De Loire,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Centre Val De Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2014,Centre Val De Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2015,Centre Val De Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2016,Centre Val De Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2017,Centre Val De Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2018,Centre Val De Loire,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2019,Centre Val De Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2014,Centre Val De Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Centre Val De Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2016,Centre Val De Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2017,Centre Val De Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2018,Centre Val De Loire,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2019,Centre Val De Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Centre Val De Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Centre Val De Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Centre Val De Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Centre Val De Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Centre Val De Loire,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Centre Val De Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",308,2014,Centre Val De Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",316,2015,Centre Val De Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",314,2016,Centre Val De Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",308,2017,Centre Val De Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",300,2018,Centre Val De Loire,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",298,2019,Centre Val De Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,237,2014,Centre Val De Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,224,2015,Centre Val De Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,220,2016,Centre Val De Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,222,2017,Centre Val De Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,213,2018,Centre Val De Loire,CONSOMMATION
+CA2,Produits pétroliers,ktep,208,2019,Centre Val De Loire,CONSOMMATION
+CA21,dont pêche,ktep,0,2014,Centre Val De Loire,CONSOMMATION
+CA21,dont pêche,ktep,0,2015,Centre Val De Loire,CONSOMMATION
+CA21,dont pêche,ktep,0,2016,Centre Val De Loire,CONSOMMATION
+CA21,dont pêche,ktep,0,2017,Centre Val De Loire,CONSOMMATION
+CA21,dont pêche,ktep,0,2018,Centre Val De Loire,CONSOMMATION
+CA21,dont pêche,ktep,0,2019,Centre Val De Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,273,2014,Centre Val De Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,223,2015,Centre Val De Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,350,2016,Centre Val De Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,278,2017,Centre Val De Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,283,2018,Centre Val De Loire,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,265,2019,Centre Val De Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,21,2014,Centre Val De Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,17,2015,Centre Val De Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,27,2016,Centre Val De Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,22,2017,Centre Val De Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,22,2018,Centre Val De Loire,CONSOMMATION
+CA4,Gaz naturel,ktep,21,2019,Centre Val De Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,486,2014,Centre Val De Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,773,2015,Centre Val De Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,674,2016,Centre Val De Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,646,2017,Centre Val De Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,655,2018,Centre Val De Loire,CONSOMMATION
+CA5,Électricité (unité propre),GWh,700,2019,Centre Val De Loire,CONSOMMATION
+CA6,Électricité,ktep,42,2014,Centre Val De Loire,CONSOMMATION
+CA6,Électricité,ktep,66,2015,Centre Val De Loire,CONSOMMATION
+CA6,Électricité,ktep,58,2016,Centre Val De Loire,CONSOMMATION
+CA6,Électricité,ktep,56,2017,Centre Val De Loire,CONSOMMATION
+CA6,Électricité,ktep,56,2018,Centre Val De Loire,CONSOMMATION
+CA6,Électricité,ktep,60,2019,Centre Val De Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2014,Centre Val De Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2015,Centre Val De Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2016,Centre Val De Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,8,2017,Centre Val De Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,9,2018,Centre Val De Loire,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,9,2019,Centre Val De Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Centre Val De Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Centre Val De Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Centre Val De Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Centre Val De Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Centre Val De Loire,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Centre Val De Loire,CONSOMMATION
+CI1,Industrie,ktep,984,2014,Centre Val De Loire,CONSOMMATION
+CI1,Industrie,ktep,956,2015,Centre Val De Loire,CONSOMMATION
+CI1,Industrie,ktep,920,2016,Centre Val De Loire,CONSOMMATION
+CI1,Industrie,ktep,935,2017,Centre Val De Loire,CONSOMMATION
+CI1,Industrie,ktep,996,2018,Centre Val De Loire,CONSOMMATION
+CI1,Industrie,ktep,922,2019,Centre Val De Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,1,2014,Centre Val De Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,6,2015,Centre Val De Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,6,2016,Centre Val De Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,5,2017,Centre Val De Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,9,2018,Centre Val De Loire,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,6,2019,Centre Val De Loire,CONSOMMATION
+CI3,Charbon,ktep,24,2014,Centre Val De Loire,CONSOMMATION
+CI3,Charbon,ktep,19,2015,Centre Val De Loire,CONSOMMATION
+CI3,Charbon,ktep,20,2016,Centre Val De Loire,CONSOMMATION
+CI3,Charbon,ktep,19,2017,Centre Val De Loire,CONSOMMATION
+CI3,Charbon,ktep,28,2018,Centre Val De Loire,CONSOMMATION
+CI3,Charbon,ktep,29,2019,Centre Val De Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Centre Val De Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Centre Val De Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Centre Val De Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Centre Val De Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Centre Val De Loire,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Centre Val De Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,120,2014,Centre Val De Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,102,2015,Centre Val De Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,101,2016,Centre Val De Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,117,2017,Centre Val De Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,111,2018,Centre Val De Loire,CONSOMMATION
+CI4,Produits pétroliers,ktep,111,2019,Centre Val De Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Centre Val De Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Centre Val De Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Centre Val De Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Centre Val De Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Centre Val De Loire,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Centre Val De Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,445,2014,Centre Val De Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,422,2015,Centre Val De Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,367,2016,Centre Val De Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,393,2017,Centre Val De Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,457,2018,Centre Val De Loire,CONSOMMATION
+CI6,Gaz naturel,ktep,420,2019,Centre Val De Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Centre Val De Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Centre Val De Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Centre Val De Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Centre Val De Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Centre Val De Loire,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Centre Val De Loire,CONSOMMATION
+CI8,Électricité,ktep,355,2014,Centre Val De Loire,CONSOMMATION
+CI8,Électricité,ktep,356,2015,Centre Val De Loire,CONSOMMATION
+CI8,Électricité,ktep,353,2016,Centre Val De Loire,CONSOMMATION
+CI8,Électricité,ktep,344,2017,Centre Val De Loire,CONSOMMATION
+CI8,Électricité,ktep,339,2018,Centre Val De Loire,CONSOMMATION
+CI8,Électricité,ktep,315,2019,Centre Val De Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,40,2014,Centre Val De Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,52,2015,Centre Val De Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,73,2016,Centre Val De Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,56,2017,Centre Val De Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,51,2018,Centre Val De Loire,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,41,2019,Centre Val De Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1675,2014,Centre Val De Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1724,2015,Centre Val De Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1764,2016,Centre Val De Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1763,2017,Centre Val De Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1666,2018,Centre Val De Loire,CONSOMMATION
+CR1,Résidentiel,ktep,1669,2019,Centre Val De Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,322,2014,Centre Val De Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,315,2015,Centre Val De Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,277,2016,Centre Val De Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,275,2017,Centre Val De Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,244,2018,Centre Val De Loire,CONSOMMATION
+CR2,Produits pétroliers,ktep,249,2019,Centre Val De Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Centre Val De Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Centre Val De Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Centre Val De Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Centre Val De Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Centre Val De Loire,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Centre Val De Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,440,2014,Centre Val De Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,463,2015,Centre Val De Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,518,2016,Centre Val De Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,502,2017,Centre Val De Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,465,2018,Centre Val De Loire,CONSOMMATION
+CR4,Gaz naturel,ktep,460,2019,Centre Val De Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Centre Val De Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Centre Val De Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Centre Val De Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Centre Val De Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Centre Val De Loire,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Centre Val De Loire,CONSOMMATION
+CR6,Électricité,ktep,579,2014,Centre Val De Loire,CONSOMMATION
+CR6,Électricité,ktep,591,2015,Centre Val De Loire,CONSOMMATION
+CR6,Électricité,ktep,590,2016,Centre Val De Loire,CONSOMMATION
+CR6,Électricité,ktep,618,2017,Centre Val De Loire,CONSOMMATION
+CR6,Électricité,ktep,603,2018,Centre Val De Loire,CONSOMMATION
+CR6,Électricité,ktep,602,2019,Centre Val De Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,298,2014,Centre Val De Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,315,2015,Centre Val De Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,337,2016,Centre Val De Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,324,2017,Centre Val De Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,314,2018,Centre Val De Loire,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,317,2019,Centre Val De Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,36,2014,Centre Val De Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,40,2015,Centre Val De Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,41,2016,Centre Val De Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,43,2017,Centre Val De Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,40,2018,Centre Val De Loire,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,41,2019,Centre Val De Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,834,2014,Centre Val De Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,849,2015,Centre Val De Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,858,2016,Centre Val De Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,906,2017,Centre Val De Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,859,2018,Centre Val De Loire,CONSOMMATION
+CTE1,Tertiaire,ktep,854,2019,Centre Val De Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,149,2014,Centre Val De Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,153,2015,Centre Val De Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,135,2016,Centre Val De Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,141,2017,Centre Val De Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,132,2018,Centre Val De Loire,CONSOMMATION
+CTE2,Produits pétroliers,ktep,139,2019,Centre Val De Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Centre Val De Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Centre Val De Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Centre Val De Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Centre Val De Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Centre Val De Loire,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Centre Val De Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,221,2014,Centre Val De Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,220,2015,Centre Val De Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,232,2016,Centre Val De Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,267,2017,Centre Val De Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,235,2018,Centre Val De Loire,CONSOMMATION
+CTE4,Gaz naturel,ktep,232,2019,Centre Val De Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Centre Val De Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Centre Val De Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Centre Val De Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Centre Val De Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Centre Val De Loire,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Centre Val De Loire,CONSOMMATION
+CTE6,Électricité,ktep,435,2014,Centre Val De Loire,CONSOMMATION
+CTE6,Électricité,ktep,439,2015,Centre Val De Loire,CONSOMMATION
+CTE6,Électricité,ktep,438,2016,Centre Val De Loire,CONSOMMATION
+CTE6,Électricité,ktep,450,2017,Centre Val De Loire,CONSOMMATION
+CTE6,Électricité,ktep,444,2018,Centre Val De Loire,CONSOMMATION
+CTE6,Électricité,ktep,436,2019,Centre Val De Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,18,2014,Centre Val De Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,22,2015,Centre Val De Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,24,2016,Centre Val De Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,31,2017,Centre Val De Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,29,2018,Centre Val De Loire,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,28,2019,Centre Val De Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,11,2014,Centre Val De Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,15,2015,Centre Val De Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,29,2016,Centre Val De Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,18,2017,Centre Val De Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,19,2018,Centre Val De Loire,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,19,2019,Centre Val De Loire,CONSOMMATION
+CTR1,Transport,ktep,2113,2014,Centre Val De Loire,CONSOMMATION
+CTR1,Transport,ktep,2129,2015,Centre Val De Loire,CONSOMMATION
+CTR1,Transport,ktep,2179,2016,Centre Val De Loire,CONSOMMATION
+CTR1,Transport,ktep,2210,2017,Centre Val De Loire,CONSOMMATION
+CTR1,Transport,ktep,2189,2018,Centre Val De Loire,CONSOMMATION
+CTR1,Transport,ktep,2210,2019,Centre Val De Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,508,2014,Centre Val De Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,504,2015,Centre Val De Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,477,2016,Centre Val De Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,515,2017,Centre Val De Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,463,2018,Centre Val De Loire,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,458,2019,Centre Val De Loire,CONSOMMATION
+CTR11,Électricité,ktep,44,2014,Centre Val De Loire,CONSOMMATION
+CTR11,Électricité,ktep,43,2015,Centre Val De Loire,CONSOMMATION
+CTR11,Électricité,ktep,41,2016,Centre Val De Loire,CONSOMMATION
+CTR11,Électricité,ktep,44,2017,Centre Val De Loire,CONSOMMATION
+CTR11,Électricité,ktep,40,2018,Centre Val De Loire,CONSOMMATION
+CTR11,Électricité,ktep,39,2019,Centre Val De Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Centre Val De Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Centre Val De Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Centre Val De Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Centre Val De Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Centre Val De Loire,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Centre Val De Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,137,2014,Centre Val De Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,139,2015,Centre Val De Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,142,2016,Centre Val De Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,149,2017,Centre Val De Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,152,2018,Centre Val De Loire,CONSOMMATION
+CTR3,Biocarburants,ktep,156,2019,Centre Val De Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,328,2014,Centre Val De Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,329,2015,Centre Val De Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,343,2016,Centre Val De Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,353,2017,Centre Val De Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,367,2018,Centre Val De Loire,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,392,2019,Centre Val De Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Centre Val De Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Centre Val De Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Centre Val De Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Centre Val De Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Centre Val De Loire,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Centre Val De Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,19,2014,Centre Val De Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,19,2015,Centre Val De Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,21,2016,Centre Val De Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,24,2017,Centre Val De Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,26,2018,Centre Val De Loire,CONSOMMATION
+CTR6,Biocarburants essence,ktep,29,2019,Centre Val De Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,119,2014,Centre Val De Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,120,2015,Centre Val De Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,120,2016,Centre Val De Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,125,2017,Centre Val De Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,125,2018,Centre Val De Loire,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,126,2019,Centre Val De Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,10,2014,Centre Val De Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,10,2015,Centre Val De Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,10,2016,Centre Val De Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,9,2017,Centre Val De Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,10,2018,Centre Val De Loire,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,12,2019,Centre Val De Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2014,Centre Val De Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2015,Centre Val De Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2016,Centre Val De Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2017,Centre Val De Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2018,Centre Val De Loire,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2019,Centre Val De Loire,CONSOMMATION

@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,16889,2014,Hauts De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,16735,2015,Hauts De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,16968,2016,Hauts De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,17239,2017,Hauts De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,16949,2018,Hauts De France,CONSOMMATION
+C1,Consommation finale énergétique,ktep,16335,2019,Hauts De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Hauts De France,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2014,Hauts De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Hauts De France,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2015,Hauts De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Hauts De France,CONSOMMATION
+C13,- Déchets industriels,ktep,59,2016,Hauts De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Hauts De France,CONSOMMATION
+C13,- Déchets industriels,ktep,64,2017,Hauts De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Hauts De France,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2018,Hauts De France,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Hauts De France,CONSOMMATION
+C13,- Déchets industriels,ktep,76,2019,Hauts De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Hauts De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Hauts De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Hauts De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Hauts De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Hauts De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Hauts De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Hauts De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Hauts De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Hauts De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Hauts De France,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Hauts De France,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Hauts De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2014,Hauts De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,972,2015,Hauts De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,829,2016,Hauts De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2017,Hauts De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2018,Hauts De France,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,988,2019,Hauts De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2014,Hauts De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Hauts De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2016,Hauts De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2017,Hauts De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2018,Hauts De France,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2019,Hauts De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2014,Hauts De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2015,Hauts De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2016,Hauts De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2017,Hauts De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2018,Hauts De France,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2019,Hauts De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",393,2014,Hauts De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",389,2015,Hauts De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",350,2016,Hauts De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",343,2017,Hauts De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",356,2018,Hauts De France,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",395,2019,Hauts De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,322,2014,Hauts De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,315,2015,Hauts De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,281,2016,Hauts De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,266,2017,Hauts De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,279,2018,Hauts De France,CONSOMMATION
+CA2,Produits pétroliers,ktep,320,2019,Hauts De France,CONSOMMATION
+CA21,dont pêche,ktep,32,2014,Hauts De France,CONSOMMATION
+CA21,dont pêche,ktep,24,2015,Hauts De France,CONSOMMATION
+CA21,dont pêche,ktep,9,2016,Hauts De France,CONSOMMATION
+CA21,dont pêche,ktep,8,2017,Hauts De France,CONSOMMATION
+CA21,dont pêche,ktep,10,2018,Hauts De France,CONSOMMATION
+CA21,dont pêche,ktep,38,2019,Hauts De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,121,2014,Hauts De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,98,2015,Hauts De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,79,2016,Hauts De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,100,2017,Hauts De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,106,2018,Hauts De France,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,100,2019,Hauts De France,CONSOMMATION
+CA4,Gaz naturel,ktep,9,2014,Hauts De France,CONSOMMATION
+CA4,Gaz naturel,ktep,8,2015,Hauts De France,CONSOMMATION
+CA4,Gaz naturel,ktep,6,2016,Hauts De France,CONSOMMATION
+CA4,Gaz naturel,ktep,8,2017,Hauts De France,CONSOMMATION
+CA4,Gaz naturel,ktep,8,2018,Hauts De France,CONSOMMATION
+CA4,Gaz naturel,ktep,8,2019,Hauts De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,691,2014,Hauts De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,719,2015,Hauts De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,680,2016,Hauts De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,746,2017,Hauts De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,734,2018,Hauts De France,CONSOMMATION
+CA5,Électricité (unité propre),GWh,706,2019,Hauts De France,CONSOMMATION
+CA6,Électricité,ktep,59,2014,Hauts De France,CONSOMMATION
+CA6,Électricité,ktep,62,2015,Hauts De France,CONSOMMATION
+CA6,Électricité,ktep,58,2016,Hauts De France,CONSOMMATION
+CA6,Électricité,ktep,64,2017,Hauts De France,CONSOMMATION
+CA6,Électricité,ktep,63,2018,Hauts De France,CONSOMMATION
+CA6,Électricité,ktep,61,2019,Hauts De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,3,2014,Hauts De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,4,2015,Hauts De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,4,2016,Hauts De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,5,2017,Hauts De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,6,2018,Hauts De France,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,6,2019,Hauts De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Hauts De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Hauts De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Hauts De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Hauts De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Hauts De France,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Hauts De France,CONSOMMATION
+CI1,Industrie,ktep,7066,2014,Hauts De France,CONSOMMATION
+CI1,Industrie,ktep,6620,2015,Hauts De France,CONSOMMATION
+CI1,Industrie,ktep,6738,2016,Hauts De France,CONSOMMATION
+CI1,Industrie,ktep,7073,2017,Hauts De France,CONSOMMATION
+CI1,Industrie,ktep,7074,2018,Hauts De France,CONSOMMATION
+CI1,Industrie,ktep,6557,2019,Hauts De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,170,2014,Hauts De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,154,2015,Hauts De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,175,2016,Hauts De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,191,2017,Hauts De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,146,2018,Hauts De France,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,143,2019,Hauts De France,CONSOMMATION
+CI3,Charbon,ktep,"",2014,Hauts De France,CONSOMMATION
+CI3,Charbon,ktep,"",2015,Hauts De France,CONSOMMATION
+CI3,Charbon,ktep,"",2016,Hauts De France,CONSOMMATION
+CI3,Charbon,ktep,"",2017,Hauts De France,CONSOMMATION
+CI3,Charbon,ktep,"",2018,Hauts De France,CONSOMMATION
+CI3,Charbon,ktep,"",2019,Hauts De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2014,Hauts De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2015,Hauts De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2016,Hauts De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2017,Hauts De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2018,Hauts De France,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2019,Hauts De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,350,2014,Hauts De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,343,2015,Hauts De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,397,2016,Hauts De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,367,2017,Hauts De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,291,2018,Hauts De France,CONSOMMATION
+CI4,Produits pétroliers,ktep,304,2019,Hauts De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Hauts De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Hauts De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Hauts De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Hauts De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Hauts De France,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Hauts De France,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2014,Hauts De France,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2015,Hauts De France,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2016,Hauts De France,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2017,Hauts De France,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2018,Hauts De France,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2019,Hauts De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Hauts De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Hauts De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Hauts De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Hauts De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Hauts De France,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Hauts De France,CONSOMMATION
+CI8,Électricité,ktep,"",2014,Hauts De France,CONSOMMATION
+CI8,Électricité,ktep,"",2015,Hauts De France,CONSOMMATION
+CI8,Électricité,ktep,"",2016,Hauts De France,CONSOMMATION
+CI8,Électricité,ktep,"",2017,Hauts De France,CONSOMMATION
+CI8,Électricité,ktep,"",2018,Hauts De France,CONSOMMATION
+CI8,Électricité,ktep,"",2019,Hauts De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2014,Hauts De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2015,Hauts De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2016,Hauts De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2017,Hauts De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2018,Hauts De France,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2019,Hauts De France,CONSOMMATION
+CR1,Résidentiel,ktep,3523,2014,Hauts De France,CONSOMMATION
+CR1,Résidentiel,ktep,3797,2015,Hauts De France,CONSOMMATION
+CR1,Résidentiel,ktep,4010,2016,Hauts De France,CONSOMMATION
+CR1,Résidentiel,ktep,3883,2017,Hauts De France,CONSOMMATION
+CR1,Résidentiel,ktep,3725,2018,Hauts De France,CONSOMMATION
+CR1,Résidentiel,ktep,3637,2019,Hauts De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,424,2014,Hauts De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,427,2015,Hauts De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,423,2016,Hauts De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,413,2017,Hauts De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,373,2018,Hauts De France,CONSOMMATION
+CR2,Produits pétroliers,ktep,338,2019,Hauts De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Hauts De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Hauts De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Hauts De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Hauts De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Hauts De France,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Hauts De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2014,Hauts De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2015,Hauts De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2016,Hauts De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2017,Hauts De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2018,Hauts De France,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2019,Hauts De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Hauts De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Hauts De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Hauts De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Hauts De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Hauts De France,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Hauts De France,CONSOMMATION
+CR6,Électricité,ktep,"",2014,Hauts De France,CONSOMMATION
+CR6,Électricité,ktep,"",2015,Hauts De France,CONSOMMATION
+CR6,Électricité,ktep,"",2016,Hauts De France,CONSOMMATION
+CR6,Électricité,ktep,"",2017,Hauts De France,CONSOMMATION
+CR6,Électricité,ktep,"",2018,Hauts De France,CONSOMMATION
+CR6,Électricité,ktep,"",2019,Hauts De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,600,2014,Hauts De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,634,2015,Hauts De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,677,2016,Hauts De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,651,2017,Hauts De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,631,2018,Hauts De France,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,637,2019,Hauts De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,58,2014,Hauts De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,63,2015,Hauts De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,73,2016,Hauts De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,69,2017,Hauts De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,68,2018,Hauts De France,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,71,2019,Hauts De France,CONSOMMATION
+CTE1,Tertiaire,ktep,1785,2014,Hauts De France,CONSOMMATION
+CTE1,Tertiaire,ktep,1804,2015,Hauts De France,CONSOMMATION
+CTE1,Tertiaire,ktep,1806,2016,Hauts De France,CONSOMMATION
+CTE1,Tertiaire,ktep,1835,2017,Hauts De France,CONSOMMATION
+CTE1,Tertiaire,ktep,1794,2018,Hauts De France,CONSOMMATION
+CTE1,Tertiaire,ktep,1766,2019,Hauts De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,204,2014,Hauts De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,212,2015,Hauts De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,212,2016,Hauts De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,219,2017,Hauts De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,208,2018,Hauts De France,CONSOMMATION
+CTE2,Produits pétroliers,ktep,196,2019,Hauts De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Hauts De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Hauts De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Hauts De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Hauts De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Hauts De France,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Hauts De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,578,2014,Hauts De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,568,2015,Hauts De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,547,2016,Hauts De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,560,2017,Hauts De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,545,2018,Hauts De France,CONSOMMATION
+CTE4,Gaz naturel,ktep,550,2019,Hauts De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Hauts De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Hauts De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Hauts De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Hauts De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Hauts De France,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Hauts De France,CONSOMMATION
+CTE6,Électricité,ktep,909,2014,Hauts De France,CONSOMMATION
+CTE6,Électricité,ktep,927,2015,Hauts De France,CONSOMMATION
+CTE6,Électricité,ktep,944,2016,Hauts De France,CONSOMMATION
+CTE6,Électricité,ktep,934,2017,Hauts De France,CONSOMMATION
+CTE6,Électricité,ktep,931,2018,Hauts De France,CONSOMMATION
+CTE6,Électricité,ktep,910,2019,Hauts De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,48,2014,Hauts De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,40,2015,Hauts De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,52,2016,Hauts De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,65,2017,Hauts De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,57,2018,Hauts De France,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,56,2019,Hauts De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,46,2014,Hauts De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,57,2015,Hauts De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,50,2016,Hauts De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,56,2017,Hauts De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,52,2018,Hauts De France,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,53,2019,Hauts De France,CONSOMMATION
+CTR1,Transport,ktep,4121,2014,Hauts De France,CONSOMMATION
+CTR1,Transport,ktep,4124,2015,Hauts De France,CONSOMMATION
+CTR1,Transport,ktep,4065,2016,Hauts De France,CONSOMMATION
+CTR1,Transport,ktep,4105,2017,Hauts De France,CONSOMMATION
+CTR1,Transport,ktep,4000,2018,Hauts De France,CONSOMMATION
+CTR1,Transport,ktep,3980,2019,Hauts De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2014,Hauts De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2015,Hauts De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2016,Hauts De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2017,Hauts De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2018,Hauts De France,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2019,Hauts De France,CONSOMMATION
+CTR11,Électricité,ktep,113,2014,Hauts De France,CONSOMMATION
+CTR11,Électricité,ktep,114,2015,Hauts De France,CONSOMMATION
+CTR11,Électricité,ktep,117,2016,Hauts De France,CONSOMMATION
+CTR11,Électricité,ktep,116,2017,Hauts De France,CONSOMMATION
+CTR11,Électricité,ktep,116,2018,Hauts De France,CONSOMMATION
+CTR11,Électricité,ktep,116,2019,Hauts De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Hauts De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Hauts De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Hauts De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Hauts De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Hauts De France,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Hauts De France,CONSOMMATION
+CTR3,Biocarburants,ktep,268,2014,Hauts De France,CONSOMMATION
+CTR3,Biocarburants,ktep,269,2015,Hauts De France,CONSOMMATION
+CTR3,Biocarburants,ktep,262,2016,Hauts De France,CONSOMMATION
+CTR3,Biocarburants,ktep,275,2017,Hauts De France,CONSOMMATION
+CTR3,Biocarburants,ktep,273,2018,Hauts De France,CONSOMMATION
+CTR3,Biocarburants,ktep,276,2019,Hauts De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,541,2014,Hauts De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,539,2015,Hauts De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,560,2016,Hauts De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,587,2017,Hauts De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,611,2018,Hauts De France,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,659,2019,Hauts De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Hauts De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Hauts De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Hauts De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Hauts De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Hauts De France,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Hauts De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,31,2014,Hauts De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,32,2015,Hauts De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,35,2016,Hauts De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,40,2017,Hauts De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,43,2018,Hauts De France,CONSOMMATION
+CTR6,Biocarburants essence,ktep,49,2019,Hauts De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,237,2014,Hauts De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,237,2015,Hauts De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,227,2016,Hauts De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,234,2017,Hauts De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,228,2018,Hauts De France,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,227,2019,Hauts De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,158,2014,Hauts De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,172,2015,Hauts De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,185,2016,Hauts De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,200,2017,Hauts De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,229,2018,Hauts De France,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,239,2019,Hauts De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,12,2014,Hauts De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,13,2015,Hauts De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,14,2016,Hauts De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,15,2017,Hauts De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,18,2018,Hauts De France,CONSOMMATION
+CTR9,Gaz naturel,ktep,18,2019,Hauts De France,CONSOMMATION

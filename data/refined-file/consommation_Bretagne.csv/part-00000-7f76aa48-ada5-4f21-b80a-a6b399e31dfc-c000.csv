@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,6633,2014,Bretagne,CONSOMMATION
+C1,Consommation finale énergétique,ktep,6766,2015,Bretagne,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7066,2016,Bretagne,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7047,2017,Bretagne,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7064,2018,Bretagne,CONSOMMATION
+C1,Consommation finale énergétique,ktep,7036,2019,Bretagne,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Bretagne,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2014,Bretagne,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Bretagne,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2015,Bretagne,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Bretagne,CONSOMMATION
+C13,- Déchets industriels,ktep,"",2016,Bretagne,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Bretagne,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2017,Bretagne,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Bretagne,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2018,Bretagne,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Bretagne,CONSOMMATION
+C13,- Déchets industriels,ktep,0,2019,Bretagne,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Bretagne,CONSOMMATION
+C14,- Géothermie,ktep,0,2014,Bretagne,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Bretagne,CONSOMMATION
+C14,- Géothermie,ktep,0,2015,Bretagne,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Bretagne,CONSOMMATION
+C14,- Géothermie,ktep,0,2016,Bretagne,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Bretagne,CONSOMMATION
+C14,- Géothermie,ktep,0,2017,Bretagne,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Bretagne,CONSOMMATION
+C14,- Géothermie,ktep,0,2018,Bretagne,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Bretagne,CONSOMMATION
+C14,- Géothermie,ktep,0,2019,Bretagne,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2014,Bretagne,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2015,Bretagne,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2016,Bretagne,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2017,Bretagne,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2018,Bretagne,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2019,Bretagne,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2014,Bretagne,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Bretagne,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2016,Bretagne,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2017,Bretagne,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2018,Bretagne,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2019,Bretagne,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Bretagne,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Bretagne,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Bretagne,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Bretagne,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Bretagne,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Bretagne,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",588,2014,Bretagne,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",595,2015,Bretagne,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",598,2016,Bretagne,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",619,2017,Bretagne,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",663,2018,Bretagne,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",644,2019,Bretagne,CONSOMMATION
+CA2,Produits pétroliers,ktep,415,2014,Bretagne,CONSOMMATION
+CA2,Produits pétroliers,ktep,433,2015,Bretagne,CONSOMMATION
+CA2,Produits pétroliers,ktep,414,2016,Bretagne,CONSOMMATION
+CA2,Produits pétroliers,ktep,446,2017,Bretagne,CONSOMMATION
+CA2,Produits pétroliers,ktep,472,2018,Bretagne,CONSOMMATION
+CA2,Produits pétroliers,ktep,443,2019,Bretagne,CONSOMMATION
+CA21,dont pêche,ktep,92,2014,Bretagne,CONSOMMATION
+CA21,dont pêche,ktep,94,2015,Bretagne,CONSOMMATION
+CA21,dont pêche,ktep,110,2016,Bretagne,CONSOMMATION
+CA21,dont pêche,ktep,148,2017,Bretagne,CONSOMMATION
+CA21,dont pêche,ktep,134,2018,Bretagne,CONSOMMATION
+CA21,dont pêche,ktep,111,2019,Bretagne,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,550,2014,Bretagne,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,438,2015,Bretagne,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,592,2016,Bretagne,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,460,2017,Bretagne,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,714,2018,Bretagne,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,734,2019,Bretagne,CONSOMMATION
+CA4,Gaz naturel,ktep,43,2014,Bretagne,CONSOMMATION
+CA4,Gaz naturel,ktep,34,2015,Bretagne,CONSOMMATION
+CA4,Gaz naturel,ktep,46,2016,Bretagne,CONSOMMATION
+CA4,Gaz naturel,ktep,36,2017,Bretagne,CONSOMMATION
+CA4,Gaz naturel,ktep,55,2018,Bretagne,CONSOMMATION
+CA4,Gaz naturel,ktep,57,2019,Bretagne,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2014,Bretagne,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2015,Bretagne,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2016,Bretagne,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2017,Bretagne,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2018,Bretagne,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2019,Bretagne,CONSOMMATION
+CA6,Électricité,ktep,114,2014,Bretagne,CONSOMMATION
+CA6,Électricité,ktep,114,2015,Bretagne,CONSOMMATION
+CA6,Électricité,ktep,123,2016,Bretagne,CONSOMMATION
+CA6,Électricité,ktep,121,2017,Bretagne,CONSOMMATION
+CA6,Électricité,ktep,115,2018,Bretagne,CONSOMMATION
+CA6,Électricité,ktep,115,2019,Bretagne,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,13,2014,Bretagne,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,14,2015,Bretagne,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,14,2016,Bretagne,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,16,2017,Bretagne,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,17,2018,Bretagne,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,19,2019,Bretagne,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,2,2014,Bretagne,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Bretagne,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,2,2016,Bretagne,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,1,2017,Bretagne,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,4,2018,Bretagne,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,10,2019,Bretagne,CONSOMMATION
+CI1,Industrie,ktep,901,2014,Bretagne,CONSOMMATION
+CI1,Industrie,ktep,943,2015,Bretagne,CONSOMMATION
+CI1,Industrie,ktep,907,2016,Bretagne,CONSOMMATION
+CI1,Industrie,ktep,886,2017,Bretagne,CONSOMMATION
+CI1,Industrie,ktep,936,2018,Bretagne,CONSOMMATION
+CI1,Industrie,ktep,939,2019,Bretagne,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,32,2014,Bretagne,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,44,2015,Bretagne,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,35,2016,Bretagne,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,56,2017,Bretagne,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,42,2018,Bretagne,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,35,2019,Bretagne,CONSOMMATION
+CI3,Charbon,ktep,0,2014,Bretagne,CONSOMMATION
+CI3,Charbon,ktep,"",2015,Bretagne,CONSOMMATION
+CI3,Charbon,ktep,"",2016,Bretagne,CONSOMMATION
+CI3,Charbon,ktep,0,2017,Bretagne,CONSOMMATION
+CI3,Charbon,ktep,0,2018,Bretagne,CONSOMMATION
+CI3,Charbon,ktep,"",2019,Bretagne,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Bretagne,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Bretagne,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Bretagne,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Bretagne,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Bretagne,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Bretagne,CONSOMMATION
+CI4,Produits pétroliers,ktep,114,2014,Bretagne,CONSOMMATION
+CI4,Produits pétroliers,ktep,111,2015,Bretagne,CONSOMMATION
+CI4,Produits pétroliers,ktep,99,2016,Bretagne,CONSOMMATION
+CI4,Produits pétroliers,ktep,103,2017,Bretagne,CONSOMMATION
+CI4,Produits pétroliers,ktep,107,2018,Bretagne,CONSOMMATION
+CI4,Produits pétroliers,ktep,105,2019,Bretagne,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Bretagne,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Bretagne,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Bretagne,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Bretagne,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Bretagne,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Bretagne,CONSOMMATION
+CI6,Gaz naturel,ktep,346,2014,Bretagne,CONSOMMATION
+CI6,Gaz naturel,ktep,338,2015,Bretagne,CONSOMMATION
+CI6,Gaz naturel,ktep,341,2016,Bretagne,CONSOMMATION
+CI6,Gaz naturel,ktep,305,2017,Bretagne,CONSOMMATION
+CI6,Gaz naturel,ktep,365,2018,Bretagne,CONSOMMATION
+CI6,Gaz naturel,ktep,373,2019,Bretagne,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Bretagne,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Bretagne,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Bretagne,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Bretagne,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Bretagne,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Bretagne,CONSOMMATION
+CI8,Électricité,ktep,404,2014,Bretagne,CONSOMMATION
+CI8,Électricité,ktep,405,2015,Bretagne,CONSOMMATION
+CI8,Électricité,ktep,409,2016,Bretagne,CONSOMMATION
+CI8,Électricité,ktep,415,2017,Bretagne,CONSOMMATION
+CI8,Électricité,ktep,412,2018,Bretagne,CONSOMMATION
+CI8,Électricité,ktep,411,2019,Bretagne,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,5,2014,Bretagne,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2015,Bretagne,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2016,Bretagne,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,7,2017,Bretagne,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,11,2018,Bretagne,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2019,Bretagne,CONSOMMATION
+CR1,Résidentiel,ktep,1653,2014,Bretagne,CONSOMMATION
+CR1,Résidentiel,ktep,1696,2015,Bretagne,CONSOMMATION
+CR1,Résidentiel,ktep,1907,2016,Bretagne,CONSOMMATION
+CR1,Résidentiel,ktep,1886,2017,Bretagne,CONSOMMATION
+CR1,Résidentiel,ktep,1832,2018,Bretagne,CONSOMMATION
+CR1,Résidentiel,ktep,1807,2019,Bretagne,CONSOMMATION
+CR2,Produits pétroliers,ktep,173,2014,Bretagne,CONSOMMATION
+CR2,Produits pétroliers,ktep,136,2015,Bretagne,CONSOMMATION
+CR2,Produits pétroliers,ktep,252,2016,Bretagne,CONSOMMATION
+CR2,Produits pétroliers,ktep,252,2017,Bretagne,CONSOMMATION
+CR2,Produits pétroliers,ktep,214,2018,Bretagne,CONSOMMATION
+CR2,Produits pétroliers,ktep,190,2019,Bretagne,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Bretagne,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Bretagne,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Bretagne,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Bretagne,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Bretagne,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Bretagne,CONSOMMATION
+CR4,Gaz naturel,ktep,356,2014,Bretagne,CONSOMMATION
+CR4,Gaz naturel,ktep,380,2015,Bretagne,CONSOMMATION
+CR4,Gaz naturel,ktep,421,2016,Bretagne,CONSOMMATION
+CR4,Gaz naturel,ktep,416,2017,Bretagne,CONSOMMATION
+CR4,Gaz naturel,ktep,408,2018,Bretagne,CONSOMMATION
+CR4,Gaz naturel,ktep,403,2019,Bretagne,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Bretagne,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Bretagne,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Bretagne,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Bretagne,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Bretagne,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Bretagne,CONSOMMATION
+CR6,Électricité,ktep,695,2014,Bretagne,CONSOMMATION
+CR6,Électricité,ktep,725,2015,Bretagne,CONSOMMATION
+CR6,Électricité,ktep,744,2016,Bretagne,CONSOMMATION
+CR6,Électricité,ktep,744,2017,Bretagne,CONSOMMATION
+CR6,Électricité,ktep,749,2018,Bretagne,CONSOMMATION
+CR6,Électricité,ktep,748,2019,Bretagne,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,408,2014,Bretagne,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,431,2015,Bretagne,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,461,2016,Bretagne,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,443,2017,Bretagne,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,429,2018,Bretagne,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,434,2019,Bretagne,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,22,2014,Bretagne,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,24,2015,Bretagne,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,28,2016,Bretagne,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,31,2017,Bretagne,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,32,2018,Bretagne,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,32,2019,Bretagne,CONSOMMATION
+CTE1,Tertiaire,ktep,995,2014,Bretagne,CONSOMMATION
+CTE1,Tertiaire,ktep,1024,2015,Bretagne,CONSOMMATION
+CTE1,Tertiaire,ktep,1096,2016,Bretagne,CONSOMMATION
+CTE1,Tertiaire,ktep,1043,2017,Bretagne,CONSOMMATION
+CTE1,Tertiaire,ktep,1054,2018,Bretagne,CONSOMMATION
+CTE1,Tertiaire,ktep,1035,2019,Bretagne,CONSOMMATION
+CTE2,Produits pétroliers,ktep,83,2014,Bretagne,CONSOMMATION
+CTE2,Produits pétroliers,ktep,69,2015,Bretagne,CONSOMMATION
+CTE2,Produits pétroliers,ktep,128,2016,Bretagne,CONSOMMATION
+CTE2,Produits pétroliers,ktep,135,2017,Bretagne,CONSOMMATION
+CTE2,Produits pétroliers,ktep,123,2018,Bretagne,CONSOMMATION
+CTE2,Produits pétroliers,ktep,114,2019,Bretagne,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Bretagne,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Bretagne,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Bretagne,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Bretagne,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Bretagne,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Bretagne,CONSOMMATION
+CTE4,Gaz naturel,ktep,356,2014,Bretagne,CONSOMMATION
+CTE4,Gaz naturel,ktep,402,2015,Bretagne,CONSOMMATION
+CTE4,Gaz naturel,ktep,402,2016,Bretagne,CONSOMMATION
+CTE4,Gaz naturel,ktep,345,2017,Bretagne,CONSOMMATION
+CTE4,Gaz naturel,ktep,372,2018,Bretagne,CONSOMMATION
+CTE4,Gaz naturel,ktep,366,2019,Bretagne,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Bretagne,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Bretagne,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Bretagne,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Bretagne,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Bretagne,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Bretagne,CONSOMMATION
+CTE6,Électricité,ktep,509,2014,Bretagne,CONSOMMATION
+CTE6,Électricité,ktep,516,2015,Bretagne,CONSOMMATION
+CTE6,Électricité,ktep,528,2016,Bretagne,CONSOMMATION
+CTE6,Électricité,ktep,526,2017,Bretagne,CONSOMMATION
+CTE6,Électricité,ktep,523,2018,Bretagne,CONSOMMATION
+CTE6,Électricité,ktep,515,2019,Bretagne,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,28,2014,Bretagne,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,19,2015,Bretagne,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,17,2016,Bretagne,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,17,2017,Bretagne,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,18,2018,Bretagne,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,20,2019,Bretagne,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,18,2014,Bretagne,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,18,2015,Bretagne,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,22,2016,Bretagne,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,20,2017,Bretagne,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,19,2018,Bretagne,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,20,2019,Bretagne,CONSOMMATION
+CTR1,Transport,ktep,2496,2014,Bretagne,CONSOMMATION
+CTR1,Transport,ktep,2509,2015,Bretagne,CONSOMMATION
+CTR1,Transport,ktep,2557,2016,Bretagne,CONSOMMATION
+CTR1,Transport,ktep,2613,2017,Bretagne,CONSOMMATION
+CTR1,Transport,ktep,2578,2018,Bretagne,CONSOMMATION
+CTR1,Transport,ktep,2611,2019,Bretagne,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,191,2014,Bretagne,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,190,2015,Bretagne,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,194,2016,Bretagne,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,197,2017,Bretagne,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,182,2018,Bretagne,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,182,2019,Bretagne,CONSOMMATION
+CTR11,Électricité,ktep,16,2014,Bretagne,CONSOMMATION
+CTR11,Électricité,ktep,16,2015,Bretagne,CONSOMMATION
+CTR11,Électricité,ktep,17,2016,Bretagne,CONSOMMATION
+CTR11,Électricité,ktep,17,2017,Bretagne,CONSOMMATION
+CTR11,Électricité,ktep,16,2018,Bretagne,CONSOMMATION
+CTR11,Électricité,ktep,16,2019,Bretagne,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Bretagne,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Bretagne,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Bretagne,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Bretagne,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Bretagne,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Bretagne,CONSOMMATION
+CTR3,Biocarburants,ktep,166,2014,Bretagne,CONSOMMATION
+CTR3,Biocarburants,ktep,167,2015,Bretagne,CONSOMMATION
+CTR3,Biocarburants,ktep,169,2016,Bretagne,CONSOMMATION
+CTR3,Biocarburants,ktep,179,2017,Bretagne,CONSOMMATION
+CTR3,Biocarburants,ktep,181,2018,Bretagne,CONSOMMATION
+CTR3,Biocarburants,ktep,186,2019,Bretagne,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,373,2014,Bretagne,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,378,2015,Bretagne,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,394,2016,Bretagne,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,417,2017,Bretagne,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,436,2018,Bretagne,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,474,2019,Bretagne,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Bretagne,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Bretagne,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Bretagne,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Bretagne,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Bretagne,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Bretagne,CONSOMMATION
+CTR6,Biocarburants essence,ktep,21,2014,Bretagne,CONSOMMATION
+CTR6,Biocarburants essence,ktep,22,2015,Bretagne,CONSOMMATION
+CTR6,Biocarburants essence,ktep,24,2016,Bretagne,CONSOMMATION
+CTR6,Biocarburants essence,ktep,28,2017,Bretagne,CONSOMMATION
+CTR6,Biocarburants essence,ktep,31,2018,Bretagne,CONSOMMATION
+CTR6,Biocarburants essence,ktep,35,2019,Bretagne,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,144,2014,Bretagne,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,145,2015,Bretagne,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,144,2016,Bretagne,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,150,2017,Bretagne,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,149,2018,Bretagne,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,151,2019,Bretagne,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,11,2014,Bretagne,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,11,2015,Bretagne,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,12,2016,Bretagne,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,13,2017,Bretagne,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,22,2018,Bretagne,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,37,2019,Bretagne,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2014,Bretagne,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2015,Bretagne,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2016,Bretagne,CONSOMMATION
+CTR9,Gaz naturel,ktep,1,2017,Bretagne,CONSOMMATION
+CTR9,Gaz naturel,ktep,2,2018,Bretagne,CONSOMMATION
+CTR9,Gaz naturel,ktep,3,2019,Bretagne,CONSOMMATION

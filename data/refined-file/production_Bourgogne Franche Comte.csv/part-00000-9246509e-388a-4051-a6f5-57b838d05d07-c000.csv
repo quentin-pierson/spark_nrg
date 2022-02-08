@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,1947,2014,Bourgogne Franche Comte,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,2276,2015,Bourgogne Franche Comte,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,2860,2016,Bourgogne Franche Comte,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,2667,2017,Bourgogne Franche Comte,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3281,2018,Bourgogne Franche Comte,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3919,2019,Bourgogne Franche Comte,PRODUCTION
+E10,- Gaz naturel,GWh,233,2014,Bourgogne Franche Comte,PRODUCTION
+E10,- Gaz naturel,GWh,292,2015,Bourgogne Franche Comte,PRODUCTION
+E10,- Gaz naturel,GWh,375,2016,Bourgogne Franche Comte,PRODUCTION
+E10,- Gaz naturel,GWh,364,2017,Bourgogne Franche Comte,PRODUCTION
+E10,- Gaz naturel,GWh,460,2018,Bourgogne Franche Comte,PRODUCTION
+E10,- Gaz naturel,GWh,482,2019,Bourgogne Franche Comte,PRODUCTION
+E11,- Pétrole,GWh,"",2014,Bourgogne Franche Comte,PRODUCTION
+E11,- Pétrole,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E11,- Pétrole,GWh,1,2016,Bourgogne Franche Comte,PRODUCTION
+E11,- Pétrole,GWh,2,2017,Bourgogne Franche Comte,PRODUCTION
+E11,- Pétrole,GWh,1,2018,Bourgogne Franche Comte,PRODUCTION
+E11,- Pétrole,GWh,1,2019,Bourgogne Franche Comte,PRODUCTION
+E12,- Charbon,GWh,"",2014,Bourgogne Franche Comte,PRODUCTION
+E12,- Charbon,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E12,- Charbon,GWh,"",2016,Bourgogne Franche Comte,PRODUCTION
+E12,- Charbon,GWh,"",2017,Bourgogne Franche Comte,PRODUCTION
+E12,- Charbon,GWh,"",2018,Bourgogne Franche Comte,PRODUCTION
+E12,- Charbon,GWh,"",2019,Bourgogne Franche Comte,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Bourgogne Franche Comte,PRODUCTION
+E13,- Biomasse,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E13,- Biomasse,GWh,"",2016,Bourgogne Franche Comte,PRODUCTION
+E13,- Biomasse,GWh,"",2017,Bourgogne Franche Comte,PRODUCTION
+E13,- Biomasse,GWh,"",2018,Bourgogne Franche Comte,PRODUCTION
+E13,- Biomasse,GWh,"",2019,Bourgogne Franche Comte,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2014,Bourgogne Franche Comte,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2015,Bourgogne Franche Comte,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Bourgogne Franche Comte,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Bourgogne Franche Comte,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Bourgogne Franche Comte,PRODUCTION
+E14,- Biogaz,GWh PCI,106,2019,Bourgogne Franche Comte,PRODUCTION
+E15,- Déchets urbains,GWh,109,2014,Bourgogne Franche Comte,PRODUCTION
+E15,- Déchets urbains,GWh,105,2015,Bourgogne Franche Comte,PRODUCTION
+E15,- Déchets urbains,GWh,98,2016,Bourgogne Franche Comte,PRODUCTION
+E15,- Déchets urbains,GWh,122,2017,Bourgogne Franche Comte,PRODUCTION
+E15,- Déchets urbains,GWh,122,2018,Bourgogne Franche Comte,PRODUCTION
+E15,- Déchets urbains,GWh,"",2019,Bourgogne Franche Comte,PRODUCTION
+E16,- Déchets industriels,GWh,0,2014,Bourgogne Franche Comte,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E16,- Déchets industriels,GWh,0,2016,Bourgogne Franche Comte,PRODUCTION
+E16,- Déchets industriels,GWh,0,2017,Bourgogne Franche Comte,PRODUCTION
+E16,- Déchets industriels,GWh,0,2018,Bourgogne Franche Comte,PRODUCTION
+E16,- Déchets industriels,GWh,0,2019,Bourgogne Franche Comte,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Bourgogne Franche Comte,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Bourgogne Franche Comte,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Bourgogne Franche Comte,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Bourgogne Franche Comte,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Bourgogne Franche Comte,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Bourgogne Franche Comte,PRODUCTION
+E18,- Autre,GWh,"",2014,Bourgogne Franche Comte,PRODUCTION
+E18,- Autre,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E18,- Autre,GWh,"",2016,Bourgogne Franche Comte,PRODUCTION
+E18,- Autre,GWh,"",2017,Bourgogne Franche Comte,PRODUCTION
+E18,- Autre,GWh,"",2018,Bourgogne Franche Comte,PRODUCTION
+E18,- Autre,GWh,"",2019,Bourgogne Franche Comte,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1161,2014,Bourgogne Franche Comte,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,2349,2015,Bourgogne Franche Comte,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1435,2016,Bourgogne Franche Comte,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1368,2017,Bourgogne Franche Comte,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1492,2018,Bourgogne Franche Comte,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1580,2019,Bourgogne Franche Comte,PRODUCTION
+E2,Production d'électricité primaire,GWh,1359,2014,Bourgogne Franche Comte,PRODUCTION
+E2,Production d'électricité primaire,GWh,1650,2015,Bourgogne Franche Comte,PRODUCTION
+E2,Production d'électricité primaire,GWh,2240,2016,Bourgogne Franche Comte,PRODUCTION
+E2,Production d'électricité primaire,GWh,1999,2017,Bourgogne Franche Comte,PRODUCTION
+E2,Production d'électricité primaire,GWh,2519,2018,Bourgogne Franche Comte,PRODUCTION
+E2,Production d'électricité primaire,GWh,3118,2019,Bourgogne Franche Comte,PRODUCTION
+E20,- Gaz naturel,GWh,570,2014,Bourgogne Franche Comte,PRODUCTION
+E20,- Gaz naturel,GWh,830,2015,Bourgogne Franche Comte,PRODUCTION
+E20,- Gaz naturel,GWh,551,2016,Bourgogne Franche Comte,PRODUCTION
+E20,- Gaz naturel,GWh,493,2017,Bourgogne Franche Comte,PRODUCTION
+E20,- Gaz naturel,GWh,629,2018,Bourgogne Franche Comte,PRODUCTION
+E20,- Gaz naturel,GWh,562,2019,Bourgogne Franche Comte,PRODUCTION
+E21,- Pétrole,GWh,64,2014,Bourgogne Franche Comte,PRODUCTION
+E21,- Pétrole,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E21,- Pétrole,GWh,40,2016,Bourgogne Franche Comte,PRODUCTION
+E21,- Pétrole,GWh,26,2017,Bourgogne Franche Comte,PRODUCTION
+E21,- Pétrole,GWh,13,2018,Bourgogne Franche Comte,PRODUCTION
+E21,- Pétrole,GWh,"",2019,Bourgogne Franche Comte,PRODUCTION
+E22,- Charbon,GWh,45,2014,Bourgogne Franche Comte,PRODUCTION
+E22,- Charbon,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E22,- Charbon,GWh,"",2016,Bourgogne Franche Comte,PRODUCTION
+E22,- Charbon,GWh,"",2017,Bourgogne Franche Comte,PRODUCTION
+E22,- Charbon,GWh,"",2018,Bourgogne Franche Comte,PRODUCTION
+E22,- Charbon,GWh,"",2019,Bourgogne Franche Comte,PRODUCTION
+E23,- Biomasse,GWh,251,2014,Bourgogne Franche Comte,PRODUCTION
+E23,- Biomasse,GWh,384,2015,Bourgogne Franche Comte,PRODUCTION
+E23,- Biomasse,GWh,532,2016,Bourgogne Franche Comte,PRODUCTION
+E23,- Biomasse,GWh,540,2017,Bourgogne Franche Comte,PRODUCTION
+E23,- Biomasse,GWh,541,2018,Bourgogne Franche Comte,PRODUCTION
+E23,- Biomasse,GWh,691,2019,Bourgogne Franche Comte,PRODUCTION
+E24,- Biogaz,GWh PCI,15,2014,Bourgogne Franche Comte,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Bourgogne Franche Comte,PRODUCTION
+E24,- Biogaz,GWh PCI,23,2016,Bourgogne Franche Comte,PRODUCTION
+E24,- Biogaz,GWh PCI,32,2017,Bourgogne Franche Comte,PRODUCTION
+E24,- Biogaz,GWh PCI,35,2018,Bourgogne Franche Comte,PRODUCTION
+E24,- Biogaz,GWh PCI,37,2019,Bourgogne Franche Comte,PRODUCTION
+E25,- Déchets urbains,GWh,216,2014,Bourgogne Franche Comte,PRODUCTION
+E25,- Déchets urbains,GWh,225,2015,Bourgogne Franche Comte,PRODUCTION
+E25,- Déchets urbains,GWh,287,2016,Bourgogne Franche Comte,PRODUCTION
+E25,- Déchets urbains,GWh,276,2017,Bourgogne Franche Comte,PRODUCTION
+E25,- Déchets urbains,GWh,271,2018,Bourgogne Franche Comte,PRODUCTION
+E25,- Déchets urbains,GWh,284,2019,Bourgogne Franche Comte,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Bourgogne Franche Comte,PRODUCTION
+E26,- Déchets industriels,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E26,- Déchets industriels,GWh,0,2016,Bourgogne Franche Comte,PRODUCTION
+E26,- Déchets industriels,GWh,0,2017,Bourgogne Franche Comte,PRODUCTION
+E26,- Déchets industriels,GWh,0,2018,Bourgogne Franche Comte,PRODUCTION
+E26,- Déchets industriels,GWh,0,2019,Bourgogne Franche Comte,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Bourgogne Franche Comte,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Bourgogne Franche Comte,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Bourgogne Franche Comte,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Bourgogne Franche Comte,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Bourgogne Franche Comte,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Bourgogne Franche Comte,PRODUCTION
+E28,- Autre,GWh,0,2014,Bourgogne Franche Comte,PRODUCTION
+E28,- Autre,GWh,"",2015,Bourgogne Franche Comte,PRODUCTION
+E28,- Autre,GWh,"",2016,Bourgogne Franche Comte,PRODUCTION
+E28,- Autre,GWh,"",2017,Bourgogne Franche Comte,PRODUCTION
+E28,- Autre,GWh,"",2018,Bourgogne Franche Comte,PRODUCTION
+E28,- Autre,GWh,0,2019,Bourgogne Franche Comte,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,798,2014,Bourgogne Franche Comte,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,752,2015,Bourgogne Franche Comte,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2016,Bourgogne Franche Comte,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,688,2017,Bourgogne Franche Comte,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,905,2018,Bourgogne Franche Comte,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,965,2019,Bourgogne Franche Comte,PRODUCTION
+E6,- Éolien,GWh,370,2014,Bourgogne Franche Comte,PRODUCTION
+E6,- Éolien,GWh,685,2015,Bourgogne Franche Comte,PRODUCTION
+E6,- Éolien,GWh,994,2016,Bourgogne Franche Comte,PRODUCTION
+E6,- Éolien,GWh,"",2017,Bourgogne Franche Comte,PRODUCTION
+E6,- Éolien,GWh,"",2018,Bourgogne Franche Comte,PRODUCTION
+E6,- Éolien,GWh,"",2019,Bourgogne Franche Comte,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,192,2014,Bourgogne Franche Comte,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,213,2015,Bourgogne Franche Comte,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,213,2016,Bourgogne Franche Comte,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,231,2017,Bourgogne Franche Comte,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,293,2018,Bourgogne Franche Comte,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,361,2019,Bourgogne Franche Comte,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2014,Bourgogne Franche Comte,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2015,Bourgogne Franche Comte,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2016,Bourgogne Franche Comte,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2017,Bourgogne Franche Comte,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2018,Bourgogne Franche Comte,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2019,Bourgogne Franche Comte,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,587,2014,Bourgogne Franche Comte,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,626,2015,Bourgogne Franche Comte,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,619,2016,Bourgogne Franche Comte,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,668,2017,Bourgogne Franche Comte,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,762,2018,Bourgogne Franche Comte,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,801,2019,Bourgogne Franche Comte,PRODUCTION
+P1,Production de charbon,kt,0,2014,Bourgogne Franche Comte,PRODUCTION
+P1,Production de charbon,kt,0,2015,Bourgogne Franche Comte,PRODUCTION
+P1,Production de charbon,kt,0,2016,Bourgogne Franche Comte,PRODUCTION
+P1,Production de charbon,kt,0,2017,Bourgogne Franche Comte,PRODUCTION
+P1,Production de charbon,kt,0,2018,Bourgogne Franche Comte,PRODUCTION
+P1,Production de charbon,kt,0,2019,Bourgogne Franche Comte,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Bourgogne Franche Comte,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Bourgogne Franche Comte,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Bourgogne Franche Comte,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Bourgogne Franche Comte,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Bourgogne Franche Comte,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Bourgogne Franche Comte,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2014,Bourgogne Franche Comte,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2015,Bourgogne Franche Comte,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2016,Bourgogne Franche Comte,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2017,Bourgogne Franche Comte,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2018,Bourgogne Franche Comte,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2019,Bourgogne Franche Comte,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,117,2014,Bourgogne Franche Comte,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,142,2015,Bourgogne Franche Comte,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,193,2016,Bourgogne Franche Comte,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,172,2017,Bourgogne Franche Comte,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,217,2018,Bourgogne Franche Comte,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,268,2019,Bourgogne Franche Comte,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Bourgogne Franche Comte,PRODUCTION
+P13,Biométhane injecté,GWh PCI,11,2015,Bourgogne Franche Comte,PRODUCTION
+P13,Biométhane injecté,GWh PCI,22,2016,Bourgogne Franche Comte,PRODUCTION
+P13,Biométhane injecté,GWh PCI,34,2017,Bourgogne Franche Comte,PRODUCTION
+P13,Biométhane injecté,GWh PCI,41,2018,Bourgogne Franche Comte,PRODUCTION
+P13,Biométhane injecté,GWh PCI,51,2019,Bourgogne Franche Comte,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Bourgogne Franche Comte,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2015,Bourgogne Franche Comte,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2016,Bourgogne Franche Comte,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,3,2017,Bourgogne Franche Comte,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,3,2018,Bourgogne Franche Comte,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,4,2019,Bourgogne Franche Comte,PRODUCTION
+P2,Production de pétrole,kt,"",2014,Bourgogne Franche Comte,PRODUCTION
+P2,Production de pétrole,kt,"",2015,Bourgogne Franche Comte,PRODUCTION
+P2,Production de pétrole,kt,"",2016,Bourgogne Franche Comte,PRODUCTION
+P2,Production de pétrole,kt,"",2017,Bourgogne Franche Comte,PRODUCTION
+P2,Production de pétrole,kt,"",2018,Bourgogne Franche Comte,PRODUCTION
+P2,Production de pétrole,kt,"",2019,Bourgogne Franche Comte,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Bourgogne Franche Comte,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Bourgogne Franche Comte,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Bourgogne Franche Comte,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Bourgogne Franche Comte,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Bourgogne Franche Comte,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Bourgogne Franche Comte,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2014,Bourgogne Franche Comte,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2015,Bourgogne Franche Comte,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2016,Bourgogne Franche Comte,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2017,Bourgogne Franche Comte,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2018,Bourgogne Franche Comte,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2019,Bourgogne Franche Comte,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1359,2014,Bourgogne Franche Comte,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1650,2015,Bourgogne Franche Comte,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2240,2016,Bourgogne Franche Comte,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1999,2017,Bourgogne Franche Comte,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2519,2018,Bourgogne Franche Comte,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,3118,2019,Bourgogne Franche Comte,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2014,Bourgogne Franche Comte,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2015,Bourgogne Franche Comte,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2016,Bourgogne Franche Comte,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2017,Bourgogne Franche Comte,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2018,Bourgogne Franche Comte,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2019,Bourgogne Franche Comte,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Bourgogne Franche Comte,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Bourgogne Franche Comte,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Bourgogne Franche Comte,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Bourgogne Franche Comte,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Bourgogne Franche Comte,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Bourgogne Franche Comte,PRODUCTION
+P9,- production de pétrole,ktep,"",2014,Bourgogne Franche Comte,PRODUCTION
+P9,- production de pétrole,ktep,"",2015,Bourgogne Franche Comte,PRODUCTION
+P9,- production de pétrole,ktep,"",2016,Bourgogne Franche Comte,PRODUCTION
+P9,- production de pétrole,ktep,"",2017,Bourgogne Franche Comte,PRODUCTION
+P9,- production de pétrole,ktep,"",2018,Bourgogne Franche Comte,PRODUCTION
+P9,- production de pétrole,ktep,"",2019,Bourgogne Franche Comte,PRODUCTION

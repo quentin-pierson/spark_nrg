@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,2788,2014,Bretagne,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3151,2015,Bretagne,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3106,2016,Bretagne,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3363,2017,Bretagne,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3731,2018,Bretagne,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3948,2019,Bretagne,PRODUCTION
+E10,- Gaz naturel,GWh,288,2014,Bretagne,PRODUCTION
+E10,- Gaz naturel,GWh,372,2015,Bretagne,PRODUCTION
+E10,- Gaz naturel,GWh,514,2016,Bretagne,PRODUCTION
+E10,- Gaz naturel,GWh,640,2017,Bretagne,PRODUCTION
+E10,- Gaz naturel,GWh,699,2018,Bretagne,PRODUCTION
+E10,- Gaz naturel,GWh,749,2019,Bretagne,PRODUCTION
+E11,- Pétrole,GWh,17,2014,Bretagne,PRODUCTION
+E11,- Pétrole,GWh,18,2015,Bretagne,PRODUCTION
+E11,- Pétrole,GWh,21,2016,Bretagne,PRODUCTION
+E11,- Pétrole,GWh,54,2017,Bretagne,PRODUCTION
+E11,- Pétrole,GWh,45,2018,Bretagne,PRODUCTION
+E11,- Pétrole,GWh,43,2019,Bretagne,PRODUCTION
+E12,- Charbon,GWh,0,2014,Bretagne,PRODUCTION
+E12,- Charbon,GWh,0,2015,Bretagne,PRODUCTION
+E12,- Charbon,GWh,0,2016,Bretagne,PRODUCTION
+E12,- Charbon,GWh,0,2017,Bretagne,PRODUCTION
+E12,- Charbon,GWh,0,2018,Bretagne,PRODUCTION
+E12,- Charbon,GWh,0,2019,Bretagne,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Bretagne,PRODUCTION
+E13,- Biomasse,GWh,"",2015,Bretagne,PRODUCTION
+E13,- Biomasse,GWh,"",2016,Bretagne,PRODUCTION
+E13,- Biomasse,GWh,"",2017,Bretagne,PRODUCTION
+E13,- Biomasse,GWh,"",2018,Bretagne,PRODUCTION
+E13,- Biomasse,GWh,"",2019,Bretagne,PRODUCTION
+E14,- Biogaz,GWh PCI,49,2014,Bretagne,PRODUCTION
+E14,- Biogaz,GWh PCI,68,2015,Bretagne,PRODUCTION
+E14,- Biogaz,GWh PCI,76,2016,Bretagne,PRODUCTION
+E14,- Biogaz,GWh PCI,100,2017,Bretagne,PRODUCTION
+E14,- Biogaz,GWh PCI,131,2018,Bretagne,PRODUCTION
+E14,- Biogaz,GWh PCI,159,2019,Bretagne,PRODUCTION
+E15,- Déchets urbains,GWh,157,2014,Bretagne,PRODUCTION
+E15,- Déchets urbains,GWh,157,2015,Bretagne,PRODUCTION
+E15,- Déchets urbains,GWh,170,2016,Bretagne,PRODUCTION
+E15,- Déchets urbains,GWh,133,2017,Bretagne,PRODUCTION
+E15,- Déchets urbains,GWh,122,2018,Bretagne,PRODUCTION
+E15,- Déchets urbains,GWh,"",2019,Bretagne,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Bretagne,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Bretagne,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Bretagne,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Bretagne,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Bretagne,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Bretagne,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Bretagne,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Bretagne,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Bretagne,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Bretagne,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Bretagne,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Bretagne,PRODUCTION
+E18,- Autre,GWh,0,2014,Bretagne,PRODUCTION
+E18,- Autre,GWh,0,2015,Bretagne,PRODUCTION
+E18,- Autre,GWh,0,2016,Bretagne,PRODUCTION
+E18,- Autre,GWh,0,2017,Bretagne,PRODUCTION
+E18,- Autre,GWh,0,2018,Bretagne,PRODUCTION
+E18,- Autre,GWh,0,2019,Bretagne,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,953,2014,Bretagne,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1097,2015,Bretagne,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1387,2016,Bretagne,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1593,2017,Bretagne,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1718,2018,Bretagne,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1781,2019,Bretagne,PRODUCTION
+E2,Production d'électricité primaire,GWh,2205,2014,Bretagne,PRODUCTION
+E2,Production d'électricité primaire,GWh,2465,2015,Bretagne,PRODUCTION
+E2,Production d'électricité primaire,GWh,2239,2016,Bretagne,PRODUCTION
+E2,Production d'électricité primaire,GWh,2351,2017,Bretagne,PRODUCTION
+E2,Production d'électricité primaire,GWh,2618,2018,Bretagne,PRODUCTION
+E2,Production d'électricité primaire,GWh,2741,2019,Bretagne,PRODUCTION
+E20,- Gaz naturel,GWh,404,2014,Bretagne,PRODUCTION
+E20,- Gaz naturel,GWh,533,2015,Bretagne,PRODUCTION
+E20,- Gaz naturel,GWh,739,2016,Bretagne,PRODUCTION
+E20,- Gaz naturel,GWh,895,2017,Bretagne,PRODUCTION
+E20,- Gaz naturel,GWh,993,2018,Bretagne,PRODUCTION
+E20,- Gaz naturel,GWh,992,2019,Bretagne,PRODUCTION
+E21,- Pétrole,GWh,1,2014,Bretagne,PRODUCTION
+E21,- Pétrole,GWh,0,2015,Bretagne,PRODUCTION
+E21,- Pétrole,GWh,"",2016,Bretagne,PRODUCTION
+E21,- Pétrole,GWh,"",2017,Bretagne,PRODUCTION
+E21,- Pétrole,GWh,"",2018,Bretagne,PRODUCTION
+E21,- Pétrole,GWh,"",2019,Bretagne,PRODUCTION
+E22,- Charbon,GWh,0,2014,Bretagne,PRODUCTION
+E22,- Charbon,GWh,0,2015,Bretagne,PRODUCTION
+E22,- Charbon,GWh,0,2016,Bretagne,PRODUCTION
+E22,- Charbon,GWh,0,2017,Bretagne,PRODUCTION
+E22,- Charbon,GWh,0,2018,Bretagne,PRODUCTION
+E22,- Charbon,GWh,"",2019,Bretagne,PRODUCTION
+E23,- Biomasse,GWh,"",2014,Bretagne,PRODUCTION
+E23,- Biomasse,GWh,"",2015,Bretagne,PRODUCTION
+E23,- Biomasse,GWh,178,2016,Bretagne,PRODUCTION
+E23,- Biomasse,GWh,243,2017,Bretagne,PRODUCTION
+E23,- Biomasse,GWh,279,2018,Bretagne,PRODUCTION
+E23,- Biomasse,GWh,314,2019,Bretagne,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Bretagne,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Bretagne,PRODUCTION
+E24,- Biogaz,GWh PCI,32,2016,Bretagne,PRODUCTION
+E24,- Biogaz,GWh PCI,45,2017,Bretagne,PRODUCTION
+E24,- Biogaz,GWh PCI,65,2018,Bretagne,PRODUCTION
+E24,- Biogaz,GWh PCI,71,2019,Bretagne,PRODUCTION
+E25,- Déchets urbains,GWh,379,2014,Bretagne,PRODUCTION
+E25,- Déchets urbains,GWh,358,2015,Bretagne,PRODUCTION
+E25,- Déchets urbains,GWh,431,2016,Bretagne,PRODUCTION
+E25,- Déchets urbains,GWh,409,2017,Bretagne,PRODUCTION
+E25,- Déchets urbains,GWh,379,2018,Bretagne,PRODUCTION
+E25,- Déchets urbains,GWh,402,2019,Bretagne,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Bretagne,PRODUCTION
+E26,- Déchets industriels,GWh,0,2015,Bretagne,PRODUCTION
+E26,- Déchets industriels,GWh,0,2016,Bretagne,PRODUCTION
+E26,- Déchets industriels,GWh,0,2017,Bretagne,PRODUCTION
+E26,- Déchets industriels,GWh,0,2018,Bretagne,PRODUCTION
+E26,- Déchets industriels,GWh,0,2019,Bretagne,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Bretagne,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Bretagne,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Bretagne,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Bretagne,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Bretagne,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Bretagne,PRODUCTION
+E28,- Autre,GWh,0,2014,Bretagne,PRODUCTION
+E28,- Autre,GWh,"",2015,Bretagne,PRODUCTION
+E28,- Autre,GWh,"",2016,Bretagne,PRODUCTION
+E28,- Autre,GWh,"",2017,Bretagne,PRODUCTION
+E28,- Autre,GWh,"",2018,Bretagne,PRODUCTION
+E28,- Autre,GWh,0,2019,Bretagne,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,589,2014,Bretagne,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,576,2015,Bretagne,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,594,2016,Bretagne,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,Bretagne,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,588,2018,Bretagne,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,593,2019,Bretagne,PRODUCTION
+E6,- Éolien,GWh,"",2014,Bretagne,PRODUCTION
+E6,- Éolien,GWh,"",2015,Bretagne,PRODUCTION
+E6,- Éolien,GWh,"",2016,Bretagne,PRODUCTION
+E6,- Éolien,GWh,"",2017,Bretagne,PRODUCTION
+E6,- Éolien,GWh,"",2018,Bretagne,PRODUCTION
+E6,- Éolien,GWh,"",2019,Bretagne,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,173,2014,Bretagne,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,185,2015,Bretagne,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,192,2016,Bretagne,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2017,Bretagne,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,227,2018,Bretagne,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,250,2019,Bretagne,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2014,Bretagne,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2015,Bretagne,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2016,Bretagne,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2017,Bretagne,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2018,Bretagne,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2019,Bretagne,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,583,2014,Bretagne,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,686,2015,Bretagne,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,867,2016,Bretagne,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1012,2017,Bretagne,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1112,2018,Bretagne,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1207,2019,Bretagne,PRODUCTION
+P1,Production de charbon,kt,0,2014,Bretagne,PRODUCTION
+P1,Production de charbon,kt,0,2015,Bretagne,PRODUCTION
+P1,Production de charbon,kt,0,2016,Bretagne,PRODUCTION
+P1,Production de charbon,kt,0,2017,Bretagne,PRODUCTION
+P1,Production de charbon,kt,0,2018,Bretagne,PRODUCTION
+P1,Production de charbon,kt,0,2019,Bretagne,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Bretagne,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Bretagne,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Bretagne,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Bretagne,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Bretagne,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Bretagne,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2014,Bretagne,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2015,Bretagne,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2016,Bretagne,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2017,Bretagne,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2018,Bretagne,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2019,Bretagne,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,190,2014,Bretagne,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,212,2015,Bretagne,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,193,2016,Bretagne,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,202,2017,Bretagne,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,225,2018,Bretagne,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,236,2019,Bretagne,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Bretagne,PRODUCTION
+P13,Biométhane injecté,GWh PCI,2,2015,Bretagne,PRODUCTION
+P13,Biométhane injecté,GWh PCI,6,2016,Bretagne,PRODUCTION
+P13,Biométhane injecté,GWh PCI,24,2017,Bretagne,PRODUCTION
+P13,Biométhane injecté,GWh PCI,48,2018,Bretagne,PRODUCTION
+P13,Biométhane injecté,GWh PCI,110,2019,Bretagne,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Bretagne,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Bretagne,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2016,Bretagne,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2017,Bretagne,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,4,2018,Bretagne,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,9,2019,Bretagne,PRODUCTION
+P2,Production de pétrole,kt,0,2014,Bretagne,PRODUCTION
+P2,Production de pétrole,kt,0,2015,Bretagne,PRODUCTION
+P2,Production de pétrole,kt,0,2016,Bretagne,PRODUCTION
+P2,Production de pétrole,kt,0,2017,Bretagne,PRODUCTION
+P2,Production de pétrole,kt,0,2018,Bretagne,PRODUCTION
+P2,Production de pétrole,kt,0,2019,Bretagne,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Bretagne,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Bretagne,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Bretagne,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Bretagne,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Bretagne,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Bretagne,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2014,Bretagne,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2015,Bretagne,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2016,Bretagne,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2017,Bretagne,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2018,Bretagne,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2019,Bretagne,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2205,2014,Bretagne,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2465,2015,Bretagne,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2239,2016,Bretagne,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2351,2017,Bretagne,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2618,2018,Bretagne,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2741,2019,Bretagne,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2014,Bretagne,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2015,Bretagne,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2016,Bretagne,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2017,Bretagne,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2018,Bretagne,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2019,Bretagne,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Bretagne,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Bretagne,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Bretagne,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Bretagne,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Bretagne,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Bretagne,PRODUCTION
+P9,- production de pétrole,ktep,0,2014,Bretagne,PRODUCTION
+P9,- production de pétrole,ktep,0,2015,Bretagne,PRODUCTION
+P9,- production de pétrole,ktep,0,2016,Bretagne,PRODUCTION
+P9,- production de pétrole,ktep,0,2017,Bretagne,PRODUCTION
+P9,- production de pétrole,ktep,0,2018,Bretagne,PRODUCTION
+P9,- production de pétrole,ktep,0,2019,Bretagne,PRODUCTION

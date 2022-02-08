@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3536,2014,Ile De France,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3761,2015,Ile De France,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3858,2016,Ile De France,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,4118,2017,Ile De France,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3376,2018,Ile De France,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,3315,2019,Ile De France,PRODUCTION
+E10,- Gaz naturel,GWh,"",2014,Ile De France,PRODUCTION
+E10,- Gaz naturel,GWh,"",2015,Ile De France,PRODUCTION
+E10,- Gaz naturel,GWh,"",2016,Ile De France,PRODUCTION
+E10,- Gaz naturel,GWh,"",2017,Ile De France,PRODUCTION
+E10,- Gaz naturel,GWh,"",2018,Ile De France,PRODUCTION
+E10,- Gaz naturel,GWh,"",2019,Ile De France,PRODUCTION
+E11,- Pétrole,GWh,80,2014,Ile De France,PRODUCTION
+E11,- Pétrole,GWh,161,2015,Ile De France,PRODUCTION
+E11,- Pétrole,GWh,185,2016,Ile De France,PRODUCTION
+E11,- Pétrole,GWh,368,2017,Ile De France,PRODUCTION
+E11,- Pétrole,GWh,117,2018,Ile De France,PRODUCTION
+E11,- Pétrole,GWh,57,2019,Ile De France,PRODUCTION
+E12,- Charbon,GWh,"",2014,Ile De France,PRODUCTION
+E12,- Charbon,GWh,"",2015,Ile De France,PRODUCTION
+E12,- Charbon,GWh,"",2016,Ile De France,PRODUCTION
+E12,- Charbon,GWh,"",2017,Ile De France,PRODUCTION
+E12,- Charbon,GWh,"",2018,Ile De France,PRODUCTION
+E12,- Charbon,GWh,"",2019,Ile De France,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Ile De France,PRODUCTION
+E13,- Biomasse,GWh,"",2015,Ile De France,PRODUCTION
+E13,- Biomasse,GWh,"",2016,Ile De France,PRODUCTION
+E13,- Biomasse,GWh,"",2017,Ile De France,PRODUCTION
+E13,- Biomasse,GWh,"",2018,Ile De France,PRODUCTION
+E13,- Biomasse,GWh,"",2019,Ile De France,PRODUCTION
+E14,- Biogaz,GWh PCI,395,2014,Ile De France,PRODUCTION
+E14,- Biogaz,GWh PCI,373,2015,Ile De France,PRODUCTION
+E14,- Biogaz,GWh PCI,387,2016,Ile De France,PRODUCTION
+E14,- Biogaz,GWh PCI,398,2017,Ile De France,PRODUCTION
+E14,- Biogaz,GWh PCI,399,2018,Ile De France,PRODUCTION
+E14,- Biogaz,GWh PCI,377,2019,Ile De France,PRODUCTION
+E15,- Déchets urbains,GWh,867,2014,Ile De France,PRODUCTION
+E15,- Déchets urbains,GWh,728,2015,Ile De France,PRODUCTION
+E15,- Déchets urbains,GWh,889,2016,Ile De France,PRODUCTION
+E15,- Déchets urbains,GWh,929,2017,Ile De France,PRODUCTION
+E15,- Déchets urbains,GWh,902,2018,Ile De France,PRODUCTION
+E15,- Déchets urbains,GWh,835,2019,Ile De France,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Ile De France,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Ile De France,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Ile De France,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Ile De France,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Ile De France,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Ile De France,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Ile De France,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Ile De France,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Ile De France,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Ile De France,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Ile De France,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Ile De France,PRODUCTION
+E18,- Autre,GWh,0,2014,Ile De France,PRODUCTION
+E18,- Autre,GWh,0,2015,Ile De France,PRODUCTION
+E18,- Autre,GWh,"",2016,Ile De France,PRODUCTION
+E18,- Autre,GWh,"",2017,Ile De France,PRODUCTION
+E18,- Autre,GWh,"",2018,Ile De France,PRODUCTION
+E18,- Autre,GWh,"",2019,Ile De France,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,11573,2014,Ile De France,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,12975,2015,Ile De France,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,13728,2016,Ile De France,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,13706,2017,Ile De France,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,13830,2018,Ile De France,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,13989,2019,Ile De France,PRODUCTION
+E2,Production d'électricité primaire,GWh,157,2014,Ile De France,PRODUCTION
+E2,Production d'électricité primaire,GWh,184,2015,Ile De France,PRODUCTION
+E2,Production d'électricité primaire,GWh,213,2016,Ile De France,PRODUCTION
+E2,Production d'électricité primaire,GWh,255,2017,Ile De France,PRODUCTION
+E2,Production d'électricité primaire,GWh,273,2018,Ile De France,PRODUCTION
+E2,Production d'électricité primaire,GWh,359,2019,Ile De France,PRODUCTION
+E20,- Gaz naturel,GWh,"",2014,Ile De France,PRODUCTION
+E20,- Gaz naturel,GWh,"",2015,Ile De France,PRODUCTION
+E20,- Gaz naturel,GWh,"",2016,Ile De France,PRODUCTION
+E20,- Gaz naturel,GWh,"",2017,Ile De France,PRODUCTION
+E20,- Gaz naturel,GWh,"",2018,Ile De France,PRODUCTION
+E20,- Gaz naturel,GWh,"",2019,Ile De France,PRODUCTION
+E21,- Pétrole,GWh,426,2014,Ile De France,PRODUCTION
+E21,- Pétrole,GWh,499,2015,Ile De France,PRODUCTION
+E21,- Pétrole,GWh,104,2016,Ile De France,PRODUCTION
+E21,- Pétrole,GWh,71,2017,Ile De France,PRODUCTION
+E21,- Pétrole,GWh,29,2018,Ile De France,PRODUCTION
+E21,- Pétrole,GWh,52,2019,Ile De France,PRODUCTION
+E22,- Charbon,GWh,"",2014,Ile De France,PRODUCTION
+E22,- Charbon,GWh,"",2015,Ile De France,PRODUCTION
+E22,- Charbon,GWh,"",2016,Ile De France,PRODUCTION
+E22,- Charbon,GWh,"",2017,Ile De France,PRODUCTION
+E22,- Charbon,GWh,"",2018,Ile De France,PRODUCTION
+E22,- Charbon,GWh,"",2019,Ile De France,PRODUCTION
+E23,- Biomasse,GWh,414,2014,Ile De France,PRODUCTION
+E23,- Biomasse,GWh,454,2015,Ile De France,PRODUCTION
+E23,- Biomasse,GWh,957,2016,Ile De France,PRODUCTION
+E23,- Biomasse,GWh,"",2017,Ile De France,PRODUCTION
+E23,- Biomasse,GWh,"",2018,Ile De France,PRODUCTION
+E23,- Biomasse,GWh,"",2019,Ile De France,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Ile De France,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Ile De France,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2016,Ile De France,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2017,Ile De France,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2018,Ile De France,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2019,Ile De France,PRODUCTION
+E25,- Déchets urbains,GWh,"",2014,Ile De France,PRODUCTION
+E25,- Déchets urbains,GWh,"",2015,Ile De France,PRODUCTION
+E25,- Déchets urbains,GWh,"",2016,Ile De France,PRODUCTION
+E25,- Déchets urbains,GWh,"",2017,Ile De France,PRODUCTION
+E25,- Déchets urbains,GWh,"",2018,Ile De France,PRODUCTION
+E25,- Déchets urbains,GWh,"",2019,Ile De France,PRODUCTION
+E26,- Déchets industriels,GWh,"",2014,Ile De France,PRODUCTION
+E26,- Déchets industriels,GWh,"",2015,Ile De France,PRODUCTION
+E26,- Déchets industriels,GWh,"",2016,Ile De France,PRODUCTION
+E26,- Déchets industriels,GWh,"",2017,Ile De France,PRODUCTION
+E26,- Déchets industriels,GWh,"",2018,Ile De France,PRODUCTION
+E26,- Déchets industriels,GWh,"",2019,Ile De France,PRODUCTION
+E27,- Géothermie,GWh,"",2014,Ile De France,PRODUCTION
+E27,- Géothermie,GWh,"",2015,Ile De France,PRODUCTION
+E27,- Géothermie,GWh,"",2016,Ile De France,PRODUCTION
+E27,- Géothermie,GWh,"",2017,Ile De France,PRODUCTION
+E27,- Géothermie,GWh,"",2018,Ile De France,PRODUCTION
+E27,- Géothermie,GWh,"",2019,Ile De France,PRODUCTION
+E28,- Autre,GWh,0,2014,Ile De France,PRODUCTION
+E28,- Autre,GWh,0,2015,Ile De France,PRODUCTION
+E28,- Autre,GWh,"",2016,Ile De France,PRODUCTION
+E28,- Autre,GWh,101,2017,Ile De France,PRODUCTION
+E28,- Autre,GWh,77,2018,Ile De France,PRODUCTION
+E28,- Autre,GWh,169,2019,Ile De France,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,52,2014,Ile De France,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,55,2015,Ile De France,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,58,2016,Ile De France,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,58,2017,Ile De France,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,41,2018,Ile De France,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,62,2019,Ile De France,PRODUCTION
+E6,- Éolien,GWh,"",2014,Ile De France,PRODUCTION
+E6,- Éolien,GWh,"",2015,Ile De France,PRODUCTION
+E6,- Éolien,GWh,"",2016,Ile De France,PRODUCTION
+E6,- Éolien,GWh,"",2017,Ile De France,PRODUCTION
+E6,- Éolien,GWh,"",2018,Ile De France,PRODUCTION
+E6,- Éolien,GWh,"",2019,Ile De France,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2014,Ile De France,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2015,Ile De France,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2016,Ile De France,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2017,Ile De France,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2018,Ile De France,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2019,Ile De France,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2014,Ile De France,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2015,Ile De France,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2016,Ile De France,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2017,Ile De France,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2018,Ile De France,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2019,Ile De France,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3379,2014,Ile De France,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3577,2015,Ile De France,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3645,2016,Ile De France,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3863,2017,Ile De France,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3102,2018,Ile De France,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,2956,2019,Ile De France,PRODUCTION
+P1,Production de charbon,kt,0,2014,Ile De France,PRODUCTION
+P1,Production de charbon,kt,0,2015,Ile De France,PRODUCTION
+P1,Production de charbon,kt,0,2016,Ile De France,PRODUCTION
+P1,Production de charbon,kt,0,2017,Ile De France,PRODUCTION
+P1,Production de charbon,kt,0,2018,Ile De France,PRODUCTION
+P1,Production de charbon,kt,0,2019,Ile De France,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Ile De France,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Ile De France,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Ile De France,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Ile De France,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Ile De France,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Ile De France,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2014,Ile De France,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2015,Ile De France,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2016,Ile De France,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2017,Ile De France,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2018,Ile De France,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2019,Ile De France,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,13,2014,Ile De France,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,16,2015,Ile De France,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,18,2016,Ile De France,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,22,2017,Ile De France,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,24,2018,Ile De France,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,31,2019,Ile De France,PRODUCTION
+P13,Biométhane injecté,GWh PCI,17,2014,Ile De France,PRODUCTION
+P13,Biométhane injecté,GWh PCI,14,2015,Ile De France,PRODUCTION
+P13,Biométhane injecté,GWh PCI,40,2016,Ile De France,PRODUCTION
+P13,Biométhane injecté,GWh PCI,70,2017,Ile De France,PRODUCTION
+P13,Biométhane injecté,GWh PCI,140,2018,Ile De France,PRODUCTION
+P13,Biométhane injecté,GWh PCI,188,2019,Ile De France,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2014,Ile De France,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2015,Ile De France,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,3,2016,Ile De France,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,6,2017,Ile De France,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,12,2018,Ile De France,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,16,2019,Ile De France,PRODUCTION
+P2,Production de pétrole,kt,"",2014,Ile De France,PRODUCTION
+P2,Production de pétrole,kt,"",2015,Ile De France,PRODUCTION
+P2,Production de pétrole,kt,"",2016,Ile De France,PRODUCTION
+P2,Production de pétrole,kt,"",2017,Ile De France,PRODUCTION
+P2,Production de pétrole,kt,"",2018,Ile De France,PRODUCTION
+P2,Production de pétrole,kt,"",2019,Ile De France,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Ile De France,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Ile De France,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Ile De France,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Ile De France,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Ile De France,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Ile De France,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2014,Ile De France,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2015,Ile De France,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2016,Ile De France,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2017,Ile De France,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2018,Ile De France,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2019,Ile De France,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,157,2014,Ile De France,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,184,2015,Ile De France,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,213,2016,Ile De France,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,255,2017,Ile De France,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,273,2018,Ile De France,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,359,2019,Ile De France,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2014,Ile De France,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2015,Ile De France,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2016,Ile De France,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2017,Ile De France,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2018,Ile De France,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2019,Ile De France,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Ile De France,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Ile De France,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Ile De France,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Ile De France,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Ile De France,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Ile De France,PRODUCTION
+P9,- production de pétrole,ktep,"",2014,Ile De France,PRODUCTION
+P9,- production de pétrole,ktep,"",2015,Ile De France,PRODUCTION
+P9,- production de pétrole,ktep,"",2016,Ile De France,PRODUCTION
+P9,- production de pétrole,ktep,"",2017,Ile De France,PRODUCTION
+P9,- production de pétrole,ktep,"",2018,Ile De France,PRODUCTION
+P9,- production de pétrole,ktep,"",2019,Ile De France,PRODUCTION

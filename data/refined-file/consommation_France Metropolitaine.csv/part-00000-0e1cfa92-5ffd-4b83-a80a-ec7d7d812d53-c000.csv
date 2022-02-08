@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,145508,2014,France Metropolitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,148168,2015,France Metropolitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,150526,2016,France Metropolitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,150337,2017,France Metropolitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,148079,2018,France Metropolitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,146289,2019,France Metropolitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2014,France Metropolitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,355,2014,France Metropolitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2015,France Metropolitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,348,2015,France Metropolitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2016,France Metropolitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,399,2016,France Metropolitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2017,France Metropolitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,340,2017,France Metropolitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2018,France Metropolitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,368,2018,France Metropolitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2019,France Metropolitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,392,2019,France Metropolitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2014,France Metropolitaine,CONSOMMATION
+C14,- Géothermie,ktep,40,2014,France Metropolitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2015,France Metropolitaine,CONSOMMATION
+C14,- Géothermie,ktep,40,2015,France Metropolitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2016,France Metropolitaine,CONSOMMATION
+C14,- Géothermie,ktep,40,2016,France Metropolitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2017,France Metropolitaine,CONSOMMATION
+C14,- Géothermie,ktep,40,2017,France Metropolitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2018,France Metropolitaine,CONSOMMATION
+C14,- Géothermie,ktep,40,2018,France Metropolitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2019,France Metropolitaine,CONSOMMATION
+C14,- Géothermie,ktep,40,2019,France Metropolitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,10974,2014,France Metropolitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,10530,2015,France Metropolitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,9841,2016,France Metropolitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,10625,2017,France Metropolitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,9329,2018,France Metropolitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,9770,2019,France Metropolitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,211,2014,France Metropolitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,212,2015,France Metropolitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,228,2016,France Metropolitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,201,2017,France Metropolitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,200,2018,France Metropolitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,140,2019,France Metropolitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2014,France Metropolitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2015,France Metropolitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2016,France Metropolitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2017,France Metropolitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2018,France Metropolitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2019,France Metropolitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"","",2014,France Metropolitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"","",2015,France Metropolitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"","",2016,France Metropolitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"","",2017,France Metropolitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"","",2018,France Metropolitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"","",2019,France Metropolitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CA21,dont pêche,ktep,279,2014,France Metropolitaine,CONSOMMATION
+CA21,dont pêche,ktep,268,2015,France Metropolitaine,CONSOMMATION
+CA21,dont pêche,ktep,261,2016,France Metropolitaine,CONSOMMATION
+CA21,dont pêche,ktep,303,2017,France Metropolitaine,CONSOMMATION
+CA21,dont pêche,ktep,285,2018,France Metropolitaine,CONSOMMATION
+CA21,dont pêche,ktep,291,2019,France Metropolitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,"",2014,France Metropolitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,"",2015,France Metropolitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,"",2016,France Metropolitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,"",2017,France Metropolitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,"",2018,France Metropolitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,"",2019,France Metropolitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,176,2014,France Metropolitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,157,2015,France Metropolitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,165,2016,France Metropolitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,165,2017,France Metropolitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,188,2018,France Metropolitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,189,2019,France Metropolitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2014,France Metropolitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2015,France Metropolitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2016,France Metropolitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2017,France Metropolitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2018,France Metropolitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2019,France Metropolitaine,CONSOMMATION
+CA6,Électricité,ktep,706,2014,France Metropolitaine,CONSOMMATION
+CA6,Électricité,ktep,763,2015,France Metropolitaine,CONSOMMATION
+CA6,Électricité,ktep,763,2016,France Metropolitaine,CONSOMMATION
+CA6,Électricité,ktep,765,2017,France Metropolitaine,CONSOMMATION
+CA6,Électricité,ktep,740,2018,France Metropolitaine,CONSOMMATION
+CA6,Électricité,ktep,726,2019,France Metropolitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,165,2014,France Metropolitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,175,2015,France Metropolitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,176,2016,France Metropolitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,183,2017,France Metropolitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,191,2018,France Metropolitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,201,2019,France Metropolitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,9,2014,France Metropolitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,7,2015,France Metropolitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,9,2016,France Metropolitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,8,2017,France Metropolitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,12,2018,France Metropolitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,19,2019,France Metropolitaine,CONSOMMATION
+CI1,Industrie,ktep,32320,2014,France Metropolitaine,CONSOMMATION
+CI1,Industrie,ktep,31582,2015,France Metropolitaine,CONSOMMATION
+CI1,Industrie,ktep,32283,2016,France Metropolitaine,CONSOMMATION
+CI1,Industrie,ktep,31903,2017,France Metropolitaine,CONSOMMATION
+CI1,Industrie,ktep,32144,2018,France Metropolitaine,CONSOMMATION
+CI1,Industrie,ktep,31026,2019,France Metropolitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CI3,Charbon,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CI3,Charbon,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CI3,Charbon,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CI3,Charbon,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CI3,Charbon,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CI3,Charbon,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,France Metropolitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,France Metropolitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,France Metropolitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,France Metropolitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,France Metropolitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,France Metropolitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,France Metropolitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,France Metropolitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,France Metropolitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,France Metropolitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,France Metropolitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,France Metropolitaine,CONSOMMATION
+CI8,Électricité,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CI8,Électricité,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CI8,Électricité,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CI8,Électricité,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CI8,Électricité,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CI8,Électricité,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2014,France Metropolitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2015,France Metropolitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2016,France Metropolitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2017,France Metropolitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2018,France Metropolitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,"",2019,France Metropolitaine,CONSOMMATION
+CR1,Résidentiel,ktep,36078,2014,France Metropolitaine,CONSOMMATION
+CR1,Résidentiel,ktep,37977,2015,France Metropolitaine,CONSOMMATION
+CR1,Résidentiel,ktep,39610,2016,France Metropolitaine,CONSOMMATION
+CR1,Résidentiel,ktep,38791,2017,France Metropolitaine,CONSOMMATION
+CR1,Résidentiel,ktep,37312,2018,France Metropolitaine,CONSOMMATION
+CR1,Résidentiel,ktep,36883,2019,France Metropolitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,France Metropolitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,France Metropolitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,France Metropolitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,France Metropolitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,France Metropolitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,France Metropolitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,France Metropolitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,France Metropolitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,France Metropolitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,France Metropolitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,France Metropolitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,France Metropolitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,"",2014,France Metropolitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,"",2015,France Metropolitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,"",2016,France Metropolitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,"",2017,France Metropolitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,"",2018,France Metropolitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,"",2019,France Metropolitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,20842,2014,France Metropolitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,21634,2015,France Metropolitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,21734,2016,France Metropolitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,22120,2017,France Metropolitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,21759,2018,France Metropolitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,21411,2019,France Metropolitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,France Metropolitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,France Metropolitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,France Metropolitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,France Metropolitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,France Metropolitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,France Metropolitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,France Metropolitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,France Metropolitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,France Metropolitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,France Metropolitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,France Metropolitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,France Metropolitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,500,2014,France Metropolitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,463,2015,France Metropolitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,502,2016,France Metropolitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,562,2017,France Metropolitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,540,2018,France Metropolitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,548,2019,France Metropolitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,648,2014,France Metropolitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,701,2015,France Metropolitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,778,2016,France Metropolitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,807,2017,France Metropolitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,802,2018,France Metropolitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,800,2019,France Metropolitaine,CONSOMMATION
+CTR1,Transport,ktep,51885,2014,France Metropolitaine,CONSOMMATION
+CTR1,Transport,ktep,52556,2015,France Metropolitaine,CONSOMMATION
+CTR1,Transport,ktep,52601,2016,France Metropolitaine,CONSOMMATION
+CTR1,Transport,ktep,53250,2017,France Metropolitaine,CONSOMMATION
+CTR1,Transport,ktep,52542,2018,France Metropolitaine,CONSOMMATION
+CTR1,Transport,ktep,52679,2019,France Metropolitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2014,France Metropolitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2015,France Metropolitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2016,France Metropolitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2017,France Metropolitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2018,France Metropolitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,"",2019,France Metropolitaine,CONSOMMATION
+CTR11,Électricité,ktep,907,2014,France Metropolitaine,CONSOMMATION
+CTR11,Électricité,ktep,920,2015,France Metropolitaine,CONSOMMATION
+CTR11,Électricité,ktep,904,2016,France Metropolitaine,CONSOMMATION
+CTR11,Électricité,ktep,910,2017,France Metropolitaine,CONSOMMATION
+CTR11,Électricité,ktep,868,2018,France Metropolitaine,CONSOMMATION
+CTR11,Électricité,ktep,867,2019,France Metropolitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,414,2014,France Metropolitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,434,2015,France Metropolitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,474,2016,France Metropolitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,539,2017,France Metropolitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,586,2018,France Metropolitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,653,2019,France Metropolitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,"",2014,France Metropolitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,"",2015,France Metropolitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,"",2016,France Metropolitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,"",2017,France Metropolitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,"",2018,France Metropolitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,"",2019,France Metropolitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,943,2014,France Metropolitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,972,2015,France Metropolitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,"",2016,France Metropolitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,"",2017,France Metropolitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,"",2018,France Metropolitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,"",2019,France Metropolitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,73,2014,France Metropolitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,75,2015,France Metropolitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,78,2016,France Metropolitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,84,2017,France Metropolitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,101,2018,France Metropolitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,116,2019,France Metropolitaine,CONSOMMATION

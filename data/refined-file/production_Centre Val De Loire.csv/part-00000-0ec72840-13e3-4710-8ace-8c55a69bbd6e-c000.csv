@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,80575,2014,Centre Val De Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,82230,2015,Centre Val De Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,78643,2016,Centre Val De Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,78099,2017,Centre Val De Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,78065,2018,Centre Val De Loire,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,75687,2019,Centre Val De Loire,PRODUCTION
+E10,- Gaz naturel,GWh,331,2014,Centre Val De Loire,PRODUCTION
+E10,- Gaz naturel,GWh,330,2015,Centre Val De Loire,PRODUCTION
+E10,- Gaz naturel,GWh,367,2016,Centre Val De Loire,PRODUCTION
+E10,- Gaz naturel,GWh,565,2017,Centre Val De Loire,PRODUCTION
+E10,- Gaz naturel,GWh,524,2018,Centre Val De Loire,PRODUCTION
+E10,- Gaz naturel,GWh,575,2019,Centre Val De Loire,PRODUCTION
+E11,- Pétrole,GWh,1,2014,Centre Val De Loire,PRODUCTION
+E11,- Pétrole,GWh,1,2015,Centre Val De Loire,PRODUCTION
+E11,- Pétrole,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E11,- Pétrole,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E11,- Pétrole,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E11,- Pétrole,GWh,"",2019,Centre Val De Loire,PRODUCTION
+E12,- Charbon,GWh,0,2014,Centre Val De Loire,PRODUCTION
+E12,- Charbon,GWh,0,2015,Centre Val De Loire,PRODUCTION
+E12,- Charbon,GWh,0,2016,Centre Val De Loire,PRODUCTION
+E12,- Charbon,GWh,0,2017,Centre Val De Loire,PRODUCTION
+E12,- Charbon,GWh,0,2018,Centre Val De Loire,PRODUCTION
+E12,- Charbon,GWh,0,2019,Centre Val De Loire,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E13,- Biomasse,GWh,153,2015,Centre Val De Loire,PRODUCTION
+E13,- Biomasse,GWh,175,2016,Centre Val De Loire,PRODUCTION
+E13,- Biomasse,GWh,166,2017,Centre Val De Loire,PRODUCTION
+E13,- Biomasse,GWh,177,2018,Centre Val De Loire,PRODUCTION
+E13,- Biomasse,GWh,195,2019,Centre Val De Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,48,2014,Centre Val De Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2015,Centre Val De Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Centre Val De Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Centre Val De Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Centre Val De Loire,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2019,Centre Val De Loire,PRODUCTION
+E15,- Déchets urbains,GWh,258,2014,Centre Val De Loire,PRODUCTION
+E15,- Déchets urbains,GWh,242,2015,Centre Val De Loire,PRODUCTION
+E15,- Déchets urbains,GWh,232,2016,Centre Val De Loire,PRODUCTION
+E15,- Déchets urbains,GWh,243,2017,Centre Val De Loire,PRODUCTION
+E15,- Déchets urbains,GWh,229,2018,Centre Val De Loire,PRODUCTION
+E15,- Déchets urbains,GWh,243,2019,Centre Val De Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Centre Val De Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Centre Val De Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Centre Val De Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Centre Val De Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Centre Val De Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Centre Val De Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Centre Val De Loire,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Centre Val De Loire,PRODUCTION
+E18,- Autre,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E18,- Autre,GWh,"",2015,Centre Val De Loire,PRODUCTION
+E18,- Autre,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E18,- Autre,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E18,- Autre,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E18,- Autre,GWh,0,2019,Centre Val De Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,822,2014,Centre Val De Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,902,2015,Centre Val De Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1402,2016,Centre Val De Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1104,2017,Centre Val De Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1358,2018,Centre Val De Loire,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1364,2019,Centre Val De Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,1962,2014,Centre Val De Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2146,2015,Centre Val De Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2025,2016,Centre Val De Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2167,2017,Centre Val De Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2481,2018,Centre Val De Loire,PRODUCTION
+E2,Production d'électricité primaire,GWh,2962,2019,Centre Val De Loire,PRODUCTION
+E20,- Gaz naturel,GWh,433,2014,Centre Val De Loire,PRODUCTION
+E20,- Gaz naturel,GWh,396,2015,Centre Val De Loire,PRODUCTION
+E20,- Gaz naturel,GWh,416,2016,Centre Val De Loire,PRODUCTION
+E20,- Gaz naturel,GWh,470,2017,Centre Val De Loire,PRODUCTION
+E20,- Gaz naturel,GWh,564,2018,Centre Val De Loire,PRODUCTION
+E20,- Gaz naturel,GWh,567,2019,Centre Val De Loire,PRODUCTION
+E21,- Pétrole,GWh,11,2014,Centre Val De Loire,PRODUCTION
+E21,- Pétrole,GWh,5,2015,Centre Val De Loire,PRODUCTION
+E21,- Pétrole,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E21,- Pétrole,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E21,- Pétrole,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E21,- Pétrole,GWh,2,2019,Centre Val De Loire,PRODUCTION
+E22,- Charbon,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E22,- Charbon,GWh,0,2015,Centre Val De Loire,PRODUCTION
+E22,- Charbon,GWh,0,2016,Centre Val De Loire,PRODUCTION
+E22,- Charbon,GWh,0,2017,Centre Val De Loire,PRODUCTION
+E22,- Charbon,GWh,0,2018,Centre Val De Loire,PRODUCTION
+E22,- Charbon,GWh,0,2019,Centre Val De Loire,PRODUCTION
+E23,- Biomasse,GWh,301,2014,Centre Val De Loire,PRODUCTION
+E23,- Biomasse,GWh,401,2015,Centre Val De Loire,PRODUCTION
+E23,- Biomasse,GWh,612,2016,Centre Val De Loire,PRODUCTION
+E23,- Biomasse,GWh,447,2017,Centre Val De Loire,PRODUCTION
+E23,- Biomasse,GWh,607,2018,Centre Val De Loire,PRODUCTION
+E23,- Biomasse,GWh,479,2019,Centre Val De Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Centre Val De Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Centre Val De Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2016,Centre Val De Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2017,Centre Val De Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2018,Centre Val De Loire,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2019,Centre Val De Loire,PRODUCTION
+E25,- Déchets urbains,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E25,- Déchets urbains,GWh,81,2015,Centre Val De Loire,PRODUCTION
+E25,- Déchets urbains,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E25,- Déchets urbains,GWh,106,2017,Centre Val De Loire,PRODUCTION
+E25,- Déchets urbains,GWh,103,2018,Centre Val De Loire,PRODUCTION
+E25,- Déchets urbains,GWh,103,2019,Centre Val De Loire,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Centre Val De Loire,PRODUCTION
+E26,- Déchets industriels,GWh,"",2015,Centre Val De Loire,PRODUCTION
+E26,- Déchets industriels,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E26,- Déchets industriels,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E26,- Déchets industriels,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E26,- Déchets industriels,GWh,"",2019,Centre Val De Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Centre Val De Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Centre Val De Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Centre Val De Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Centre Val De Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Centre Val De Loire,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Centre Val De Loire,PRODUCTION
+E28,- Autre,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E28,- Autre,GWh,"",2015,Centre Val De Loire,PRODUCTION
+E28,- Autre,GWh,200,2016,Centre Val De Loire,PRODUCTION
+E28,- Autre,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E28,- Autre,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E28,- Autre,GWh,"",2019,Centre Val De Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,135,2014,Centre Val De Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,100,2015,Centre Val De Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,129,2016,Centre Val De Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,69,2017,Centre Val De Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,143,2018,Centre Val De Loire,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,84,2019,Centre Val De Loire,PRODUCTION
+E6,- Éolien,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E6,- Éolien,GWh,"",2015,Centre Val De Loire,PRODUCTION
+E6,- Éolien,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E6,- Éolien,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E6,- Éolien,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E6,- Éolien,GWh,"",2019,Centre Val De Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,195,2014,Centre Val De Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,227,2015,Centre Val De Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,234,2016,Centre Val De Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,262,2017,Centre Val De Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,312,2018,Centre Val De Loire,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,352,2019,Centre Val De Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2014,Centre Val De Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2015,Centre Val De Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2016,Centre Val De Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2017,Centre Val De Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2018,Centre Val De Loire,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2019,Centre Val De Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,741,2014,Centre Val De Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,802,2015,Centre Val De Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,875,2016,Centre Val De Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1081,2017,Centre Val De Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1046,2018,Centre Val De Loire,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1100,2019,Centre Val De Loire,PRODUCTION
+P1,Production de charbon,kt,0,2014,Centre Val De Loire,PRODUCTION
+P1,Production de charbon,kt,0,2015,Centre Val De Loire,PRODUCTION
+P1,Production de charbon,kt,0,2016,Centre Val De Loire,PRODUCTION
+P1,Production de charbon,kt,0,2017,Centre Val De Loire,PRODUCTION
+P1,Production de charbon,kt,0,2018,Centre Val De Loire,PRODUCTION
+P1,Production de charbon,kt,0,2019,Centre Val De Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Centre Val De Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Centre Val De Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Centre Val De Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Centre Val De Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Centre Val De Loire,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Centre Val De Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,20290,2014,Centre Val De Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,20658,2015,Centre Val De Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,19735,2016,Centre Val De Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,19503,2017,Centre Val De Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,19422,2018,Centre Val De Loire,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,18663,2019,Centre Val De Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,169,2014,Centre Val De Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,185,2015,Centre Val De Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,174,2016,Centre Val De Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,186,2017,Centre Val De Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,213,2018,Centre Val De Loire,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,255,2019,Centre Val De Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Centre Val De Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2015,Centre Val De Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,8,2016,Centre Val De Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,21,2017,Centre Val De Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,30,2018,Centre Val De Loire,PRODUCTION
+P13,Biométhane injecté,GWh PCI,96,2019,Centre Val De Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Centre Val De Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Centre Val De Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2016,Centre Val De Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2017,Centre Val De Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,3,2018,Centre Val De Loire,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,8,2019,Centre Val De Loire,PRODUCTION
+P2,Production de pétrole,kt,"",2014,Centre Val De Loire,PRODUCTION
+P2,Production de pétrole,kt,"",2015,Centre Val De Loire,PRODUCTION
+P2,Production de pétrole,kt,"",2016,Centre Val De Loire,PRODUCTION
+P2,Production de pétrole,kt,"",2017,Centre Val De Loire,PRODUCTION
+P2,Production de pétrole,kt,"",2018,Centre Val De Loire,PRODUCTION
+P2,Production de pétrole,kt,"",2019,Centre Val De Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Centre Val De Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Centre Val De Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Centre Val De Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Centre Val De Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Centre Val De Loire,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Centre Val De Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,235974,2014,Centre Val De Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,240247,2015,Centre Val De Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,229522,2016,Centre Val De Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,226822,2017,Centre Val De Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,225874,2018,Centre Val De Loire,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,217047,2019,Centre Val De Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1962,2014,Centre Val De Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2146,2015,Centre Val De Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2025,2016,Centre Val De Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2167,2017,Centre Val De Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2481,2018,Centre Val De Loire,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2962,2019,Centre Val De Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2014,Centre Val De Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2015,Centre Val De Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2016,Centre Val De Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2017,Centre Val De Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2018,Centre Val De Loire,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2019,Centre Val De Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Centre Val De Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Centre Val De Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Centre Val De Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Centre Val De Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Centre Val De Loire,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Centre Val De Loire,PRODUCTION
+P9,- production de pétrole,ktep,"",2014,Centre Val De Loire,PRODUCTION
+P9,- production de pétrole,ktep,"",2015,Centre Val De Loire,PRODUCTION
+P9,- production de pétrole,ktep,"",2016,Centre Val De Loire,PRODUCTION
+P9,- production de pétrole,ktep,"",2017,Centre Val De Loire,PRODUCTION
+P9,- production de pétrole,ktep,"",2018,Centre Val De Loire,PRODUCTION
+P9,- production de pétrole,ktep,"",2019,Centre Val De Loire,PRODUCTION

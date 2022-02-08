@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,105750,2014,Grand Est,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,107249,2015,Grand Est,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,107980,2016,Grand Est,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,104180,2017,Grand Est,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,104732,2018,Grand Est,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,104436,2019,Grand Est,PRODUCTION
+E10,- Gaz naturel,GWh,"",2014,Grand Est,PRODUCTION
+E10,- Gaz naturel,GWh,"",2015,Grand Est,PRODUCTION
+E10,- Gaz naturel,GWh,"",2016,Grand Est,PRODUCTION
+E10,- Gaz naturel,GWh,"",2017,Grand Est,PRODUCTION
+E10,- Gaz naturel,GWh,"",2018,Grand Est,PRODUCTION
+E10,- Gaz naturel,GWh,"",2019,Grand Est,PRODUCTION
+E11,- Pétrole,GWh,96,2014,Grand Est,PRODUCTION
+E11,- Pétrole,GWh,59,2015,Grand Est,PRODUCTION
+E11,- Pétrole,GWh,"",2016,Grand Est,PRODUCTION
+E11,- Pétrole,GWh,38,2017,Grand Est,PRODUCTION
+E11,- Pétrole,GWh,31,2018,Grand Est,PRODUCTION
+E11,- Pétrole,GWh,15,2019,Grand Est,PRODUCTION
+E12,- Charbon,GWh,"",2014,Grand Est,PRODUCTION
+E12,- Charbon,GWh,"",2015,Grand Est,PRODUCTION
+E12,- Charbon,GWh,"",2016,Grand Est,PRODUCTION
+E12,- Charbon,GWh,"",2017,Grand Est,PRODUCTION
+E12,- Charbon,GWh,"",2018,Grand Est,PRODUCTION
+E12,- Charbon,GWh,890,2019,Grand Est,PRODUCTION
+E13,- Biomasse,GWh,165,2014,Grand Est,PRODUCTION
+E13,- Biomasse,GWh,223,2015,Grand Est,PRODUCTION
+E13,- Biomasse,GWh,276,2016,Grand Est,PRODUCTION
+E13,- Biomasse,GWh,324,2017,Grand Est,PRODUCTION
+E13,- Biomasse,GWh,354,2018,Grand Est,PRODUCTION
+E13,- Biomasse,GWh,386,2019,Grand Est,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2014,Grand Est,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2015,Grand Est,PRODUCTION
+E14,- Biogaz,GWh PCI,202,2016,Grand Est,PRODUCTION
+E14,- Biogaz,GWh PCI,246,2017,Grand Est,PRODUCTION
+E14,- Biogaz,GWh PCI,314,2018,Grand Est,PRODUCTION
+E14,- Biogaz,GWh PCI,401,2019,Grand Est,PRODUCTION
+E15,- Déchets urbains,GWh,214,2014,Grand Est,PRODUCTION
+E15,- Déchets urbains,GWh,200,2015,Grand Est,PRODUCTION
+E15,- Déchets urbains,GWh,188,2016,Grand Est,PRODUCTION
+E15,- Déchets urbains,GWh,171,2017,Grand Est,PRODUCTION
+E15,- Déchets urbains,GWh,198,2018,Grand Est,PRODUCTION
+E15,- Déchets urbains,GWh,187,2019,Grand Est,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Grand Est,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Grand Est,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Grand Est,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Grand Est,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Grand Est,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Grand Est,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Grand Est,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Grand Est,PRODUCTION
+E17,- Géothermie,GWh,"",2016,Grand Est,PRODUCTION
+E17,- Géothermie,GWh,"",2017,Grand Est,PRODUCTION
+E17,- Géothermie,GWh,"",2018,Grand Est,PRODUCTION
+E17,- Géothermie,GWh,"",2019,Grand Est,PRODUCTION
+E18,- Autre,GWh,82,2014,Grand Est,PRODUCTION
+E18,- Autre,GWh,83,2015,Grand Est,PRODUCTION
+E18,- Autre,GWh,95,2016,Grand Est,PRODUCTION
+E18,- Autre,GWh,125,2017,Grand Est,PRODUCTION
+E18,- Autre,GWh,100,2018,Grand Est,PRODUCTION
+E18,- Autre,GWh,82,2019,Grand Est,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,3535,2014,Grand Est,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,3611,2015,Grand Est,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4192,2016,Grand Est,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4563,2017,Grand Est,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,4641,2018,Grand Est,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,5100,2019,Grand Est,PRODUCTION
+E2,Production d'électricité primaire,GWh,13194,2014,Grand Est,PRODUCTION
+E2,Production d'électricité primaire,GWh,13741,2015,Grand Est,PRODUCTION
+E2,Production d'électricité primaire,GWh,14424,2016,Grand Est,PRODUCTION
+E2,Production d'électricité primaire,GWh,14166,2017,Grand Est,PRODUCTION
+E2,Production d'électricité primaire,GWh,14335,2018,Grand Est,PRODUCTION
+E2,Production d'électricité primaire,GWh,17018,2019,Grand Est,PRODUCTION
+E20,- Gaz naturel,GWh,"",2014,Grand Est,PRODUCTION
+E20,- Gaz naturel,GWh,"",2015,Grand Est,PRODUCTION
+E20,- Gaz naturel,GWh,"",2016,Grand Est,PRODUCTION
+E20,- Gaz naturel,GWh,"",2017,Grand Est,PRODUCTION
+E20,- Gaz naturel,GWh,"",2018,Grand Est,PRODUCTION
+E20,- Gaz naturel,GWh,"",2019,Grand Est,PRODUCTION
+E21,- Pétrole,GWh,30,2014,Grand Est,PRODUCTION
+E21,- Pétrole,GWh,40,2015,Grand Est,PRODUCTION
+E21,- Pétrole,GWh,41,2016,Grand Est,PRODUCTION
+E21,- Pétrole,GWh,68,2017,Grand Est,PRODUCTION
+E21,- Pétrole,GWh,41,2018,Grand Est,PRODUCTION
+E21,- Pétrole,GWh,31,2019,Grand Est,PRODUCTION
+E22,- Charbon,GWh,256,2014,Grand Est,PRODUCTION
+E22,- Charbon,GWh,253,2015,Grand Est,PRODUCTION
+E22,- Charbon,GWh,190,2016,Grand Est,PRODUCTION
+E22,- Charbon,GWh,189,2017,Grand Est,PRODUCTION
+E22,- Charbon,GWh,179,2018,Grand Est,PRODUCTION
+E22,- Charbon,GWh,167,2019,Grand Est,PRODUCTION
+E23,- Biomasse,GWh,"",2014,Grand Est,PRODUCTION
+E23,- Biomasse,GWh,"",2015,Grand Est,PRODUCTION
+E23,- Biomasse,GWh,"",2016,Grand Est,PRODUCTION
+E23,- Biomasse,GWh,"",2017,Grand Est,PRODUCTION
+E23,- Biomasse,GWh,"",2018,Grand Est,PRODUCTION
+E23,- Biomasse,GWh,"",2019,Grand Est,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Grand Est,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Grand Est,PRODUCTION
+E24,- Biogaz,GWh PCI,62,2016,Grand Est,PRODUCTION
+E24,- Biogaz,GWh PCI,113,2017,Grand Est,PRODUCTION
+E24,- Biogaz,GWh PCI,148,2018,Grand Est,PRODUCTION
+E24,- Biogaz,GWh PCI,192,2019,Grand Est,PRODUCTION
+E25,- Déchets urbains,GWh,752,2014,Grand Est,PRODUCTION
+E25,- Déchets urbains,GWh,624,2015,Grand Est,PRODUCTION
+E25,- Déchets urbains,GWh,764,2016,Grand Est,PRODUCTION
+E25,- Déchets urbains,GWh,692,2017,Grand Est,PRODUCTION
+E25,- Déchets urbains,GWh,707,2018,Grand Est,PRODUCTION
+E25,- Déchets urbains,GWh,698,2019,Grand Est,PRODUCTION
+E26,- Déchets industriels,GWh,"",2014,Grand Est,PRODUCTION
+E26,- Déchets industriels,GWh,"",2015,Grand Est,PRODUCTION
+E26,- Déchets industriels,GWh,"",2016,Grand Est,PRODUCTION
+E26,- Déchets industriels,GWh,"",2017,Grand Est,PRODUCTION
+E26,- Déchets industriels,GWh,"",2018,Grand Est,PRODUCTION
+E26,- Déchets industriels,GWh,"",2019,Grand Est,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Grand Est,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Grand Est,PRODUCTION
+E27,- Géothermie,GWh,"",2016,Grand Est,PRODUCTION
+E27,- Géothermie,GWh,"",2017,Grand Est,PRODUCTION
+E27,- Géothermie,GWh,"",2018,Grand Est,PRODUCTION
+E27,- Géothermie,GWh,"",2019,Grand Est,PRODUCTION
+E28,- Autre,GWh,"",2014,Grand Est,PRODUCTION
+E28,- Autre,GWh,"",2015,Grand Est,PRODUCTION
+E28,- Autre,GWh,"",2016,Grand Est,PRODUCTION
+E28,- Autre,GWh,"",2017,Grand Est,PRODUCTION
+E28,- Autre,GWh,"",2018,Grand Est,PRODUCTION
+E28,- Autre,GWh,"",2019,Grand Est,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2014,Grand Est,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2015,Grand Est,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2016,Grand Est,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,Grand Est,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2018,Grand Est,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2019,Grand Est,PRODUCTION
+E6,- Éolien,GWh,"",2014,Grand Est,PRODUCTION
+E6,- Éolien,GWh,"",2015,Grand Est,PRODUCTION
+E6,- Éolien,GWh,"",2016,Grand Est,PRODUCTION
+E6,- Éolien,GWh,"",2017,Grand Est,PRODUCTION
+E6,- Éolien,GWh,"",2018,Grand Est,PRODUCTION
+E6,- Éolien,GWh,"",2019,Grand Est,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,455,2014,Grand Est,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,475,2015,Grand Est,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,463,2016,Grand Est,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,499,2017,Grand Est,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,545,2018,Grand Est,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,574,2019,Grand Est,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2014,Grand Est,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2015,Grand Est,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2016,Grand Est,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2017,Grand Est,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2018,Grand Est,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2019,Grand Est,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,6705,2014,Grand Est,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,8277,2015,Grand Est,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,10827,2016,Grand Est,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,13131,2017,Grand Est,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,9834,2018,Grand Est,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,11027,2019,Grand Est,PRODUCTION
+P1,Production de charbon,kt,0,2014,Grand Est,PRODUCTION
+P1,Production de charbon,kt,0,2015,Grand Est,PRODUCTION
+P1,Production de charbon,kt,0,2016,Grand Est,PRODUCTION
+P1,Production de charbon,kt,0,2017,Grand Est,PRODUCTION
+P1,Production de charbon,kt,0,2018,Grand Est,PRODUCTION
+P1,Production de charbon,kt,0,2019,Grand Est,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Grand Est,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Grand Est,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Grand Est,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Grand Est,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Grand Est,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Grand Est,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,22369,2014,Grand Est,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,22207,2015,Grand Est,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,21556,2016,Grand Est,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,20033,2017,Grand Est,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,20991,2018,Grand Est,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,19904,2019,Grand Est,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1135,2014,Grand Est,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1182,2015,Grand Est,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1240,2016,Grand Est,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1218,2017,Grand Est,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1233,2018,Grand Est,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1463,2019,Grand Est,PRODUCTION
+P13,Biométhane injecté,GWh PCI,3,2014,Grand Est,PRODUCTION
+P13,Biométhane injecté,GWh PCI,14,2015,Grand Est,PRODUCTION
+P13,Biométhane injecté,GWh PCI,46,2016,Grand Est,PRODUCTION
+P13,Biométhane injecté,GWh PCI,67,2017,Grand Est,PRODUCTION
+P13,Biométhane injecté,GWh PCI,125,2018,Grand Est,PRODUCTION
+P13,Biométhane injecté,GWh PCI,198,2019,Grand Est,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Grand Est,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2015,Grand Est,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,4,2016,Grand Est,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,6,2017,Grand Est,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,11,2018,Grand Est,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,17,2019,Grand Est,PRODUCTION
+P2,Production de pétrole,kt,163,2014,Grand Est,PRODUCTION
+P2,Production de pétrole,kt,157,2015,Grand Est,PRODUCTION
+P2,Production de pétrole,kt,146,2016,Grand Est,PRODUCTION
+P2,Production de pétrole,kt,134,2017,Grand Est,PRODUCTION
+P2,Production de pétrole,kt,134,2018,Grand Est,PRODUCTION
+P2,Production de pétrole,kt,130,2019,Grand Est,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Grand Est,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Grand Est,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Grand Est,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Grand Est,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Grand Est,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Grand Est,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,260154,2014,Grand Est,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,258272,2015,Grand Est,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,250692,2016,Grand Est,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,232979,2017,Grand Est,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,244129,2018,Grand Est,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,231488,2019,Grand Est,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,13194,2014,Grand Est,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,13741,2015,Grand Est,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,14424,2016,Grand Est,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,14166,2017,Grand Est,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,14335,2018,Grand Est,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,17018,2019,Grand Est,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,166,2014,Grand Est,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,160,2015,Grand Est,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,149,2016,Grand Est,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,137,2017,Grand Est,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,137,2018,Grand Est,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,132,2019,Grand Est,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Grand Est,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Grand Est,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Grand Est,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Grand Est,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Grand Est,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Grand Est,PRODUCTION
+P9,- production de pétrole,ktep,166,2014,Grand Est,PRODUCTION
+P9,- production de pétrole,ktep,160,2015,Grand Est,PRODUCTION
+P9,- production de pétrole,ktep,149,2016,Grand Est,PRODUCTION
+P9,- production de pétrole,ktep,137,2017,Grand Est,PRODUCTION
+P9,- production de pétrole,ktep,137,2018,Grand Est,PRODUCTION
+P9,- production de pétrole,ktep,132,2019,Grand Est,PRODUCTION

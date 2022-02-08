@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,13167,2014,Nouvelle Aquitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,13293,2015,Nouvelle Aquitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,13476,2016,Nouvelle Aquitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,13232,2017,Nouvelle Aquitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,13125,2018,Nouvelle Aquitaine,CONSOMMATION
+C1,Consommation finale énergétique,ktep,13041,2019,Nouvelle Aquitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2014,Nouvelle Aquitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,35,2014,Nouvelle Aquitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2015,Nouvelle Aquitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,24,2015,Nouvelle Aquitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2016,Nouvelle Aquitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,18,2016,Nouvelle Aquitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2017,Nouvelle Aquitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,19,2017,Nouvelle Aquitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2018,Nouvelle Aquitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,19,2018,Nouvelle Aquitaine,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,0,2019,Nouvelle Aquitaine,CONSOMMATION
+C13,- Déchets industriels,ktep,20,2019,Nouvelle Aquitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2014,Nouvelle Aquitaine,CONSOMMATION
+C14,- Géothermie,ktep,23,2014,Nouvelle Aquitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2015,Nouvelle Aquitaine,CONSOMMATION
+C14,- Géothermie,ktep,23,2015,Nouvelle Aquitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2016,Nouvelle Aquitaine,CONSOMMATION
+C14,- Géothermie,ktep,23,2016,Nouvelle Aquitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2017,Nouvelle Aquitaine,CONSOMMATION
+C14,- Géothermie,ktep,23,2017,Nouvelle Aquitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2018,Nouvelle Aquitaine,CONSOMMATION
+C14,- Géothermie,ktep,23,2018,Nouvelle Aquitaine,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,0,2019,Nouvelle Aquitaine,CONSOMMATION
+C14,- Géothermie,ktep,23,2019,Nouvelle Aquitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2014,Nouvelle Aquitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2015,Nouvelle Aquitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2016,Nouvelle Aquitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2017,Nouvelle Aquitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2018,Nouvelle Aquitaine,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,0,2019,Nouvelle Aquitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2014,Nouvelle Aquitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2015,Nouvelle Aquitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2016,Nouvelle Aquitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2017,Nouvelle Aquitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,"",2018,Nouvelle Aquitaine,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,0,2019,Nouvelle Aquitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2014,Nouvelle Aquitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2015,Nouvelle Aquitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2016,Nouvelle Aquitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2017,Nouvelle Aquitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2018,Nouvelle Aquitaine,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,0,2019,Nouvelle Aquitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",599,2014,Nouvelle Aquitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",610,2015,Nouvelle Aquitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",595,2016,Nouvelle Aquitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",583,2017,Nouvelle Aquitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",581,2018,Nouvelle Aquitaine,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",565,2019,Nouvelle Aquitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,461,2014,Nouvelle Aquitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,465,2015,Nouvelle Aquitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,443,2016,Nouvelle Aquitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,437,2017,Nouvelle Aquitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,432,2018,Nouvelle Aquitaine,CONSOMMATION
+CA2,Produits pétroliers,ktep,415,2019,Nouvelle Aquitaine,CONSOMMATION
+CA21,dont pêche,ktep,32,2014,Nouvelle Aquitaine,CONSOMMATION
+CA21,dont pêche,ktep,36,2015,Nouvelle Aquitaine,CONSOMMATION
+CA21,dont pêche,ktep,34,2016,Nouvelle Aquitaine,CONSOMMATION
+CA21,dont pêche,ktep,37,2017,Nouvelle Aquitaine,CONSOMMATION
+CA21,dont pêche,ktep,38,2018,Nouvelle Aquitaine,CONSOMMATION
+CA21,dont pêche,ktep,41,2019,Nouvelle Aquitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,218,2014,Nouvelle Aquitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,186,2015,Nouvelle Aquitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,215,2016,Nouvelle Aquitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,214,2017,Nouvelle Aquitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,240,2018,Nouvelle Aquitaine,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,236,2019,Nouvelle Aquitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,17,2014,Nouvelle Aquitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,14,2015,Nouvelle Aquitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,17,2016,Nouvelle Aquitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,17,2017,Nouvelle Aquitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,19,2018,Nouvelle Aquitaine,CONSOMMATION
+CA4,Gaz naturel,ktep,18,2019,Nouvelle Aquitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CA5,Électricité (unité propre),GWh,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CA6,Électricité,ktep,95,2014,Nouvelle Aquitaine,CONSOMMATION
+CA6,Électricité,ktep,102,2015,Nouvelle Aquitaine,CONSOMMATION
+CA6,Électricité,ktep,106,2016,Nouvelle Aquitaine,CONSOMMATION
+CA6,Électricité,ktep,99,2017,Nouvelle Aquitaine,CONSOMMATION
+CA6,Électricité,ktep,101,2018,Nouvelle Aquitaine,CONSOMMATION
+CA6,Électricité,ktep,103,2019,Nouvelle Aquitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,27,2014,Nouvelle Aquitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,29,2015,Nouvelle Aquitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,29,2016,Nouvelle Aquitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,30,2017,Nouvelle Aquitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,30,2018,Nouvelle Aquitaine,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,29,2019,Nouvelle Aquitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Nouvelle Aquitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Nouvelle Aquitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Nouvelle Aquitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Nouvelle Aquitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Nouvelle Aquitaine,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2019,Nouvelle Aquitaine,CONSOMMATION
+CI1,Industrie,ktep,2398,2014,Nouvelle Aquitaine,CONSOMMATION
+CI1,Industrie,ktep,2399,2015,Nouvelle Aquitaine,CONSOMMATION
+CI1,Industrie,ktep,2487,2016,Nouvelle Aquitaine,CONSOMMATION
+CI1,Industrie,ktep,2232,2017,Nouvelle Aquitaine,CONSOMMATION
+CI1,Industrie,ktep,2255,2018,Nouvelle Aquitaine,CONSOMMATION
+CI1,Industrie,ktep,2249,2019,Nouvelle Aquitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,289,2014,Nouvelle Aquitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,313,2015,Nouvelle Aquitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,352,2016,Nouvelle Aquitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,345,2017,Nouvelle Aquitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,269,2018,Nouvelle Aquitaine,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,273,2019,Nouvelle Aquitaine,CONSOMMATION
+CI3,Charbon,ktep,98,2014,Nouvelle Aquitaine,CONSOMMATION
+CI3,Charbon,ktep,122,2015,Nouvelle Aquitaine,CONSOMMATION
+CI3,Charbon,ktep,91,2016,Nouvelle Aquitaine,CONSOMMATION
+CI3,Charbon,ktep,88,2017,Nouvelle Aquitaine,CONSOMMATION
+CI3,Charbon,ktep,84,2018,Nouvelle Aquitaine,CONSOMMATION
+CI3,Charbon,ktep,86,2019,Nouvelle Aquitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2014,Nouvelle Aquitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2015,Nouvelle Aquitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2016,Nouvelle Aquitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2017,Nouvelle Aquitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2018,Nouvelle Aquitaine,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,0,2019,Nouvelle Aquitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,315,2014,Nouvelle Aquitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,297,2015,Nouvelle Aquitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,307,2016,Nouvelle Aquitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,254,2017,Nouvelle Aquitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,261,2018,Nouvelle Aquitaine,CONSOMMATION
+CI4,Produits pétroliers,ktep,247,2019,Nouvelle Aquitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,635,2014,Nouvelle Aquitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,609,2015,Nouvelle Aquitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,683,2016,Nouvelle Aquitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,521,2017,Nouvelle Aquitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,573,2018,Nouvelle Aquitaine,CONSOMMATION
+CI6,Gaz naturel,ktep,579,2019,Nouvelle Aquitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CI8,Électricité,ktep,704,2014,Nouvelle Aquitaine,CONSOMMATION
+CI8,Électricité,ktep,694,2015,Nouvelle Aquitaine,CONSOMMATION
+CI8,Électricité,ktep,693,2016,Nouvelle Aquitaine,CONSOMMATION
+CI8,Électricité,ktep,675,2017,Nouvelle Aquitaine,CONSOMMATION
+CI8,Électricité,ktep,682,2018,Nouvelle Aquitaine,CONSOMMATION
+CI8,Électricité,ktep,675,2019,Nouvelle Aquitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,358,2014,Nouvelle Aquitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,364,2015,Nouvelle Aquitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,360,2016,Nouvelle Aquitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,350,2017,Nouvelle Aquitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,387,2018,Nouvelle Aquitaine,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,388,2019,Nouvelle Aquitaine,CONSOMMATION
+CR1,Résidentiel,ktep,3426,2014,Nouvelle Aquitaine,CONSOMMATION
+CR1,Résidentiel,ktep,3507,2015,Nouvelle Aquitaine,CONSOMMATION
+CR1,Résidentiel,ktep,3563,2016,Nouvelle Aquitaine,CONSOMMATION
+CR1,Résidentiel,ktep,3550,2017,Nouvelle Aquitaine,CONSOMMATION
+CR1,Résidentiel,ktep,3500,2018,Nouvelle Aquitaine,CONSOMMATION
+CR1,Résidentiel,ktep,3448,2019,Nouvelle Aquitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,662,2014,Nouvelle Aquitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,647,2015,Nouvelle Aquitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,556,2016,Nouvelle Aquitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,572,2017,Nouvelle Aquitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,526,2018,Nouvelle Aquitaine,CONSOMMATION
+CR2,Produits pétroliers,ktep,503,2019,Nouvelle Aquitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,802,2014,Nouvelle Aquitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,811,2015,Nouvelle Aquitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,872,2016,Nouvelle Aquitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,869,2017,Nouvelle Aquitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,859,2018,Nouvelle Aquitaine,CONSOMMATION
+CR4,Gaz naturel,ktep,836,2019,Nouvelle Aquitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CR6,Électricité,ktep,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,599,2014,Nouvelle Aquitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,632,2015,Nouvelle Aquitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,676,2016,Nouvelle Aquitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,650,2017,Nouvelle Aquitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,630,2018,Nouvelle Aquitaine,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,636,2019,Nouvelle Aquitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,28,2014,Nouvelle Aquitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,32,2015,Nouvelle Aquitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,33,2016,Nouvelle Aquitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,36,2017,Nouvelle Aquitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,36,2018,Nouvelle Aquitaine,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,38,2019,Nouvelle Aquitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,1830,2014,Nouvelle Aquitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,1816,2015,Nouvelle Aquitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,1801,2016,Nouvelle Aquitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,1819,2017,Nouvelle Aquitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,1814,2018,Nouvelle Aquitaine,CONSOMMATION
+CTE1,Tertiaire,ktep,1798,2019,Nouvelle Aquitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,302,2014,Nouvelle Aquitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,309,2015,Nouvelle Aquitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,266,2016,Nouvelle Aquitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,286,2017,Nouvelle Aquitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,275,2018,Nouvelle Aquitaine,CONSOMMATION
+CTE2,Produits pétroliers,ktep,273,2019,Nouvelle Aquitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,508,2014,Nouvelle Aquitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,451,2015,Nouvelle Aquitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,456,2016,Nouvelle Aquitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,458,2017,Nouvelle Aquitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,455,2018,Nouvelle Aquitaine,CONSOMMATION
+CTE4,Gaz naturel,ktep,454,2019,Nouvelle Aquitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CTE6,Électricité,ktep,953,2014,Nouvelle Aquitaine,CONSOMMATION
+CTE6,Électricité,ktep,982,2015,Nouvelle Aquitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CTE6,Électricité,ktep,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CTE6,Électricité,ktep,994,2019,Nouvelle Aquitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,55,2014,Nouvelle Aquitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,61,2015,Nouvelle Aquitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,52,2016,Nouvelle Aquitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,52,2017,Nouvelle Aquitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,54,2018,Nouvelle Aquitaine,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,55,2019,Nouvelle Aquitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,13,2014,Nouvelle Aquitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,13,2015,Nouvelle Aquitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,19,2016,Nouvelle Aquitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,20,2017,Nouvelle Aquitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,19,2018,Nouvelle Aquitaine,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,23,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR1,Transport,ktep,4914,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR1,Transport,ktep,4962,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR1,Transport,ktep,5031,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR1,Transport,ktep,5048,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR1,Transport,ktep,4974,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR1,Transport,ktep,4981,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,524,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,507,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,493,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,481,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,400,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,440,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR11,Électricité,ktep,45,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR11,Électricité,ktep,44,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR11,Électricité,ktep,42,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR11,Électricité,ktep,41,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR11,Électricité,ktep,34,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR11,Électricité,ktep,38,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,317,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,322,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,324,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,339,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,340,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR3,Biocarburants,ktep,348,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,724,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,745,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,772,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,805,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,849,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,912,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Nouvelle Aquitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Nouvelle Aquitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Nouvelle Aquitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Nouvelle Aquitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Nouvelle Aquitaine,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Nouvelle Aquitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,41,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,44,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,48,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,55,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,60,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR6,Biocarburants essence,ktep,67,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,276,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,279,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,276,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,283,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,278,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,279,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,99,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,124,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,129,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,136,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,162,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,165,2019,Nouvelle Aquitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,8,2014,Nouvelle Aquitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2015,Nouvelle Aquitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2016,Nouvelle Aquitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2017,Nouvelle Aquitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,13,2018,Nouvelle Aquitaine,CONSOMMATION
+CTR9,Gaz naturel,ktep,13,2019,Nouvelle Aquitaine,CONSOMMATION

@@ -1,0 +1,325 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+C1,Consommation finale énergétique,ktep,15179,2014,Grand Est,CONSOMMATION
+C1,Consommation finale énergétique,ktep,15661,2015,Grand Est,CONSOMMATION
+C1,Consommation finale énergétique,ktep,15716,2016,Grand Est,CONSOMMATION
+C1,Consommation finale énergétique,ktep,15628,2017,Grand Est,CONSOMMATION
+C1,Consommation finale énergétique,ktep,14780,2018,Grand Est,CONSOMMATION
+C1,Consommation finale énergétique,ktep,14458,2019,Grand Est,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2014,Grand Est,CONSOMMATION
+C13,- Déchets industriels,ktep,78,2014,Grand Est,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2015,Grand Est,CONSOMMATION
+C13,- Déchets industriels,ktep,84,2015,Grand Est,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2016,Grand Est,CONSOMMATION
+C13,- Déchets industriels,ktep,120,2016,Grand Est,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2017,Grand Est,CONSOMMATION
+C13,- Déchets industriels,ktep,89,2017,Grand Est,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2018,Grand Est,CONSOMMATION
+C13,- Déchets industriels,ktep,95,2018,Grand Est,CONSOMMATION
+C13,Consommation finale non énergétique de gaz,ktep,"",2019,Grand Est,CONSOMMATION
+C13,- Déchets industriels,ktep,121,2019,Grand Est,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2014,Grand Est,CONSOMMATION
+C14,- Géothermie,ktep,"",2014,Grand Est,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2015,Grand Est,CONSOMMATION
+C14,- Géothermie,ktep,"",2015,Grand Est,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2016,Grand Est,CONSOMMATION
+C14,- Géothermie,ktep,"",2016,Grand Est,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2017,Grand Est,CONSOMMATION
+C14,- Géothermie,ktep,"",2017,Grand Est,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2018,Grand Est,CONSOMMATION
+C14,- Géothermie,ktep,3,2018,Grand Est,CONSOMMATION
+C14,Consommation finale non énergétique de gaz,GWh PCS,"",2019,Grand Est,CONSOMMATION
+C14,- Géothermie,ktep,"",2019,Grand Est,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2014,Grand Est,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,"",2015,Grand Est,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,463,2016,Grand Est,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,564,2017,Grand Est,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,549,2018,Grand Est,CONSOMMATION
+C2,Consommation finale non énergétique,ktep,449,2019,Grand Est,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,43,2014,Grand Est,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,50,2015,Grand Est,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,15,2016,Grand Est,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,22,2017,Grand Est,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,42,2018,Grand Est,CONSOMMATION
+C3,Charbon (hors goudrons de houille),ktep,18,2019,Grand Est,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2014,Grand Est,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2015,Grand Est,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2016,Grand Est,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2017,Grand Est,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2018,Grand Est,CONSOMMATION
+C4,Produits pétroliers (pétrochimie uniquement),ktep,"",2019,Grand Est,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",463,2014,Grand Est,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",472,2015,Grand Est,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",433,2016,Grand Est,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",427,2017,Grand Est,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",425,2018,Grand Est,CONSOMMATION
+CA1,Agriculture/sylviculture/pêche,"",393,2019,Grand Est,CONSOMMATION
+CA2,Produits pétroliers,ktep,371,2014,Grand Est,CONSOMMATION
+CA2,Produits pétroliers,ktep,373,2015,Grand Est,CONSOMMATION
+CA2,Produits pétroliers,ktep,348,2016,Grand Est,CONSOMMATION
+CA2,Produits pétroliers,ktep,339,2017,Grand Est,CONSOMMATION
+CA2,Produits pétroliers,ktep,335,2018,Grand Est,CONSOMMATION
+CA2,Produits pétroliers,ktep,306,2019,Grand Est,CONSOMMATION
+CA21,dont pêche,ktep,0,2014,Grand Est,CONSOMMATION
+CA21,dont pêche,ktep,0,2015,Grand Est,CONSOMMATION
+CA21,dont pêche,ktep,0,2016,Grand Est,CONSOMMATION
+CA21,dont pêche,ktep,0,2017,Grand Est,CONSOMMATION
+CA21,dont pêche,ktep,0,2018,Grand Est,CONSOMMATION
+CA21,dont pêche,ktep,0,2019,Grand Est,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,169,2014,Grand Est,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,158,2015,Grand Est,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,135,2016,Grand Est,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,120,2017,Grand Est,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,138,2018,Grand Est,CONSOMMATION
+CA3,Gaz naturel (unité propre),GWh PCS,152,2019,Grand Est,CONSOMMATION
+CA4,Gaz naturel,ktep,13,2014,Grand Est,CONSOMMATION
+CA4,Gaz naturel,ktep,12,2015,Grand Est,CONSOMMATION
+CA4,Gaz naturel,ktep,10,2016,Grand Est,CONSOMMATION
+CA4,Gaz naturel,ktep,9,2017,Grand Est,CONSOMMATION
+CA4,Gaz naturel,ktep,11,2018,Grand Est,CONSOMMATION
+CA4,Gaz naturel,ktep,12,2019,Grand Est,CONSOMMATION
+CA5,Électricité (unité propre),GWh,726,2014,Grand Est,CONSOMMATION
+CA5,Électricité (unité propre),GWh,769,2015,Grand Est,CONSOMMATION
+CA5,Électricité (unité propre),GWh,660,2016,Grand Est,CONSOMMATION
+CA5,Électricité (unité propre),GWh,687,2017,Grand Est,CONSOMMATION
+CA5,Électricité (unité propre),GWh,678,2018,Grand Est,CONSOMMATION
+CA5,Électricité (unité propre),GWh,589,2019,Grand Est,CONSOMMATION
+CA6,Électricité,ktep,62,2014,Grand Est,CONSOMMATION
+CA6,Électricité,ktep,66,2015,Grand Est,CONSOMMATION
+CA6,Électricité,ktep,57,2016,Grand Est,CONSOMMATION
+CA6,Électricité,ktep,59,2017,Grand Est,CONSOMMATION
+CA6,Électricité,ktep,58,2018,Grand Est,CONSOMMATION
+CA6,Électricité,ktep,51,2019,Grand Est,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,17,2014,Grand Est,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,21,2015,Grand Est,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,19,2016,Grand Est,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,19,2017,Grand Est,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,21,2018,Grand Est,CONSOMMATION
+CA7,Energies renouvelables & déchets (hors biocarburants),ktep,23,2019,Grand Est,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2014,Grand Est,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2015,Grand Est,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2016,Grand Est,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2017,Grand Est,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,0,2018,Grand Est,CONSOMMATION
+CA8,Chaleur commercialisée,ktep,1,2019,Grand Est,CONSOMMATION
+CI1,Industrie,ktep,4908,2014,Grand Est,CONSOMMATION
+CI1,Industrie,ktep,4975,2015,Grand Est,CONSOMMATION
+CI1,Industrie,ktep,5008,2016,Grand Est,CONSOMMATION
+CI1,Industrie,ktep,5031,2017,Grand Est,CONSOMMATION
+CI1,Industrie,ktep,4776,2018,Grand Est,CONSOMMATION
+CI1,Industrie,ktep,4581,2019,Grand Est,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,130,2014,Grand Est,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,147,2015,Grand Est,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,183,2016,Grand Est,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,234,2017,Grand Est,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,224,2018,Grand Est,CONSOMMATION
+CI11,Chaleur commercialisée,ktep,269,2019,Grand Est,CONSOMMATION
+CI3,Charbon,ktep,765,2014,Grand Est,CONSOMMATION
+CI3,Charbon,ktep,727,2015,Grand Est,CONSOMMATION
+CI3,Charbon,ktep,712,2016,Grand Est,CONSOMMATION
+CI3,Charbon,ktep,657,2017,Grand Est,CONSOMMATION
+CI3,Charbon,ktep,592,2018,Grand Est,CONSOMMATION
+CI3,Charbon,ktep,468,2019,Grand Est,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2014,Grand Est,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2015,Grand Est,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2016,Grand Est,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2017,Grand Est,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2018,Grand Est,CONSOMMATION
+CI3b,dont hauts fourneaux,ktep,"",2019,Grand Est,CONSOMMATION
+CI4,Produits pétroliers,ktep,365,2014,Grand Est,CONSOMMATION
+CI4,Produits pétroliers,ktep,316,2015,Grand Est,CONSOMMATION
+CI4,Produits pétroliers,ktep,290,2016,Grand Est,CONSOMMATION
+CI4,Produits pétroliers,ktep,280,2017,Grand Est,CONSOMMATION
+CI4,Produits pétroliers,ktep,262,2018,Grand Est,CONSOMMATION
+CI4,Produits pétroliers,ktep,248,2019,Grand Est,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2014,Grand Est,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2015,Grand Est,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2016,Grand Est,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2017,Grand Est,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2018,Grand Est,CONSOMMATION
+CI5,Gaz naturel (unité propre),GWh PCS,"",2019,Grand Est,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2014,Grand Est,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2015,Grand Est,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2016,Grand Est,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2017,Grand Est,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2018,Grand Est,CONSOMMATION
+CI6,Gaz naturel,ktep,"",2019,Grand Est,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2014,Grand Est,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2015,Grand Est,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2016,Grand Est,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2017,Grand Est,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2018,Grand Est,CONSOMMATION
+CI7,Électricité (unité propre),GWh,"",2019,Grand Est,CONSOMMATION
+CI8,Électricité,ktep,"",2014,Grand Est,CONSOMMATION
+CI8,Électricité,ktep,"",2015,Grand Est,CONSOMMATION
+CI8,Électricité,ktep,"",2016,Grand Est,CONSOMMATION
+CI8,Électricité,ktep,"",2017,Grand Est,CONSOMMATION
+CI8,Électricité,ktep,"",2018,Grand Est,CONSOMMATION
+CI8,Électricité,ktep,"",2019,Grand Est,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,277,2014,Grand Est,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,309,2015,Grand Est,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,368,2016,Grand Est,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,347,2017,Grand Est,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,377,2018,Grand Est,CONSOMMATION
+CI9,Energies renouvelables & déchets (hors biocarburants),ktep,379,2019,Grand Est,CONSOMMATION
+CR1,Résidentiel,ktep,3672,2014,Grand Est,CONSOMMATION
+CR1,Résidentiel,ktep,3979,2015,Grand Est,CONSOMMATION
+CR1,Résidentiel,ktep,4186,2016,Grand Est,CONSOMMATION
+CR1,Résidentiel,ktep,4063,2017,Grand Est,CONSOMMATION
+CR1,Résidentiel,ktep,3795,2018,Grand Est,CONSOMMATION
+CR1,Résidentiel,ktep,3790,2019,Grand Est,CONSOMMATION
+CR2,Produits pétroliers,ktep,649,2014,Grand Est,CONSOMMATION
+CR2,Produits pétroliers,ktep,661,2015,Grand Est,CONSOMMATION
+CR2,Produits pétroliers,ktep,591,2016,Grand Est,CONSOMMATION
+CR2,Produits pétroliers,ktep,569,2017,Grand Est,CONSOMMATION
+CR2,Produits pétroliers,ktep,487,2018,Grand Est,CONSOMMATION
+CR2,Produits pétroliers,ktep,458,2019,Grand Est,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2014,Grand Est,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2015,Grand Est,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2016,Grand Est,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2017,Grand Est,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2018,Grand Est,CONSOMMATION
+CR3,Gaz naturel (unité propre),GWh PCS,"",2019,Grand Est,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2014,Grand Est,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2015,Grand Est,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2016,Grand Est,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2017,Grand Est,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2018,Grand Est,CONSOMMATION
+CR4,Gaz naturel,ktep,"",2019,Grand Est,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2014,Grand Est,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2015,Grand Est,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2016,Grand Est,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2017,Grand Est,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2018,Grand Est,CONSOMMATION
+CR5,Électricité (unité propre),GWh,"",2019,Grand Est,CONSOMMATION
+CR6,Électricité,ktep,"",2014,Grand Est,CONSOMMATION
+CR6,Électricité,ktep,"",2015,Grand Est,CONSOMMATION
+CR6,Électricité,ktep,"",2016,Grand Est,CONSOMMATION
+CR6,Électricité,ktep,"",2017,Grand Est,CONSOMMATION
+CR6,Électricité,ktep,"",2018,Grand Est,CONSOMMATION
+CR6,Électricité,ktep,"",2019,Grand Est,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,787,2014,Grand Est,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,831,2015,Grand Est,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,888,2016,Grand Est,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,854,2017,Grand Est,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,828,2018,Grand Est,CONSOMMATION
+CR7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,836,2019,Grand Est,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,90,2014,Grand Est,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,102,2015,Grand Est,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,97,2016,Grand Est,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,96,2017,Grand Est,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,94,2018,Grand Est,CONSOMMATION
+CR8,Chaleur commercialisée,ktep,115,2019,Grand Est,CONSOMMATION
+CTE1,Tertiaire,ktep,2085,2014,Grand Est,CONSOMMATION
+CTE1,Tertiaire,ktep,2144,2015,Grand Est,CONSOMMATION
+CTE1,Tertiaire,ktep,2049,2016,Grand Est,CONSOMMATION
+CTE1,Tertiaire,ktep,2064,2017,Grand Est,CONSOMMATION
+CTE1,Tertiaire,ktep,1955,2018,Grand Est,CONSOMMATION
+CTE1,Tertiaire,ktep,1976,2019,Grand Est,CONSOMMATION
+CTE2,Produits pétroliers,ktep,315,2014,Grand Est,CONSOMMATION
+CTE2,Produits pétroliers,ktep,333,2015,Grand Est,CONSOMMATION
+CTE2,Produits pétroliers,ktep,299,2016,Grand Est,CONSOMMATION
+CTE2,Produits pétroliers,ktep,304,2017,Grand Est,CONSOMMATION
+CTE2,Produits pétroliers,ktep,273,2018,Grand Est,CONSOMMATION
+CTE2,Produits pétroliers,ktep,267,2019,Grand Est,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2014,Grand Est,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2015,Grand Est,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2016,Grand Est,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2017,Grand Est,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2018,Grand Est,CONSOMMATION
+CTE3,Gaz naturel (unité propre),GWh PCS,"",2019,Grand Est,CONSOMMATION
+CTE4,Gaz naturel,ktep,666,2014,Grand Est,CONSOMMATION
+CTE4,Gaz naturel,ktep,694,2015,Grand Est,CONSOMMATION
+CTE4,Gaz naturel,ktep,711,2016,Grand Est,CONSOMMATION
+CTE4,Gaz naturel,ktep,720,2017,Grand Est,CONSOMMATION
+CTE4,Gaz naturel,ktep,657,2018,Grand Est,CONSOMMATION
+CTE4,Gaz naturel,ktep,688,2019,Grand Est,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2014,Grand Est,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2015,Grand Est,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2016,Grand Est,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2017,Grand Est,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2018,Grand Est,CONSOMMATION
+CTE5,Électricité (unité propre),GWh,"",2019,Grand Est,CONSOMMATION
+CTE6,Électricité,ktep,969,2014,Grand Est,CONSOMMATION
+CTE6,Électricité,ktep,990,2015,Grand Est,CONSOMMATION
+CTE6,Électricité,ktep,905,2016,Grand Est,CONSOMMATION
+CTE6,Électricité,ktep,878,2017,Grand Est,CONSOMMATION
+CTE6,Électricité,ktep,875,2018,Grand Est,CONSOMMATION
+CTE6,Électricité,ktep,858,2019,Grand Est,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,64,2014,Grand Est,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,52,2015,Grand Est,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,52,2016,Grand Est,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,64,2017,Grand Est,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,61,2018,Grand Est,CONSOMMATION
+CTE7,Energies renouvelables & déchets (hors PAC et biocarburants),ktep,65,2019,Grand Est,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,72,2014,Grand Est,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,75,2015,Grand Est,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,82,2016,Grand Est,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,97,2017,Grand Est,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,89,2018,Grand Est,CONSOMMATION
+CTE8,Chaleur commercialisée,ktep,99,2019,Grand Est,CONSOMMATION
+CTR1,Transport,ktep,4051,2014,Grand Est,CONSOMMATION
+CTR1,Transport,ktep,4092,2015,Grand Est,CONSOMMATION
+CTR1,Transport,ktep,4039,2016,Grand Est,CONSOMMATION
+CTR1,Transport,ktep,4044,2017,Grand Est,CONSOMMATION
+CTR1,Transport,ktep,3830,2018,Grand Est,CONSOMMATION
+CTR1,Transport,ktep,3718,2019,Grand Est,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,768,2014,Grand Est,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,754,2015,Grand Est,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,698,2016,Grand Est,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,730,2017,Grand Est,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,715,2018,Grand Est,CONSOMMATION
+CTR10,Électricité (unité propre),GWh,696,2019,Grand Est,CONSOMMATION
+CTR11,Électricité,ktep,66,2014,Grand Est,CONSOMMATION
+CTR11,Électricité,ktep,65,2015,Grand Est,CONSOMMATION
+CTR11,Électricité,ktep,60,2016,Grand Est,CONSOMMATION
+CTR11,Électricité,ktep,63,2017,Grand Est,CONSOMMATION
+CTR11,Électricité,ktep,61,2018,Grand Est,CONSOMMATION
+CTR11,Électricité,ktep,60,2019,Grand Est,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2014,Grand Est,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2015,Grand Est,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2016,Grand Est,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2017,Grand Est,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2018,Grand Est,CONSOMMATION
+CTR2,Produits pétroliers (hors biocarburants),ktep,"",2019,Grand Est,CONSOMMATION
+CTR3,Biocarburants,ktep,265,2014,Grand Est,CONSOMMATION
+CTR3,Biocarburants,ktep,268,2015,Grand Est,CONSOMMATION
+CTR3,Biocarburants,ktep,264,2016,Grand Est,CONSOMMATION
+CTR3,Biocarburants,ktep,274,2017,Grand Est,CONSOMMATION
+CTR3,Biocarburants,ktep,265,2018,Grand Est,CONSOMMATION
+CTR3,Biocarburants,ktep,262,2019,Grand Est,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,583,2014,Grand Est,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,592,2015,Grand Est,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,606,2016,Grand Est,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,624,2017,Grand Est,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,635,2018,Grand Est,CONSOMMATION
+CTR4,Supercarburants (livraisons) (yc biocarburants),ktep,670,2019,Grand Est,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2014,Grand Est,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2015,Grand Est,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2016,Grand Est,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2017,Grand Est,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2018,Grand Est,CONSOMMATION
+CTR5,Gazole routier (livraisons) (yc biocarburants),ktep,"",2019,Grand Est,CONSOMMATION
+CTR6,Biocarburants essence,ktep,33,2014,Grand Est,CONSOMMATION
+CTR6,Biocarburants essence,ktep,35,2015,Grand Est,CONSOMMATION
+CTR6,Biocarburants essence,ktep,38,2016,Grand Est,CONSOMMATION
+CTR6,Biocarburants essence,ktep,42,2017,Grand Est,CONSOMMATION
+CTR6,Biocarburants essence,ktep,45,2018,Grand Est,CONSOMMATION
+CTR6,Biocarburants essence,ktep,49,2019,Grand Est,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,232,2014,Grand Est,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,234,2015,Grand Est,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,225,2016,Grand Est,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,230,2017,Grand Est,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,218,2018,Grand Est,CONSOMMATION
+CTR7,Biocarburants gazole,ktep,211,2019,Grand Est,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,143,2014,Grand Est,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,140,2015,Grand Est,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,130,2016,Grand Est,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,129,2017,Grand Est,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,131,2018,Grand Est,CONSOMMATION
+CTR8,Gaz naturel (unité propre),GWh PCS,132,2019,Grand Est,CONSOMMATION
+CTR9,Gaz naturel,ktep,11,2014,Grand Est,CONSOMMATION
+CTR9,Gaz naturel,ktep,11,2015,Grand Est,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2016,Grand Est,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2017,Grand Est,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2018,Grand Est,CONSOMMATION
+CTR9,Gaz naturel,ktep,10,2019,Grand Est,CONSOMMATION

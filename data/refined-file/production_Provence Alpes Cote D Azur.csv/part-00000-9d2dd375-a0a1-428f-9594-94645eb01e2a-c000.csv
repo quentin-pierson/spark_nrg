@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,16290,2014,Provence Alpes Cote D Azur,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,17002,2015,Provence Alpes Cote D Azur,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,21100,2016,Provence Alpes Cote D Azur,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,20464,2017,Provence Alpes Cote D Azur,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,20167,2018,Provence Alpes Cote D Azur,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,20148,2019,Provence Alpes Cote D Azur,PRODUCTION
+E10,- Gaz naturel,GWh,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E10,- Gaz naturel,GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E10,- Gaz naturel,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E10,- Gaz naturel,GWh,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E10,- Gaz naturel,GWh,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E10,- Gaz naturel,GWh,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E11,- Pétrole,GWh,479,2014,Provence Alpes Cote D Azur,PRODUCTION
+E11,- Pétrole,GWh,280,2015,Provence Alpes Cote D Azur,PRODUCTION
+E11,- Pétrole,GWh,307,2016,Provence Alpes Cote D Azur,PRODUCTION
+E11,- Pétrole,GWh,265,2017,Provence Alpes Cote D Azur,PRODUCTION
+E11,- Pétrole,GWh,258,2018,Provence Alpes Cote D Azur,PRODUCTION
+E11,- Pétrole,GWh,149,2019,Provence Alpes Cote D Azur,PRODUCTION
+E12,- Charbon,GWh,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E12,- Charbon,GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E12,- Charbon,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E12,- Charbon,GWh,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E12,- Charbon,GWh,495,2018,Provence Alpes Cote D Azur,PRODUCTION
+E12,- Charbon,GWh,315,2019,Provence Alpes Cote D Azur,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E13,- Biomasse,GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E13,- Biomasse,GWh,330,2016,Provence Alpes Cote D Azur,PRODUCTION
+E13,- Biomasse,GWh,308,2017,Provence Alpes Cote D Azur,PRODUCTION
+E13,- Biomasse,GWh,538,2018,Provence Alpes Cote D Azur,PRODUCTION
+E13,- Biomasse,GWh,363,2019,Provence Alpes Cote D Azur,PRODUCTION
+E14,- Biogaz,GWh PCI,121,2014,Provence Alpes Cote D Azur,PRODUCTION
+E14,- Biogaz,GWh PCI,126,2015,Provence Alpes Cote D Azur,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E15,- Déchets urbains,GWh,385,2014,Provence Alpes Cote D Azur,PRODUCTION
+E15,- Déchets urbains,GWh,453,2015,Provence Alpes Cote D Azur,PRODUCTION
+E15,- Déchets urbains,GWh,497,2016,Provence Alpes Cote D Azur,PRODUCTION
+E15,- Déchets urbains,GWh,528,2017,Provence Alpes Cote D Azur,PRODUCTION
+E15,- Déchets urbains,GWh,523,2018,Provence Alpes Cote D Azur,PRODUCTION
+E15,- Déchets urbains,GWh,505,2019,Provence Alpes Cote D Azur,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+E18,- Autre,GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+E18,- Autre,GWh,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+E18,- Autre,GWh,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+E18,- Autre,GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+E18,- Autre,GWh,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+E18,- Autre,GWh,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,973,2014,Provence Alpes Cote D Azur,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1461,2015,Provence Alpes Cote D Azur,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1386,2016,Provence Alpes Cote D Azur,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1440,2017,Provence Alpes Cote D Azur,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1402,2018,Provence Alpes Cote D Azur,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1557,2019,Provence Alpes Cote D Azur,PRODUCTION
+E2,Production d'électricité primaire,GWh,12268,2014,Provence Alpes Cote D Azur,PRODUCTION
+E2,Production d'électricité primaire,GWh,10357,2015,Provence Alpes Cote D Azur,PRODUCTION
+E2,Production d'électricité primaire,GWh,10718,2016,Provence Alpes Cote D Azur,PRODUCTION
+E2,Production d'électricité primaire,GWh,9678,2017,Provence Alpes Cote D Azur,PRODUCTION
+E2,Production d'électricité primaire,GWh,12774,2018,Provence Alpes Cote D Azur,PRODUCTION
+E2,Production d'électricité primaire,GWh,10983,2019,Provence Alpes Cote D Azur,PRODUCTION
+E20,- Gaz naturel,GWh,772,2014,Provence Alpes Cote D Azur,PRODUCTION
+E20,- Gaz naturel,GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E20,- Gaz naturel,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E20,- Gaz naturel,GWh,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E20,- Gaz naturel,GWh,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E20,- Gaz naturel,GWh,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E21,- Pétrole,GWh,2,2014,Provence Alpes Cote D Azur,PRODUCTION
+E21,- Pétrole,GWh,2,2015,Provence Alpes Cote D Azur,PRODUCTION
+E21,- Pétrole,GWh,5,2016,Provence Alpes Cote D Azur,PRODUCTION
+E21,- Pétrole,GWh,5,2017,Provence Alpes Cote D Azur,PRODUCTION
+E21,- Pétrole,GWh,12,2018,Provence Alpes Cote D Azur,PRODUCTION
+E21,- Pétrole,GWh,13,2019,Provence Alpes Cote D Azur,PRODUCTION
+E22,- Charbon,GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+E22,- Charbon,GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E22,- Charbon,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E22,- Charbon,GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+E22,- Charbon,GWh,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+E22,- Charbon,GWh,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+E23,- Biomasse,GWh,55,2014,Provence Alpes Cote D Azur,PRODUCTION
+E23,- Biomasse,GWh,72,2015,Provence Alpes Cote D Azur,PRODUCTION
+E23,- Biomasse,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E23,- Biomasse,GWh,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E23,- Biomasse,GWh,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E23,- Biomasse,GWh,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E24,- Biogaz,GWh PCI,52,2016,Provence Alpes Cote D Azur,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E24,- Biogaz,GWh PCI,59,2018,Provence Alpes Cote D Azur,PRODUCTION
+E24,- Biogaz,GWh PCI,51,2019,Provence Alpes Cote D Azur,PRODUCTION
+E25,- Déchets urbains,GWh,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E25,- Déchets urbains,GWh,124,2015,Provence Alpes Cote D Azur,PRODUCTION
+E25,- Déchets urbains,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E25,- Déchets urbains,GWh,182,2017,Provence Alpes Cote D Azur,PRODUCTION
+E25,- Déchets urbains,GWh,134,2018,Provence Alpes Cote D Azur,PRODUCTION
+E25,- Déchets urbains,GWh,137,2019,Provence Alpes Cote D Azur,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+E26,- Déchets industriels,GWh,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+E26,- Déchets industriels,GWh,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+E26,- Déchets industriels,GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+E26,- Déchets industriels,GWh,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E26,- Déchets industriels,GWh,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+E28,- Autre,GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+E28,- Autre,GWh,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+E28,- Autre,GWh,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+E28,- Autre,GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+E28,- Autre,GWh,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+E28,- Autre,GWh,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E6,- Éolien,GWh,106,2014,Provence Alpes Cote D Azur,PRODUCTION
+E6,- Éolien,GWh,125,2015,Provence Alpes Cote D Azur,PRODUCTION
+E6,- Éolien,GWh,109,2016,Provence Alpes Cote D Azur,PRODUCTION
+E6,- Éolien,GWh,193,2017,Provence Alpes Cote D Azur,PRODUCTION
+E6,- Éolien,GWh,230,2018,Provence Alpes Cote D Azur,PRODUCTION
+E6,- Éolien,GWh,242,2019,Provence Alpes Cote D Azur,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2014,Provence Alpes Cote D Azur,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2015,Provence Alpes Cote D Azur,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2016,Provence Alpes Cote D Azur,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2017,Provence Alpes Cote D Azur,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2018,Provence Alpes Cote D Azur,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2019,Provence Alpes Cote D Azur,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,4022,2014,Provence Alpes Cote D Azur,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,6644,2015,Provence Alpes Cote D Azur,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,10382,2016,Provence Alpes Cote D Azur,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,10787,2017,Provence Alpes Cote D Azur,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,7393,2018,Provence Alpes Cote D Azur,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,9165,2019,Provence Alpes Cote D Azur,PRODUCTION
+P1,Production de charbon,kt,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P1,Production de charbon,kt,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P1,Production de charbon,kt,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P1,Production de charbon,kt,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P1,Production de charbon,kt,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P1,Production de charbon,kt,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1055,2014,Provence Alpes Cote D Azur,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,891,2015,Provence Alpes Cote D Azur,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,922,2016,Provence Alpes Cote D Azur,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,832,2017,Provence Alpes Cote D Azur,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1098,2018,Provence Alpes Cote D Azur,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,944,2019,Provence Alpes Cote D Azur,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P13,Biométhane injecté,GWh PCI,21,2019,Provence Alpes Cote D Azur,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2019,Provence Alpes Cote D Azur,PRODUCTION
+P2,Production de pétrole,kt,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P2,Production de pétrole,kt,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P2,Production de pétrole,kt,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P2,Production de pétrole,kt,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P2,Production de pétrole,kt,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P2,Production de pétrole,kt,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,12268,2014,Provence Alpes Cote D Azur,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,10357,2015,Provence Alpes Cote D Azur,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,10718,2016,Provence Alpes Cote D Azur,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,9678,2017,Provence Alpes Cote D Azur,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,12774,2018,Provence Alpes Cote D Azur,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,10983,2019,Provence Alpes Cote D Azur,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Provence Alpes Cote D Azur,PRODUCTION
+P9,- production de pétrole,ktep,0,2014,Provence Alpes Cote D Azur,PRODUCTION
+P9,- production de pétrole,ktep,0,2015,Provence Alpes Cote D Azur,PRODUCTION
+P9,- production de pétrole,ktep,0,2016,Provence Alpes Cote D Azur,PRODUCTION
+P9,- production de pétrole,ktep,0,2017,Provence Alpes Cote D Azur,PRODUCTION
+P9,- production de pétrole,ktep,0,2018,Provence Alpes Cote D Azur,PRODUCTION
+P9,- production de pétrole,ktep,0,2019,Provence Alpes Cote D Azur,PRODUCTION

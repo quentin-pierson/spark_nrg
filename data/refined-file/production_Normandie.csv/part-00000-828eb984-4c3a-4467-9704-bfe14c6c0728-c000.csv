@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,76662,2014,Normandie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,70039,2015,Normandie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,64180,2016,Normandie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,59962,2017,Normandie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,66035,2018,Normandie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,54810,2019,Normandie,PRODUCTION
+E10,- Gaz naturel,GWh,1994,2014,Normandie,PRODUCTION
+E10,- Gaz naturel,GWh,1971,2015,Normandie,PRODUCTION
+E10,- Gaz naturel,GWh,2005,2016,Normandie,PRODUCTION
+E10,- Gaz naturel,GWh,2306,2017,Normandie,PRODUCTION
+E10,- Gaz naturel,GWh,2059,2018,Normandie,PRODUCTION
+E10,- Gaz naturel,GWh,2244,2019,Normandie,PRODUCTION
+E11,- Pétrole,GWh,198,2014,Normandie,PRODUCTION
+E11,- Pétrole,GWh,217,2015,Normandie,PRODUCTION
+E11,- Pétrole,GWh,259,2016,Normandie,PRODUCTION
+E11,- Pétrole,GWh,263,2017,Normandie,PRODUCTION
+E11,- Pétrole,GWh,218,2018,Normandie,PRODUCTION
+E11,- Pétrole,GWh,"",2019,Normandie,PRODUCTION
+E12,- Charbon,GWh,"",2014,Normandie,PRODUCTION
+E12,- Charbon,GWh,"",2015,Normandie,PRODUCTION
+E12,- Charbon,GWh,"",2016,Normandie,PRODUCTION
+E12,- Charbon,GWh,"",2017,Normandie,PRODUCTION
+E12,- Charbon,GWh,"",2018,Normandie,PRODUCTION
+E12,- Charbon,GWh,"",2019,Normandie,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Normandie,PRODUCTION
+E13,- Biomasse,GWh,"",2015,Normandie,PRODUCTION
+E13,- Biomasse,GWh,253,2016,Normandie,PRODUCTION
+E13,- Biomasse,GWh,254,2017,Normandie,PRODUCTION
+E13,- Biomasse,GWh,255,2018,Normandie,PRODUCTION
+E13,- Biomasse,GWh,221,2019,Normandie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2014,Normandie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2015,Normandie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Normandie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Normandie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Normandie,PRODUCTION
+E14,- Biogaz,GWh PCI,145,2019,Normandie,PRODUCTION
+E15,- Déchets urbains,GWh,290,2014,Normandie,PRODUCTION
+E15,- Déchets urbains,GWh,254,2015,Normandie,PRODUCTION
+E15,- Déchets urbains,GWh,194,2016,Normandie,PRODUCTION
+E15,- Déchets urbains,GWh,215,2017,Normandie,PRODUCTION
+E15,- Déchets urbains,GWh,207,2018,Normandie,PRODUCTION
+E15,- Déchets urbains,GWh,212,2019,Normandie,PRODUCTION
+E16,- Déchets industriels,GWh,0,2014,Normandie,PRODUCTION
+E16,- Déchets industriels,GWh,0,2015,Normandie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Normandie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Normandie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Normandie,PRODUCTION
+E16,- Déchets industriels,GWh,9,2019,Normandie,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Normandie,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Normandie,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Normandie,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Normandie,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Normandie,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Normandie,PRODUCTION
+E18,- Autre,GWh,"",2014,Normandie,PRODUCTION
+E18,- Autre,GWh,"",2015,Normandie,PRODUCTION
+E18,- Autre,GWh,135,2016,Normandie,PRODUCTION
+E18,- Autre,GWh,160,2017,Normandie,PRODUCTION
+E18,- Autre,GWh,134,2018,Normandie,PRODUCTION
+E18,- Autre,GWh,90,2019,Normandie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1167,2014,Normandie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1364,2015,Normandie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,2164,2016,Normandie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,2391,2017,Normandie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,2119,2018,Normandie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,2305,2019,Normandie,PRODUCTION
+E2,Production d'électricité primaire,GWh,1309,2014,Normandie,PRODUCTION
+E2,Production d'électricité primaire,GWh,1496,2015,Normandie,PRODUCTION
+E2,Production d'électricité primaire,GWh,1437,2016,Normandie,PRODUCTION
+E2,Production d'électricité primaire,GWh,1550,2017,Normandie,PRODUCTION
+E2,Production d'électricité primaire,GWh,1782,2018,Normandie,PRODUCTION
+E2,Production d'électricité primaire,GWh,2069,2019,Normandie,PRODUCTION
+E20,- Gaz naturel,GWh,524,2014,Normandie,PRODUCTION
+E20,- Gaz naturel,GWh,544,2015,Normandie,PRODUCTION
+E20,- Gaz naturel,GWh,757,2016,Normandie,PRODUCTION
+E20,- Gaz naturel,GWh,1153,2017,Normandie,PRODUCTION
+E20,- Gaz naturel,GWh,749,2018,Normandie,PRODUCTION
+E20,- Gaz naturel,GWh,993,2019,Normandie,PRODUCTION
+E21,- Pétrole,GWh,6,2014,Normandie,PRODUCTION
+E21,- Pétrole,GWh,2,2015,Normandie,PRODUCTION
+E21,- Pétrole,GWh,"",2016,Normandie,PRODUCTION
+E21,- Pétrole,GWh,"",2017,Normandie,PRODUCTION
+E21,- Pétrole,GWh,"",2018,Normandie,PRODUCTION
+E21,- Pétrole,GWh,2,2019,Normandie,PRODUCTION
+E22,- Charbon,GWh,"",2014,Normandie,PRODUCTION
+E22,- Charbon,GWh,"",2015,Normandie,PRODUCTION
+E22,- Charbon,GWh,"",2016,Normandie,PRODUCTION
+E22,- Charbon,GWh,"",2017,Normandie,PRODUCTION
+E22,- Charbon,GWh,0,2018,Normandie,PRODUCTION
+E22,- Charbon,GWh,0,2019,Normandie,PRODUCTION
+E23,- Biomasse,GWh,323,2014,Normandie,PRODUCTION
+E23,- Biomasse,GWh,420,2015,Normandie,PRODUCTION
+E23,- Biomasse,GWh,712,2016,Normandie,PRODUCTION
+E23,- Biomasse,GWh,580,2017,Normandie,PRODUCTION
+E23,- Biomasse,GWh,704,2018,Normandie,PRODUCTION
+E23,- Biomasse,GWh,734,2019,Normandie,PRODUCTION
+E24,- Biogaz,GWh PCI,29,2014,Normandie,PRODUCTION
+E24,- Biogaz,GWh PCI,33,2015,Normandie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2016,Normandie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2017,Normandie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2018,Normandie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2019,Normandie,PRODUCTION
+E25,- Déchets urbains,GWh,239,2014,Normandie,PRODUCTION
+E25,- Déchets urbains,GWh,312,2015,Normandie,PRODUCTION
+E25,- Déchets urbains,GWh,482,2016,Normandie,PRODUCTION
+E25,- Déchets urbains,GWh,460,2017,Normandie,PRODUCTION
+E25,- Déchets urbains,GWh,502,2018,Normandie,PRODUCTION
+E25,- Déchets urbains,GWh,481,2019,Normandie,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Normandie,PRODUCTION
+E26,- Déchets industriels,GWh,0,2015,Normandie,PRODUCTION
+E26,- Déchets industriels,GWh,"",2016,Normandie,PRODUCTION
+E26,- Déchets industriels,GWh,"",2017,Normandie,PRODUCTION
+E26,- Déchets industriels,GWh,"",2018,Normandie,PRODUCTION
+E26,- Déchets industriels,GWh,"",2019,Normandie,PRODUCTION
+E27,- Géothermie,GWh,0,2014,Normandie,PRODUCTION
+E27,- Géothermie,GWh,0,2015,Normandie,PRODUCTION
+E27,- Géothermie,GWh,0,2016,Normandie,PRODUCTION
+E27,- Géothermie,GWh,0,2017,Normandie,PRODUCTION
+E27,- Géothermie,GWh,0,2018,Normandie,PRODUCTION
+E27,- Géothermie,GWh,0,2019,Normandie,PRODUCTION
+E28,- Autre,GWh,"",2014,Normandie,PRODUCTION
+E28,- Autre,GWh,"",2015,Normandie,PRODUCTION
+E28,- Autre,GWh,"",2016,Normandie,PRODUCTION
+E28,- Autre,GWh,"",2017,Normandie,PRODUCTION
+E28,- Autre,GWh,0,2018,Normandie,PRODUCTION
+E28,- Autre,GWh,5,2019,Normandie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,153,2014,Normandie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,116,2015,Normandie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,130,2016,Normandie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,125,2017,Normandie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,128,2018,Normandie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,116,2019,Normandie,PRODUCTION
+E6,- Éolien,GWh,1044,2014,Normandie,PRODUCTION
+E6,- Éolien,GWh,1260,2015,Normandie,PRODUCTION
+E6,- Éolien,GWh,1182,2016,Normandie,PRODUCTION
+E6,- Éolien,GWh,1295,2017,Normandie,PRODUCTION
+E6,- Éolien,GWh,1502,2018,Normandie,PRODUCTION
+E6,- Éolien,GWh,1772,2019,Normandie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,112,2014,Normandie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,120,2015,Normandie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,124,2016,Normandie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,130,2017,Normandie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,152,2018,Normandie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,181,2019,Normandie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,72100,2014,Normandie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,64786,2015,Normandie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,57292,2016,Normandie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,53017,2017,Normandie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,60356,2018,Normandie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,49259,2019,Normandie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3253,2014,Normandie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3757,2015,Normandie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,5451,2016,Normandie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,5395,2017,Normandie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3896,2018,Normandie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,3481,2019,Normandie,PRODUCTION
+P1,Production de charbon,kt,0,2014,Normandie,PRODUCTION
+P1,Production de charbon,kt,0,2015,Normandie,PRODUCTION
+P1,Production de charbon,kt,0,2016,Normandie,PRODUCTION
+P1,Production de charbon,kt,0,2017,Normandie,PRODUCTION
+P1,Production de charbon,kt,0,2018,Normandie,PRODUCTION
+P1,Production de charbon,kt,0,2019,Normandie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Normandie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Normandie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Normandie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Normandie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Normandie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Normandie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,18786,2014,Normandie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,16881,2015,Normandie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,14928,2016,Normandie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,13814,2017,Normandie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,15726,2018,Normandie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,12835,2019,Normandie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,113,2014,Normandie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,129,2015,Normandie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,124,2016,Normandie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,133,2017,Normandie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,153,2018,Normandie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,178,2019,Normandie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Normandie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2015,Normandie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2016,Normandie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2017,Normandie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,21,2018,Normandie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,48,2019,Normandie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Normandie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Normandie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2016,Normandie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2017,Normandie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2018,Normandie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,4,2019,Normandie,PRODUCTION
+P2,Production de pétrole,kt,0,2014,Normandie,PRODUCTION
+P2,Production de pétrole,kt,0,2015,Normandie,PRODUCTION
+P2,Production de pétrole,kt,0,2016,Normandie,PRODUCTION
+P2,Production de pétrole,kt,0,2017,Normandie,PRODUCTION
+P2,Production de pétrole,kt,0,2018,Normandie,PRODUCTION
+P2,Production de pétrole,kt,0,2019,Normandie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Normandie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Normandie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Normandie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Normandie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Normandie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Normandie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,218485,2014,Normandie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,196321,2015,Normandie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,173612,2016,Normandie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,160657,2017,Normandie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,182898,2018,Normandie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,149271,2019,Normandie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1309,2014,Normandie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1496,2015,Normandie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1437,2016,Normandie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1550,2017,Normandie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,1782,2018,Normandie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,2069,2019,Normandie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2014,Normandie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2015,Normandie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2016,Normandie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2017,Normandie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2018,Normandie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,0,2019,Normandie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Normandie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Normandie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Normandie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Normandie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Normandie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Normandie,PRODUCTION
+P9,- production de pétrole,ktep,0,2014,Normandie,PRODUCTION
+P9,- production de pétrole,ktep,0,2015,Normandie,PRODUCTION
+P9,- production de pétrole,ktep,0,2016,Normandie,PRODUCTION
+P9,- production de pétrole,ktep,0,2017,Normandie,PRODUCTION
+P9,- production de pétrole,ktep,0,2018,Normandie,PRODUCTION
+P9,- production de pétrole,ktep,0,2019,Normandie,PRODUCTION

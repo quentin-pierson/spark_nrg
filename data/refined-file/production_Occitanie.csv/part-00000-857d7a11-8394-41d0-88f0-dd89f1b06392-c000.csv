@@ -1,0 +1,235 @@
+Code,Intitule,Unite,Value,Year,Region,Ressource_type
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,32325,2014,Occitanie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,34169,2015,Occitanie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,36600,2016,Occitanie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,33408,2017,Occitanie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,37556,2018,Occitanie,PRODUCTION
+E1,Production totale nette d'électricité (primaire + thermique classique+nucléaire),GWh,34253,2019,Occitanie,PRODUCTION
+E10,- Gaz naturel,GWh,226,2014,Occitanie,PRODUCTION
+E10,- Gaz naturel,GWh,222,2015,Occitanie,PRODUCTION
+E10,- Gaz naturel,GWh,229,2016,Occitanie,PRODUCTION
+E10,- Gaz naturel,GWh,251,2017,Occitanie,PRODUCTION
+E10,- Gaz naturel,GWh,308,2018,Occitanie,PRODUCTION
+E10,- Gaz naturel,GWh,318,2019,Occitanie,PRODUCTION
+E11,- Pétrole,GWh,7,2014,Occitanie,PRODUCTION
+E11,- Pétrole,GWh,"",2015,Occitanie,PRODUCTION
+E11,- Pétrole,GWh,"",2016,Occitanie,PRODUCTION
+E11,- Pétrole,GWh,3,2017,Occitanie,PRODUCTION
+E11,- Pétrole,GWh,4,2018,Occitanie,PRODUCTION
+E11,- Pétrole,GWh,2,2019,Occitanie,PRODUCTION
+E12,- Charbon,GWh,0,2014,Occitanie,PRODUCTION
+E12,- Charbon,GWh,0,2015,Occitanie,PRODUCTION
+E12,- Charbon,GWh,0,2016,Occitanie,PRODUCTION
+E12,- Charbon,GWh,0,2017,Occitanie,PRODUCTION
+E12,- Charbon,GWh,0,2018,Occitanie,PRODUCTION
+E12,- Charbon,GWh,0,2019,Occitanie,PRODUCTION
+E13,- Biomasse,GWh,"",2014,Occitanie,PRODUCTION
+E13,- Biomasse,GWh,303,2015,Occitanie,PRODUCTION
+E13,- Biomasse,GWh,346,2016,Occitanie,PRODUCTION
+E13,- Biomasse,GWh,331,2017,Occitanie,PRODUCTION
+E13,- Biomasse,GWh,293,2018,Occitanie,PRODUCTION
+E13,- Biomasse,GWh,289,2019,Occitanie,PRODUCTION
+E14,- Biogaz,GWh PCI,131,2014,Occitanie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2015,Occitanie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2016,Occitanie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2017,Occitanie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2018,Occitanie,PRODUCTION
+E14,- Biogaz,GWh PCI,"",2019,Occitanie,PRODUCTION
+E15,- Déchets urbains,GWh,331,2014,Occitanie,PRODUCTION
+E15,- Déchets urbains,GWh,360,2015,Occitanie,PRODUCTION
+E15,- Déchets urbains,GWh,364,2016,Occitanie,PRODUCTION
+E15,- Déchets urbains,GWh,361,2017,Occitanie,PRODUCTION
+E15,- Déchets urbains,GWh,341,2018,Occitanie,PRODUCTION
+E15,- Déchets urbains,GWh,364,2019,Occitanie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2014,Occitanie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2015,Occitanie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2016,Occitanie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2017,Occitanie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2018,Occitanie,PRODUCTION
+E16,- Déchets industriels,GWh,"",2019,Occitanie,PRODUCTION
+E17,- Géothermie,GWh,0,2014,Occitanie,PRODUCTION
+E17,- Géothermie,GWh,0,2015,Occitanie,PRODUCTION
+E17,- Géothermie,GWh,0,2016,Occitanie,PRODUCTION
+E17,- Géothermie,GWh,0,2017,Occitanie,PRODUCTION
+E17,- Géothermie,GWh,0,2018,Occitanie,PRODUCTION
+E17,- Géothermie,GWh,0,2019,Occitanie,PRODUCTION
+E18,- Autre,GWh,0,2014,Occitanie,PRODUCTION
+E18,- Autre,GWh,0,2015,Occitanie,PRODUCTION
+E18,- Autre,GWh,0,2016,Occitanie,PRODUCTION
+E18,- Autre,GWh,0,2017,Occitanie,PRODUCTION
+E18,- Autre,GWh,0,2018,Occitanie,PRODUCTION
+E18,- Autre,GWh,"",2019,Occitanie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,811,2014,Occitanie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,880,2015,Occitanie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,914,2016,Occitanie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1007,2017,Occitanie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1062,2018,Occitanie,PRODUCTION
+E19,Production de chaleur commercialisée,GWh,1159,2019,Occitanie,PRODUCTION
+E2,Production d'électricité primaire,GWh,16404,2014,Occitanie,PRODUCTION
+E2,Production d'électricité primaire,GWh,14342,2015,Occitanie,PRODUCTION
+E2,Production d'électricité primaire,GWh,15613,2016,Occitanie,PRODUCTION
+E2,Production d'électricité primaire,GWh,14518,2017,Occitanie,PRODUCTION
+E2,Production d'électricité primaire,GWh,19257,2018,Occitanie,PRODUCTION
+E2,Production d'électricité primaire,GWh,16116,2019,Occitanie,PRODUCTION
+E20,- Gaz naturel,GWh,448,2014,Occitanie,PRODUCTION
+E20,- Gaz naturel,GWh,387,2015,Occitanie,PRODUCTION
+E20,- Gaz naturel,GWh,339,2016,Occitanie,PRODUCTION
+E20,- Gaz naturel,GWh,446,2017,Occitanie,PRODUCTION
+E20,- Gaz naturel,GWh,434,2018,Occitanie,PRODUCTION
+E20,- Gaz naturel,GWh,462,2019,Occitanie,PRODUCTION
+E21,- Pétrole,GWh,0,2014,Occitanie,PRODUCTION
+E21,- Pétrole,GWh,4,2015,Occitanie,PRODUCTION
+E21,- Pétrole,GWh,5,2016,Occitanie,PRODUCTION
+E21,- Pétrole,GWh,3,2017,Occitanie,PRODUCTION
+E21,- Pétrole,GWh,2,2018,Occitanie,PRODUCTION
+E21,- Pétrole,GWh,2,2019,Occitanie,PRODUCTION
+E22,- Charbon,GWh,"",2014,Occitanie,PRODUCTION
+E22,- Charbon,GWh,"",2015,Occitanie,PRODUCTION
+E22,- Charbon,GWh,0,2016,Occitanie,PRODUCTION
+E22,- Charbon,GWh,0,2017,Occitanie,PRODUCTION
+E22,- Charbon,GWh,0,2018,Occitanie,PRODUCTION
+E22,- Charbon,GWh,"",2019,Occitanie,PRODUCTION
+E23,- Biomasse,GWh,137,2014,Occitanie,PRODUCTION
+E23,- Biomasse,GWh,198,2015,Occitanie,PRODUCTION
+E23,- Biomasse,GWh,243,2016,Occitanie,PRODUCTION
+E23,- Biomasse,GWh,272,2017,Occitanie,PRODUCTION
+E23,- Biomasse,GWh,280,2018,Occitanie,PRODUCTION
+E23,- Biomasse,GWh,324,2019,Occitanie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2014,Occitanie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2015,Occitanie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2016,Occitanie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2017,Occitanie,PRODUCTION
+E24,- Biogaz,GWh PCI,"",2018,Occitanie,PRODUCTION
+E24,- Biogaz,GWh PCI,21,2019,Occitanie,PRODUCTION
+E25,- Déchets urbains,GWh,207,2014,Occitanie,PRODUCTION
+E25,- Déchets urbains,GWh,277,2015,Occitanie,PRODUCTION
+E25,- Déchets urbains,GWh,317,2016,Occitanie,PRODUCTION
+E25,- Déchets urbains,GWh,264,2017,Occitanie,PRODUCTION
+E25,- Déchets urbains,GWh,317,2018,Occitanie,PRODUCTION
+E25,- Déchets urbains,GWh,341,2019,Occitanie,PRODUCTION
+E26,- Déchets industriels,GWh,0,2014,Occitanie,PRODUCTION
+E26,- Déchets industriels,GWh,0,2015,Occitanie,PRODUCTION
+E26,- Déchets industriels,GWh,0,2016,Occitanie,PRODUCTION
+E26,- Déchets industriels,GWh,0,2017,Occitanie,PRODUCTION
+E26,- Déchets industriels,GWh,0,2018,Occitanie,PRODUCTION
+E26,- Déchets industriels,GWh,"",2019,Occitanie,PRODUCTION
+E27,- Géothermie,GWh,"",2014,Occitanie,PRODUCTION
+E27,- Géothermie,GWh,"",2015,Occitanie,PRODUCTION
+E27,- Géothermie,GWh,"",2016,Occitanie,PRODUCTION
+E27,- Géothermie,GWh,"",2017,Occitanie,PRODUCTION
+E27,- Géothermie,GWh,"",2018,Occitanie,PRODUCTION
+E27,- Géothermie,GWh,"",2019,Occitanie,PRODUCTION
+E28,- Autre,GWh,0,2014,Occitanie,PRODUCTION
+E28,- Autre,GWh,"",2015,Occitanie,PRODUCTION
+E28,- Autre,GWh,"",2016,Occitanie,PRODUCTION
+E28,- Autre,GWh,5,2017,Occitanie,PRODUCTION
+E28,- Autre,GWh,3,2018,Occitanie,PRODUCTION
+E28,- Autre,GWh,4,2019,Occitanie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2014,Occitanie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2015,Occitanie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2016,Occitanie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2017,Occitanie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2018,Occitanie,PRODUCTION
+E4,- Hydraulique (yc pompage),GWh,"",2019,Occitanie,PRODUCTION
+E6,- Éolien,GWh,"",2014,Occitanie,PRODUCTION
+E6,- Éolien,GWh,"",2015,Occitanie,PRODUCTION
+E6,- Éolien,GWh,"",2016,Occitanie,PRODUCTION
+E6,- Éolien,GWh,"",2017,Occitanie,PRODUCTION
+E6,- Éolien,GWh,"",2018,Occitanie,PRODUCTION
+E6,- Éolien,GWh,"",2019,Occitanie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2014,Occitanie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2015,Occitanie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2016,Occitanie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2017,Occitanie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2018,Occitanie,PRODUCTION
+E7,- Solaire photovoltaïque **,GWh,"",2019,Occitanie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2014,Occitanie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2015,Occitanie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2016,Occitanie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2017,Occitanie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2018,Occitanie,PRODUCTION
+E8,Production d'électricité nucléaire,GWh,"",2019,Occitanie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,990,2014,Occitanie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1077,2015,Occitanie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1184,2016,Occitanie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1122,2017,Occitanie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1145,2018,Occitanie,PRODUCTION
+E9,Production nette d'électricité des centrales thermiques classiques,GWh,1186,2019,Occitanie,PRODUCTION
+P1,Production de charbon,kt,0,2014,Occitanie,PRODUCTION
+P1,Production de charbon,kt,0,2015,Occitanie,PRODUCTION
+P1,Production de charbon,kt,0,2016,Occitanie,PRODUCTION
+P1,Production de charbon,kt,0,2017,Occitanie,PRODUCTION
+P1,Production de charbon,kt,0,2018,Occitanie,PRODUCTION
+P1,Production de charbon,kt,0,2019,Occitanie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2014,Occitanie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2015,Occitanie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2016,Occitanie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2017,Occitanie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2018,Occitanie,PRODUCTION
+P10,"- production de gaz naturel et grisou (P3*(3,6*0,9/41,868))",ktep,0,2019,Occitanie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,3890,2014,Occitanie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,4886,2015,Occitanie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,5160,2016,Occitanie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,4630,2017,Occitanie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,4470,2018,Occitanie,PRODUCTION
+P11,"Chaleur nucléaire (P4*(3,6/41,868))",ktep,4417,2019,Occitanie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1411,2014,Occitanie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1233,2015,Occitanie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1342,2016,Occitanie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1248,2017,Occitanie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1656,2018,Occitanie,PRODUCTION
+P12,"Énergies renouvelables électriques (P5*(3,6/41,868))",ktep,1386,2019,Occitanie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2014,Occitanie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2015,Occitanie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2016,Occitanie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,0,2017,Occitanie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,7,2018,Occitanie,PRODUCTION
+P13,Biométhane injecté,GWh PCI,19,2019,Occitanie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2014,Occitanie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2015,Occitanie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2016,Occitanie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,0,2017,Occitanie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,1,2018,Occitanie,PRODUCTION
+P14,"Biométhane injecté (P13 * (3,6/41,868))",ktep,2,2019,Occitanie,PRODUCTION
+P2,Production de pétrole,kt,"",2014,Occitanie,PRODUCTION
+P2,Production de pétrole,kt,"",2015,Occitanie,PRODUCTION
+P2,Production de pétrole,kt,"",2016,Occitanie,PRODUCTION
+P2,Production de pétrole,kt,"",2017,Occitanie,PRODUCTION
+P2,Production de pétrole,kt,"",2018,Occitanie,PRODUCTION
+P2,Production de pétrole,kt,"",2019,Occitanie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2014,Occitanie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2015,Occitanie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2016,Occitanie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2017,Occitanie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2018,Occitanie,PRODUCTION
+P3,Production de gaz naturel et grisou,GWh PCS,0,2019,Occitanie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,45244,2014,Occitanie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,56819,2015,Occitanie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,60008,2016,Occitanie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,53844,2017,Occitanie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,51985,2018,Occitanie,PRODUCTION
+P4,"Chaleur nucléaire (E8/0,33)",GWh,51368,2019,Occitanie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,16404,2014,Occitanie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,14342,2015,Occitanie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,15613,2016,Occitanie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,14518,2017,Occitanie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,19257,2018,Occitanie,PRODUCTION
+P5,Énergies renouvelables électriques (E4+E6+E7),GWh,16116,2019,Occitanie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2014,Occitanie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2015,Occitanie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2016,Occitanie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2017,Occitanie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2018,Occitanie,PRODUCTION
+P7,Production totale d'énergies fossiles (P8+P9+P10),ktep,"",2019,Occitanie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2014,Occitanie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2015,Occitanie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2016,Occitanie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2017,Occitanie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2018,Occitanie,PRODUCTION
+P8,"- production de charbon (P1*0,619)",ktep,0,2019,Occitanie,PRODUCTION
+P9,- production de pétrole,ktep,"",2014,Occitanie,PRODUCTION
+P9,- production de pétrole,ktep,"",2015,Occitanie,PRODUCTION
+P9,- production de pétrole,ktep,"",2016,Occitanie,PRODUCTION
+P9,- production de pétrole,ktep,"",2017,Occitanie,PRODUCTION
+P9,- production de pétrole,ktep,"",2018,Occitanie,PRODUCTION
+P9,- production de pétrole,ktep,"",2019,Occitanie,PRODUCTION
