@@ -1,5 +1,5 @@
 findspark
 pyspark
 streamlit
-nympy
+numpy
 plotly

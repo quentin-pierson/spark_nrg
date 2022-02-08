@@ -13,6 +13,9 @@ services:
       MYSQL_PASSWORD: user
       MYSQL_DATABASE: spark_nrg
 
+    ports:
+      - 3306:3306
+
     volumes:
       - "./sql/init:/docker-entrypoint-initdb.d"
 
