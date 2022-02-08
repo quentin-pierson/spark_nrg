@@ -89,11 +89,13 @@ object TransformData extends App {
                           dataset_name : String,
                           list_production : List[String]): sql.DataFrame = {
     val df = TreatmentData(dataframe, dataset_name, list_production, "PRODUCTION")
+
     df.coalesce(1)
       .write
+      .format("csv")
       .mode(SaveMode.Overwrite)
       .option("header",true)
-      .csv(s"../data/refined-file/production_${dataset_name}.csv")
+      .save(s"../data/refined-file/production_${dataset_name}.csv")
     df
   }
 
@@ -101,11 +103,13 @@ object TransformData extends App {
                             dataset_name : String,
                             list_consomation : List[String]): sql.DataFrame = {
     val df = TreatmentData(dataframe, dataset_name, list_consomation, "CONSOMMATION")
+
     df.coalesce(1)
       .write
+      .format("csv")
       .mode(SaveMode.Overwrite)
       .option("header",true)
-      .csv(s"../data/refined-file/consommation_${dataset_name}.csv")
+      .save(s"../data/refined-file/consommation_${dataset_name}.csv")
     df
   }
 
